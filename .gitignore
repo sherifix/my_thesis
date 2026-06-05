@@ -15,6 +15,7 @@ __pycache__/
 data/
 results/
 logs/
+output_files/
 
 # IDE
 .vscode/

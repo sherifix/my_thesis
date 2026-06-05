@@ -26,7 +26,8 @@ rule all:
         expand("data/trimmed/{family}_trimmed.faa", family=VALID_FAMILIES),
         "data/raw/.hmm_profiles_built_complete",
         "data/raw/.hmmsearch_complete",
-        "data/raw/.hmmsearch_parsing_complete"
+        "data/raw/.hmmsearch_parsing_complete",
+        "data/raw/.filtering_hmmsearch_complete"
 
 
 rule download_cazy_data:
@@ -204,4 +205,16 @@ rule hmmsearch_parsing:
     shell:
         """
         python scripts/hmmsearch_results_parser.py 2> {log}
+        """
+
+rule filter_overlapping_domains:
+    input:
+        "data/raw/.hmmsearch_parsing_complete"
+    output:
+        touch("data/raw/.filtering_hmmsearch_complete")
+    log:
+        "logs/filter_hmmsearch_results.log"
+    shell:
+        """
+        python scripts/filtering_overlapping_domains.py 2> {log}
         """
