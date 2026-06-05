@@ -27,7 +27,9 @@ rule all:
         "data/raw/.hmm_profiles_built_complete",
         "data/raw/.hmmsearch_complete",
         "data/raw/.hmmsearch_parsing_complete",
-        "data/raw/.filtering_hmmsearch_complete"
+        "data/raw/.filtering_hmmsearch_complete",
+        "data/raw/.thermostability_predicted",
+        "data/raw/.signalp_prediction"
 
 
 rule download_cazy_data:
@@ -217,4 +219,28 @@ rule filter_overlapping_domains:
     shell:
         """
         python scripts/filtering_overlapping_domains.py 2> {log}
+        """
+
+rule thermoprot_prediction:
+    input:
+        "data/raw/.filtering_hmmsearch_complete"
+    output:
+        touch("data/raw/.thermostability_predicted")
+    log:
+        "logs/thermoprot_prediction.log"
+    shell:
+        """
+        bash scripts/thermoprot.sh 2> {log}
+        """
+
+rule signalp_prediction:
+    input:
+        "data/raw/.thermostability_predicted"
+    output:
+        touch("data/raw/.signalp_prediction")
+    log:
+        "logs/signalp_prediction.log"
+    shell:
+        """
+        bash scripts/signalp.sh 2> {log}
         """

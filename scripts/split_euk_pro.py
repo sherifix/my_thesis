@@ -22,4 +22,6 @@ with open("./data/fasta_files/eukaryotic.faa", "w") as out_fh:
     for record in SeqIO.parse("./data/fasta_files/filtered_hmmsearch.faa", "fasta"):
         if record.description.split(' ')[0] in target_euk:
             SeqIO.write(record, out_fh, "fasta")
-            
+
+print(f"Prokaryotic sequences: {len(target_pro)} || sequences saved in data/fasta_files/prokaryotic.faa")
+print(f"Eukaryotic sequences: {len(target_euk)} || sequences saved in data/fasta_files/eukaryotic.faa")

@@ -4,6 +4,7 @@ import subprocess
 from Bio import SeqIO
 import os
 from pathlib import Path
+import time
 
 # Get current working directory (snakefile location)
 BASE_DIR = os.getcwd()
@@ -15,6 +16,29 @@ fasta_output_dir = os.path.join(BASE_DIR, "data/fasta_files")
 
 os.makedirs(output_dir, exist_ok=True)
 os.makedirs(fasta_output_dir, exist_ok=True)
+
+def get_taxid_from_accession(accession):
+    """Fetch taxID from GenBank accession using efetch"""
+    try:
+        cmd = subprocess.run(
+            f'efetch -db protein -id {accession} -format docsum | xtract -pattern DocumentSummary -element TaxId',
+            shell=True, capture_output=True, text=True, check=True
+        )
+        taxid = cmd.stdout.strip()
+        return taxid if taxid else None
+    except:
+        return None
+
+def get_domain_from_taxid(taxid):
+    """Get domain (Bacteria, Archaea, Eukaryota) from taxID"""
+    try:
+        cmd = subprocess.run(
+            f'efetch -db taxonomy -id {taxid} -mode xml | xtract -pattern LineageEx -block Taxon -if Rank -equals domain -element ScientificName',
+            shell=True, capture_output=True, text=True, check=True
+        )
+        return cmd.stdout.strip()
+    except:
+        return "unknown"
 
 # Read the CSV
 df = pd.read_csv(input_csv)
@@ -43,52 +67,47 @@ for acc, sub in df.groupby("accession", sort=False):
 
 df_filtered = pd.DataFrame(kept_rows).drop(columns=["start", "end"])
 
-
-#keep only domain length > 100 aa
+# Keep only domain length > 100 aa
 df_filtered = df_filtered[df_filtered['domain_len'] > 100]
 
+# Get domain for each unique accession
+accessions = df_filtered["accession"].dropna().unique()
+print(f"Getting domains for {len(accessions)} unique accessions...")
 
-# Get domain for entries (bacteria, archaea, eukaryote)
-def get_domain(taxid):
-    try:
-        cmd = subprocess.run(
-            f'efetch -db taxonomy -id {taxid} -mode xml | xtract -pattern LineageEx -block Taxon -if Rank -equals domain -element ScientificName',
-            shell=True, capture_output=True, text=True, check=True
-        )
-        return cmd.stdout.strip()
-    except:
-        return "unknown"
+domain_mapping = {}
+for i, acc in enumerate(accessions):
+    print(f"  Processing {i+1}/{len(accessions)}: {acc}")
+    taxid = get_taxid_from_accession(acc)
+    if taxid:
+        domain = get_domain_from_taxid(taxid)
+        domain_mapping[acc] = domain
+        print(f" ===== taxID: {taxid}, domain: {domain}")
+    else:
+        domain_mapping[acc] = "unknown"
+        print(f" =====!! Could not fetch taxID, domain: unknown")
+    time.sleep(0.5)
 
-# Get domain for only unique taxIDs
-if "taxID" in df_filtered.columns:
-    taxids = df_filtered["taxID"].dropna().tolist()
-    unique_taxids = set(taxids)
+df_filtered["domain"] = df_filtered["accession"].map(domain_mapping)
 
-    domain_mapping = {}
-    for taxid in unique_taxids:
-        domain_mapping[str(int(float(taxid)))] = get_domain(int(float(taxid)))
-    df_filtered["domain"] = df_filtered["taxID"].astype(str).map(domain_mapping)
 
-# Save filtered CSV
 output_csv = os.path.join(output_dir, "filtered_hmmsearch_results.csv")
 df_filtered.to_csv(output_csv, index=False)
 print(f"Saved filtered results to {output_csv}")
 
-# Prepare fasta file with sequences of the filtered accessions
-accessions = set(df_filtered["accession"].tolist())
+#prepare fasta file with sequences of the filtered accessions
+accessions_set = set(df_filtered["accession"].tolist())
 
 output_fasta = os.path.join(fasta_output_dir, "filtered_hmmsearch.faa")
 
-# Look for proteome files in data/proteomes (both .faa and .fasta)
+#Look for proteome files in data/proteomes (both .faa and .fasta)
 proteomes_dir = os.path.join(BASE_DIR, "data/proteomes")
 if os.path.exists(proteomes_dir):
     with open(output_fasta, "w") as f:
-        # Find both .faa and .fasta files
         for ext in ["*.faa", "*.fasta"]:
             for fasta_file in Path(proteomes_dir).rglob(ext):
                 print(f"Scanning {fasta_file.name}...")
                 for record in SeqIO.parse(fasta_file, "fasta"):
-                    if record.id in accessions:
+                    if record.id in accessions_set:
                         SeqIO.write(record, f, "fasta")
 
     print(f"Extracted sequences to {output_fasta}")
