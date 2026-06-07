@@ -43,7 +43,9 @@ rule all:
         "data/raw/.ligand_prepared_complete",
         "data/raw/.receptors_prepared_complete",
         "data/raw/.docking_complete",
-        "output_files/vina_summary.csv"
+        "output_files/vina_summary.csv",
+        "data/fasta_files/docked_hits.faa",
+        "output_files/opt_ph_prediction.csv"
 
 
 rule download_cazy_data:
@@ -421,4 +423,30 @@ rule parse_vina_results:
     shell:
         """
         python scripts/parse_vina_results.py 2> {log}
+        """
+
+
+rule prepare_docked_fasta:
+    input:
+        "output_files/vina_summary.csv",
+        "data/fasta_files/filtered_hmmsearch.faa"
+    output:
+        "data/fasta_files/docked_hits.faa"
+    log:
+        "logs/prepare_docked_fasta.log"
+    shell:
+        """
+        python scripts/prepare_docked_fasta.py 2> {log}
+        """
+
+rule run_ephod:
+    input:
+        "data/fasta_files/docked_hits.faa"
+    output:
+        "output_files/opt_ph_prediction.csv"
+    log:
+        "logs/run_ephod.log"
+    shell:
+        """
+        bash scripts/run_ephod.sh 2> {log}
         """
