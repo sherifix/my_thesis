@@ -1,7 +1,8 @@
 
 # Cel_screening
 
-**Pipeline for screening thermostable cellulases from GH family sequences**
+**Pipeline for screening thermostable cellulases from GH family sequences**.
+
 This pipeline was developed as a part of master thesis
 
 ## Overview
@@ -12,7 +13,7 @@ potential thermostable cellulases through:
 - HMM profiling and domain annotation
 - Thermostability prediction (ThermoProt)
 - Signal peptide prediction (SignalP6)
-- Structure prediction and analysis (AlphaFold, US-align)
+- Structure prediction and analysis (AlphaFold DB, US-align)
 - Pocket prediction (P2Rank)
 - Molecular docking (AutoDock VINA)
 
@@ -37,7 +38,7 @@ used for construction of HMMER profiles.
 
 ```bash
 cd 
-git clone https://github.com/sherifix/cel_screening.git
+git clone https://github.com/sherifix/cel_screening
 cd cel_screening
 ```
 
@@ -84,8 +85,9 @@ change the --mode parameter in scripts/signalp.sh
 
 1. Proteomes to be screened by the pipeline 
 
-format should be .faa or .fasta 
-the proteomes directory should be located in data/proteomes
+format should be .faa or .fasta.
+
+The proteomes directory should be located in data/proteomes
 
 ```bash
 cd ~/cel_screening
@@ -104,7 +106,7 @@ specified by the user. A GH_families.txt file shall be created with the desired 
 (one family per line). Subfamily level can be used. The GH_families.txt should be located
  inside data/ directory. 
 
-==Example of the GH_families.txt==
+<mark>Example of the GH_families.txt</mark>
 
 GH5_1
 GH7
