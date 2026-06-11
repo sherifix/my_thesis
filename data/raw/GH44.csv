@@ -1,0 +1,12 @@
+Unnamed: 0,Organism,GH_family,EC_number,GenBank_accession,UniProt_accession,PDB
+0,acetivibrio thermocellus f1,GH44,3.2.1.4,BAA12070.1,A3DD30,"2D8G[nd], 2E0P[A], 2E4T[A], 2EEX[A], 2EJ1[A], 2EO7[A], 2EQD[A]"
+1,caldicellulosiruptor bescii dsm 6725,GH44,3.2.1.4,ACM60947.1,B9MKT9,
+2,caldicellulosiruptor morganii dsm 8990,GH44,3.2.1.4,WAM33659.1,A0ABY7BM55,
+3,caldicellulosiruptor morganii dsm 8990,GH44,3.2.1.4,WAM34557.1,A0ABY7BP09,
+4,caldicellulosiruptor saccharolyticus,GH44,3.2.1.4,AAA71887.1,P22533,
+5,clostridium acetobutylicum atcc 824,GH44,3.2.1.4,AAK78891.1,Q977Y3,3IK2[A]
+6,clostridium saccharoperbutylacetonicum n1-4(hmt),GH44,3.2.1.4,AGF55632.1,M1MVU0,
+7,paenibacillus lautus pl236,GH44,3.2.1.4,AAA22303.1,P29719,
+8,paenibacillus polymyxa gs01,GH44,3.2.1.4,AAW12876.1,Q1A2D0,"2YIH[A], 2YJQ[A,B], 2YKK[A], 3ZQ9[A]"
+9,ruminococcus flavefaciens 17,GH44,3.2.1.4,CAC83072.1,Q934F9,
+10,ruminococcus flavefaciens fd-1,GH44,3.2.1.4,WP_009985075.1,Q52743,

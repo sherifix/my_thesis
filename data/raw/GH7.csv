@@ -1,0 +1,83 @@
+Unnamed: 0,Organism,GH_family,EC_number,GenBank_accession,UniProt_accession,PDB
+0,agroathelia rolfsii,GH7,3.2.1.176,BAC81967.1,Q76G53,
+1,aspergillus fischeri nrrl 181,GH7,3.2.1.176,EAW16381.1,A1DNL0,
+2,aspergillus fumigatus af293,GH7,3.2.1.4,EAL85859.1,Q4WCM9,
+3,aspergillus nidulans,GH7,3.2.1.176,AAM54070.1,Q8NK02,
+4,aspergillus nidulans fgsc a4,GH7,3.2.1.176,EAA66593.1,Q8NK02,
+5,aspergillus nidulans fgsc a4,GH7,3.2.1.4,EAA63386.1,C8VHK3,
+6,aspergillus niger cbs 513.88,GH7,3.2.1.176,AAF04492.1,A2QAI7,
+7,aspergillus niger cbs 513.88,GH7,3.2.1.176,AAF04491.1,A2QPG2,
+8,aspergillus oryzae kbn616,GH7,3.2.1.4,BAA22589.1,F5BB84,
+9,bipolaris sorokiniana nd90pr,GH7,3.2.1.4,EMD62476.1,M2SZV6,
+10,bispora sp. mey-1 / cgmcc 2500,GH7,3.2.1.4,ACT53749.1,D2DRB6,
+11,chrysosporium lucknowense,GH7,3.2.1.176,AAQ38146.1,,
+12,coptotermes lacteus symbiont wh2002,GH7,3.2.1.4,BAC07551.1,Q8MXY2,
+13,coptotermes lacteus symbiont wh2002,GH7,3.2.1.4,BAC07552.1,Q8MXY1,
+14,dichomitus squalens fbcc312,GH7,3.2.1.176,CDJ79665.1,U6NEV9,
+15,dictyostelium discoideum ax4,GH7,3.2.1.176,EAL73676.1,Q55FE6,4ZZQ[A]
+16,dictyostelium purpureum qsdp1,GH7,3.2.1.176,EGC35742.1,F0ZJZ1,"4ZZP[A,B]"
+17,flammulina velutipes fv-1,GH7,3.2.1.176,BAJ07535.1,D5MSJ4,
+18,flammulina velutipes fv-1,GH7,3.2.1.176,BAJ07534.1,D5MSJ3,
+19,fusarium oxysporum,GH7,3.2.1.4,AAA65586.1,P46237,"1OVW[A,B,C,D], 2OVW[A,B,C,D], 3OVW[A,B], 4OVW[A,B]"
+20,fusicoccum sp. bcc4124,GH7,3.2.1.176,ABS82449.1,A7LN91,
+21,geotrichum galactomycetum 3c,GH7,3.2.1.176,AIO10971.1,A0A088T0J9,"4ZZT[A], 4ZZU[A], 4ZZV[A], 4ZZW[A], 5AMP[A]"
+22,heterobasidion irregulare tc 32-1,GH7,3.2.1.176,,I1SB08,"2XSP[A], 2YG1[A,B]"
+23,holomastigotoides mirabile,GH7,3.2.1.4,,Q95P29,
+24,holomastigotoides mirabile,GH7,3.2.1.4,,Q95P30,
+25,holomastigotoides mirabile,GH7,3.2.1.4,,Q95P31,
+26,humicola grisea var. thermoidea,GH7,3.2.1.176,CAA35159.1,P15828,
+27,humicola grisea var. thermoidea,GH7,3.2.1.4,BAA09786.1,Q12622,
+28,humicola grisea var. thermoidea,GH7,3.2.1.176,AAD31545.1,O94093,
+29,humicola grisea var. thermoidea ifo9854,GH7,3.2.1.176,BAA74517.1,O93780,
+30,humicola grisea var. thermoidea ifo9854 / cbs 225.63,GH7,3.2.1.176,BAA09785.1,P15828,"4CSI[A,B]"
+31,humicola insolens,GH7,3.2.1.4,,P56680,"1A39[A], 1DYM[A], 1OJI[A], 1OJJ[A,B], 1OJK[A,B], 2A39[A,B], 6YOZ[AAA,BBB], 6YP1[AAA]"
+32,irpex lacteus mc-2,GH7,3.2.1.176,BAA76363.1,Q9Y722,
+33,irpex lacteus mc-2,GH7,3.2.1.176,BAA76364.1,Q9Y723,
+34,limnoria quadripunctata,GH7,3.2.1.176,ADB85438.1,D4HRL0,"4GWA[A,B], 4HAP[A,B], 4HAQ[A,B], 4IPM[A]"
+35,melanocarpus albomyces cbs 638.94,GH7,3.2.1.176,CAD56667.1,Q8J0K6,"2RFW[A,B,C,D], 2RFY[A,B,C,D], 2RFZ[A,B,C,D], 2RG0[A,B,C,D]"
+36,mycothermus thermophilus cbs 619.91,GH7,3.2.1.176,CAD79780.1,,
+37,neurospora crassa 74-or23-1a,GH7,3.2.1.176,CAA02835.1,P38676,
+38,neurospora crassa or74a,GH7,3.2.1.176,EAA33262.1,Q7SA23,
+39,penicillium canescens f-178 / rn3-11-7,GH7,3.2.1.176,AIL95870.1,A0A088DLG0,
+40,penicillium chrysogenum fs010,GH7,3.2.1.176,AAV65115.1,Q5S1P9,
+41,penicillium decumbens 114-2,GH7,3.2.1.176,ACV95805.1,C9EI49,
+42,penicillium decumbens 114-2 / ju-a10,GH7,3.2.1.4,ABY56790.1,B0FMT4,
+43,penicillium janthinellum biourge imet 43733 (c41),GH7,3.2.1.176,CAA41780.1,Q06886,
+44,penicillium occitanis (nom. inval.) pol6,GH7,3.2.1.176,AAT99321.1,Q68HC2,
+45,phanerochaete chrysosporium,GH7,3.2.1.176,CAA80253.1,P13860,
+46,phanerochaete chrysosporium,GH7,3.2.1.176,CAA82761.1,Q09431,"1GPI[A], 1H46[X], 1Z3T[A], 1Z3V[A], 1Z3W[A]"
+47,phialemonium thermophilum alko4245,GH7,3.2.1.176,CAM98445.1,A7WNT9,
+48,phialemonium thermophilum alko4245,GH7,3.2.1.176,CAM98446.1,A7WNU0,
+49,phialophora sp. g5 / cgmcc3328,GH7,3.2.1.4,ADZ44605.1,H6TBN1,
+50,pseudotrichonympha grassii,GH7,3.2.1.4,BAB64562.1,Q95YH3,
+51,pseudotrichonympha grassii,GH7,3.2.1.4,BAB64561.1,Q95YH4,
+52,pseudotrichonympha grassii,GH7,3.2.1.4,BAB64553.1,Q95NK6,
+53,pyricularia oryzae 70-15,GH7,3.2.1.176,XP_367082.1,G4NIA4,
+54,pyricularia oryzae 70-15,GH7,3.2.1.4,XP_003721274.1,G4NK46,
+55,rasamsonia emersonii imi 392299,GH7,3.2.1.176,AAL89553.1,Q8TFL9,"1Q9H[A], 3PFJ[A], 3PFX[A], 3PFZ[A], 3PL3[A]"
+56,reticulitermes flavipes,GH7,3.2.1.4,AGT15838.1,X2CP22,
+57,reticulitermes flavipes,GH7,3.2.1.4,AGT15839.1,X2CHW9,
+58,reticulitermes flavipes,GH7,3.2.1.176,AGT15840.1,X2CNU0,
+59,talaromyces cellulolyticus y-94,GH7,3.2.1.176,GAM33347.1,A0A0B8MXF6,
+60,talaromyces cellulolyticus y-94,GH7,3.2.1.4,GAM37432.1,A0A6V8H7V0,
+61,talaromyces funiculosus imi 378536,GH7,3.2.1.176,CAC85737.1,Q8WZJ4,
+62,thermoascus aurantiacus alko4242,GH7,3.2.1.176,CAM98447.1,A7WNU2,
+63,thermoascus aurantiacus ifo 9748,GH7,3.2.1.176,AAL83303.1,Q8TG37,
+64,thermocarpiscus australiensis,GH7,3.2.1.176,CAD79782.1,,
+65,thermochaetoides thermophila alko4265,GH7,3.2.1.176,CAM98448.1,A7WNU1,
+66,thermochaetoides thermophila ct2,GH7,3.2.1.176,AAW64926.1,Q5G2D5,
+67,thermochaetoides thermophila ct2,GH7,3.2.1.176,AAY89412.2,A3F8V2,
+68,thermothelomyces thermophilus atcc 42464,GH7,3.2.1.4,AEO58196.1,G2QCS4,
+69,thermothielavioides terrestris nrrl 8126,GH7,3.2.1.176,AEO67172.1,G2QZD9,
+70,trichoderma harzianum cbs 226.95,GH7,3.2.1.4,PTB50088.1,A0A0F9XHQ5,"5W0A[A,B]"
+71,trichoderma harzianum fp 108 / ioc-3844,GH7,3.2.1.176,AAF36391.1,Q9P8P3,"2Y9L[A], 2Y9N[A], 2YOK[A]"
+72,trichoderma koningii g-39,GH7,3.2.1.176,CAA49596.1,P00725,
+73,trichoderma longibrachiatum cect 2606,GH7,3.2.1.4,CAA43059.1,Q12714,
+74,trichoderma pseudokoningii,GH7,3.2.1.4,ABM90986.1,A2TDD6,
+75,trichoderma reesei,GH7,3.2.1.4,AAA34212.1,P07981,"1EG1[A,C]"
+76,trichoderma reesei qm6a,GH7,3.2.1.176,EGR44817.1,G0RVK1,6RWF[A]
+77,trichoderma virens ukm-1,GH7,3.2.1.176,ACF93800.1,B5ATG1,
+78,trichoderma viride as 3.3711,GH7,3.2.1.4,AAQ21382.1,Q7Z7X3,
+79,trichoderma viride as 3.3711,GH7,3.2.1.176,AAQ76092.1,Q6UJY1,
+80,trichoderma viride hk-75,GH7,3.2.1.4,,Q7M4V4,
+81,trichoderma viride mc300-1,GH7,3.2.1.176,BAA36215.1,P19355,

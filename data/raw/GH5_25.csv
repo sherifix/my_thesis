@@ -1,0 +1,12 @@
+Unnamed: 0,Organism,GH_family,EC_number,GenBank_accession,UniProt_accession,PDB
+0,acetivibrio thermocellus atcc 27405,GH5_25,3.2.1.4,ABN52701.1,H6SHY4,"4U3A[A,B], 4U5I[A,B], 4U5K[A,B], 5BYW[A,B,C,D,E]"
+1,acetivibrio thermocellus ncib 10682,GH5_25,3.2.1.4,AAA23225.1,H6SHY4,
+2,caulobacter sp. k31,GH5_25,3.2.1.4,ABZ70413.1,B0SYT2,
+3,clostridioides difficile dsm 28668,GH5_25,3.2.1.4,AXU72614.1,A0A5Q9L120,"6UJE[A], 6UJF[A]"
+4,dictyoglomus thermophilum h-6-12,GH5_25,3.2.1.4,ACI18520.1,B5YAS2,
+5,dictyoglomus turgidum dsm 6724,GH5_25,3.2.1.4,ACK41955.1,B8DZM2,
+6,fervidobacterium nodosum rt17-b1,GH5_25,3.2.1.4,ABS61403.1,A7HNC0,"3NCO[A,B], 3RJX[A], 3RJY[A]"
+7,fervidobacterium pennivorans dsm 9078,GH5_25,3.2.1.4,AFG35892.1,H9UEE9,6KDD[A]
+8,meiothermus taiwanensis wr-220,GH5_25,3.2.1.4,AWR88013.1,A0A399DY85,"7VT4[A,B], 7VT5[A], 7VT6[A], 7VT7[A], 7VT8[A]"
+9,ruminiclostridium cellulolyticum h10,GH5_25,3.2.1.4,ACL75216.1,P25472,
+10,thermotoga maritima msb8,GH5_25,3.2.1.4,AAD36816.1,Q9X273,"3AMC[A,B], 3AMD[A,B,C,D], 3AMG[A,B], 3AOF[A,B], 3AZR[A,B], 3AZS[A,B], 3AZT[A,B,C,D], 3MMU[A,B,C,D,E,F,G,H], 3MMW[A,B,C,D]"

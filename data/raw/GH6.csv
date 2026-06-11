@@ -1,0 +1,71 @@
+Unnamed: 0,Organism,GH_family,EC_number,GenBank_accession,UniProt_accession,PDB
+0,cellulomonas fimi atcc 484,GH6,3.2.1.91,AAC36898.1,P50401,7CBD[A]
+1,cellulomonas fimi atcc 484,GH6,3.2.1.4,AEE47298.1,F4GZY2,
+2,cellulosimicrobium funkei hy-13,GH6,3.2.1.4,ALK04194.1,A0A0P0IZM9,
+3,cellvibrio japonicus ueda107,GH6,3.2.1.91,ACE85978.1,B3PKK5,
+4,micromonospora cellulolyticum,GH6,3.2.1.4,,Q53488,
+5,mycobacterium tuberculosis h37rv,GH6,3.2.1.4,CAA16243.1,Q79G13,"1UOZ[A], 1UP0[A], 1UP2[A], 1UP3[A]"
+6,neisseria sicca sb,GH6,3.2.1.4,BAJ21449.1,E1CAJ8,
+7,saccharophagus degradans 2-40,GH6,3.2.1.4,ABD81532.1,Q21IE7,
+8,streptomyces halstedii jm8,GH6,3.2.1.4,CAA78145.1,P33682,
+9,streptomyces sp. m23,GH6,3.2.1.91,BAB83928.1,Q8VLR1,
+10,teredinibacter turnerae t7901,GH6,3.2.1.91,ABS72374.1,A9Q634,
+11,thermobifida fusca yx,GH6,3.2.1.91,AAA62211.1,Q47SA9,"4AVN[A], 4AVO[A], 4B4F[A,B], 4B4H[A,B]"
+12,thermobifida fusca yx,GH6,3.2.1.4,AAC06388.1,P26222,"1TML[A], 2BOD[X], 2BOE[X], 2BOF[X], 2BOG[X]"
+13,thermobifida halotolerans yim 90462t,GH6,3.2.1.4,AHN09982.1,X2G0M7,
+14,thermobispora bispora / microbispora bispora,GH6,3.2.1.4,,P26414,
+15,xanthomonas oryzae pv. oryzae bxo43,GH6,3.2.1.4,,A0A384E106,5XYH[A]
+16,xylanimonas pachnodae dsm 12657,GH6,3.2.1.4,AAD54679.1,Q9RQE6,
+17,agaricus bisporus d649,GH6,3.2.1.91,AAA50607.1,P49075,
+18,aspergillus fumigatus af293,GH6,3.2.1.91,EAL86473.1,Q4WFK4,
+19,aspergillus nidulans fgsc a4,GH6,3.2.1.91,ABF50873.1,Q5B2E8,
+20,aspergillus terreus nih2624,GH6,3.2.1.91,EAU38839.1,Q0D1J1,
+21,bipolaris maydis c4,GH6,3.2.1.91,AAM76664.1,Q8J215,
+22,chrysosporium lucknowense,GH6,3.2.1.91,AAQ38151.1,,
+23,colletotrichum graminicola m1.001,GH6,3.2.1.91,EFQ33589.1,E3QRV1,
+24,colletotrichum graminicola m1.001,GH6,3.2.1.91,EFQ25807.1,E3Q540,
+25,coprinopsis cinerea 5338,GH6,3.2.1.91,BAH08702.1,B7X9Z0,"3VOG[A], 3VOH[A], 3VOI[A], 3VOJ[A]"
+26,coprinopsis cinerea 5338,GH6,3.2.1.91,BAH08703.1,B7X9Z1,
+27,coprinopsis cinerea 5338,GH6,3.2.1.91,BAH08704.1,B7X9Z2,"3A64[A], 3A9A[A], 3A9B[A], 3ABX[A], 3VOF[A]"
+28,dichomitus squalens fbcc312,GH6,3.2.1.91,ALT57232.1,A0A0U3CB12,
+29,humicola insolens,GH6,3.2.1.91,BAB39154.1,Q9C1S9,"1BVW[A], 1GZ1[A], 1OC5[A], 1OC6[A], 1OC7[A], 1OCB[A,B], 1OCJ[A], 1OCN[A], 2BVW[A]"
+30,humicola insolens,GH6,3.2.1.4,,Q7SIG5,1DYS[A]
+31,irpex lacteus mc-2,GH6,3.2.1.91,BAG48183.1,B2ZZ24,
+32,lentinula edodes l54,GH6,3.2.1.91,AAK28357.1,Q9C1R4,
+33,lentinus sajor-caju,GH6,3.2.1.91,AAL15037.1,Q96TP4,
+34,malbranchea cinnamomea,GH6,3.2.1.91,CAH05679.1,,
+35,neocallimastix patriciarum,GH6,3.2.1.91,ABY52793.1,B0FEV4,
+36,neocallimastix patriciarum j11,GH6,3.2.1.91,AAR08200.1,Q6EIY8,
+37,neocallimastix patriciarum w5,GH6,3.2.1.91,AEX92709.1,H2BPT3,
+38,neocallimastix patriciarum w5,GH6,3.2.1.91,AEX92714.1,H2BPT8,
+39,neocallimastix patriciarum w5,GH6,3.2.1.91,AEX92715.1,H2BPT9,
+40,neocallimastix patriciarum w5,GH6,3.2.1.91,AEX92716.1,H2BPU0,
+41,neocallimastix patriciarum w5,GH6,3.2.1.91,AEX92717.1,H2BPU1,
+42,orpinomyces sp. pc-2,GH6,3.2.1.4,AAB92678.1,P78720,
+43,orpinomyces sp. pc-2,GH6,3.2.1.4,AAB92679.1,P78721,
+44,orpinomyces sp. pc-2,GH6,3.2.1.91,AAC09228.1,Q874D8,
+45,orpinomyces sp. y102,GH6,3.2.1.91,AEH95579.1,V9I1G2,
+46,penicillium decumbens 114-2 / ju-a10,GH6,3.2.1.91,ADX86895.1,F1CHI2,
+47,penicillium oxalicum gz-2,GH6,3.2.1.91,AIO06741.1,A0A088STL5,
+48,phanerochaete chrysosporium,GH6,3.2.1.91,AAB32942.1,H3K419,"5XCY[A], 5XCZ[A], 8W4W[A], 8W4X[A], 8W4Y[A], 8W4Z[A], 8W8U[A], 8W8V[A], 8WUP[A], 8WW5[A], 8WWT[A], 8WX6[A], 8WXC[A], 8WY2[A], 8WYV[A], 8WZW[A], 8X00[A], 8X04[A], 8X05[A], 8X09[A], 8X0I[A], 8X0Q[A], 8YMV[A], 8YMY[A]"
+49,phialophora sp. g5 / cgmcc 3328,GH6,3.2.1.91,ADZ99361.1,F2VRZ0,
+50,piromyces rhizinflatus,GH6,3.2.1.4,ABY52798.1,B0FEV9,
+51,piromyces rhizinflatus 2301,GH6,3.2.1.91,AAD51055.1,Q9UW10,
+52,piromyces sp. e2,GH6,3.2.1.91,AAL92497.1,Q874K3,
+53,piromyces sp. equi,GH6,3.2.1.91,AAM94167.1,Q7Z7X6,
+54,podospora anserina s mat+,GH6,3.2.1.91,CAP60942.1,B2ABX7,
+55,podospora anserina s mat+,GH6,3.2.1.4,CAP60981.1,B2AC20,
+56,podospora anserina s mat+,GH6,3.2.1.4,CAP61669.1,B2AE04,
+57,pyricularia oryzae 70-15,GH6,3.2.1.91,XP_360146.1,G4MM92,
+58,rasamsonia emersonii imi 392299,GH6,3.2.1.91,AAL78165.2,Q8NIB5,
+59,stilbella annulata,GH6,3.2.1.91,CAH05678.1,,
+60,talaromyces funiculosus,GH6,3.2.1.91,ACH91035.1,B5TMG4,
+61,talaromyces pinophilus cf-2612,GH6,3.2.1.91,AAE50824.1,O93837,
+62,thermochaetoides thermophila ct2,GH6,3.2.1.91,AAW64927.1,G0SD43,4A05[A]
+63,thermothelomyces thermophilus atcc 42464,GH6,3.2.1.91,AEO55787.1,G2QA39,
+64,thielavia terrestris,GH6,3.2.1.91,ABT06036.1,,
+65,trichoderma parceramosum,GH6,3.2.1.91,AAU05379.2,Q66PN1,
+66,trichoderma reesei qm9414,GH6,3.2.1.91,AAA34210.1,P07987,"1CB2[A,B], 1HGW[A,B], 1HGY[A,B], 1LG8[nd], 1LLX[nd], 1QJW[A,B], 1QK0[A,B], 1QK2[A,B], 3CBH[A], 4AU0[A,B], 4AX6[A,B], 4AX7[A,B,C,D]"
+67,trichoderma viride cicc 13038,GH6,3.2.1.91,AAQ76094.1,Q6UJX9,
+68,volvariella volvacea v14,GH6,3.2.1.91,AAT64008.1,Q6E5B1,
+69,metagenome,GH6,3.2.1.91,,A0A4Y1YS11,6K52[A]

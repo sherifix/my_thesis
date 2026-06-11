@@ -1,0 +1,24 @@
+Unnamed: 0,Organism,GH_family,EC_number,GenBank_accession,UniProt_accession,PDB
+0,acetivibrio clariflavus dsm 19732,GH48,3.2.1.4,AEV70443.1,G8M3C3,
+1,acetivibrio thermocellus atcc 27405,GH48,3.2.1.4,ABN51312.1,A3DBI3,
+2,acetivibrio thermocellus atcc 27405,GH48,3.2.1.176,ABN53296.1,A3DH67,
+3,acetivibrio thermocellus dsm 1313,GH48,3.2.1.176,ADU75731.1,C7ED31,5YJ6[A]
+4,acetivibrio thermocellus f7,GH48,3.2.1.176,AAA23226.1,A3DH67,"1L1Y[A,B,C,D,E,F], 1L2A[A,B,C,D,E,F]"
+5,anaerocellum danielii,GH48,3.2.1.176,WP_045175321.1,A0ABZ0U049,6D5D[A]
+6,bacillus licheniformis dsm 13 = atcc 14580,GH48,3.2.1.4,AAU40776.1,Q65JI8,7KW6[A]
+7,caldicellulosiruptor bescii dsm 6725,GH48,3.2.1.176,ACM60955.1,B9MKU7,"4EL8[A], 4L0G[A], 4L0H[A], 4L6X[A], 4TXT[A]"
+8,caldicellulosiruptor bescii dsm 6725,GH48,3.2.1.176,ACM60948.1,B9MKU0,
+9,caldicellulosiruptor bescii dsm 6725,GH48,3.2.1.176,ACM60945.1,B9MKT7,
+10,caldicellulosiruptor morganii dsm 8990,GH48,3.2.1.176,WAM33661.1,A0ABY7BRE9,
+11,cellulomonas fimi atcc 484,GH48,3.2.1.176,AAB00822.1,P50899,
+12,cellulosilyticum ruminicola cgmcc 1.5065,GH48,3.2.1.91,ACZ98592.1,D2KFJ0,
+13,clostridium cellulovorans atcc 35296,GH48,3.2.1.176,AAC38571.3,O65986,"4KIH[A], 4KKF[A], 4KKK[A], 4XWL[A], 4XWM[A], 4XWN[A]"
+14,clostridium saccharoperbutylacetonicum n1-4(hmt),GH48,3.2.1.176,AGF55628.1,M1MH14,
+15,hahella chejuensis kctc 2396,GH48,3.2.1.4,ABC29272.1,Q2SJA2,4FUS[A]
+16,lachnoclostridium phytofermentans isdg,GH48,3.2.1.176,ABX43721.1,A9KT91,
+17,myxobacter sp. al-1,GH48,3.2.1.176,ABD64772.1,Q19VP0,
+18,paenibacillus barcinonensis bp-23,GH48,3.2.1.176,CAD32945.1,Q8KKF7,
+19,ruminiclostridium cellulolyticum h10,GH48,3.2.1.176,ACL75108.1,P37698,"1F9D[A], 1F9O[A], 1FAE[A], 1FBO[A], 1FBW[A], 1FCE[A], 1G9G[A], 1G9J[A], 2QNO[A]"
+20,thermobifida fusca yx,GH48,3.2.1.176,AAD39947.1,Q47NH7,4JJJ[A]
+21,thermoclostridium stercorarium,GH48,3.2.1.176,CAA93280.1,P50900,
+22,neocallimastix patriciarum w5,GH48,3.2.1.91,AEX92722.1,,

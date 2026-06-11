@@ -1,0 +1,783 @@
+Header,Probability,Class,Prediction
+"SFA40581.1 Aryl-phospho-beta-D-glucosidase BglC, GH1 family [Parageobacillus thermantarcticus]",0.369887921477633,0,Mesophilic
+SFA47371.1 hypothetical protein SAMN05192569_101449 [Parageobacillus thermantarcticus],0.6834047840598846,1,Thermophilic/Hyperthermophilic
+ADM27073.1 Cellulase [Ignisphaera aggregans DSM 17230],0.48870690913957066,0,Mesophilic
+ADM27292.1 glycoside hydrolase family 12 [Ignisphaera aggregans DSM 17230],0.9827668461451499,1,Thermophilic/Hyperthermophilic
+ADM27405.1 Cellulase [Ignisphaera aggregans DSM 17230],0.9877210453331157,1,Thermophilic/Hyperthermophilic
+ADM27471.1 glycoside hydrolase family 12 [Ignisphaera aggregans DSM 17230],0.9757142915078242,1,Thermophilic/Hyperthermophilic
+ADM27702.1 glycoside hydrolase family 12 [Ignisphaera aggregans DSM 17230],0.9939080686235878,1,Thermophilic/Hyperthermophilic
+ADM28608.1 glycoside hydrolase family 12 [Ignisphaera aggregans DSM 17230],0.9850582245464111,1,Thermophilic/Hyperthermophilic
+ACY46934.1 glycoside hydrolase family 5 [Rhodothermus marinus DSM 4252],0.8865682117605229,1,Thermophilic/Hyperthermophilic
+ACY46985.1 glycoside hydrolase family 9 [Rhodothermus marinus DSM 4252],0.9999909451049519,1,Thermophilic/Hyperthermophilic
+ACY47427.1 glycoside hydrolase family 9 [Rhodothermus marinus DSM 4252],0.959442785878022,1,Thermophilic/Hyperthermophilic
+ACY48513.1 glycoside hydrolase family 12 [Rhodothermus marinus DSM 4252],0.9433354425208035,1,Thermophilic/Hyperthermophilic
+AZF75130.1 cellulase [Saccharolobus solfataricus],0.9308359570733027,1,Thermophilic/Hyperthermophilic
+AZF77166.1 endoglucanase [Saccharolobus solfataricus],0.980105569631385,1,Thermophilic/Hyperthermophilic
+OVE83593.1 hypothetical protein B2G88_14255 [Natronolimnobius baerhuensis],0.7924883286311534,1,Thermophilic/Hyperthermophilic
+OVE83623.1 hypothetical protein B2G88_14420 [Natronolimnobius baerhuensis],0.954552581024835,1,Thermophilic/Hyperthermophilic
+OVE83624.1 hypothetical protein B2G88_14425 [Natronolimnobius baerhuensis],0.3982582287919826,0,Mesophilic
+OVE83627.1 hypothetical protein B2G88_14440 [Natronolimnobius baerhuensis],0.3381747999293206,0,Mesophilic
+OVE86287.1 hypothetical protein B2G88_05765 [Natronolimnobius baerhuensis],0.5780406773013976,1,Thermophilic/Hyperthermophilic
+OVE86289.1 hypothetical protein B2G88_05780 [Natronolimnobius baerhuensis],0.38693247256677443,0,Mesophilic
+SHK56826.1 beta-glucosidase family 9 [Rhodothermus profundi],0.9743583364214305,1,Thermophilic/Hyperthermophilic
+GAA4133577.1 cellulose binding domain-containing protein [Actinomadura keratinilytica],0.939678252465311,1,Thermophilic/Hyperthermophilic
+"GAA4135145.1 cellulose 1,4-beta-cellobiosidase [Actinomadura keratinilytica]",0.5667853276656261,1,Thermophilic/Hyperthermophilic
+GAA4135160.1 glycoside hydrolase family 48 protein [Actinomadura keratinilytica],0.959874396567894,1,Thermophilic/Hyperthermophilic
+GAA4141977.1 glycoside hydrolase family 6 protein [Actinomadura keratinilytica],0.9940974489485512,1,Thermophilic/Hyperthermophilic
+GAA4148641.1 hypothetical protein GCM10022416_43110 [Actinomadura keratinilytica],0.8370938308235844,1,Thermophilic/Hyperthermophilic
+GAA4151262.1 cellulase family glycosylhydrolase [Actinomadura keratinilytica],0.7414718329513171,1,Thermophilic/Hyperthermophilic
+GAA4152253.1 hypothetical protein GCM10022416_50300 [Actinomadura keratinilytica],0.9999949281475828,1,Thermophilic/Hyperthermophilic
+GAA4153374.1 glycoside hydrolase family 6 protein [Actinomadura keratinilytica],0.4536401540420031,0,Mesophilic
+ADA67369.1 glycoside hydrolase family 12 [Thermotoga petrophila RKU-10],0.44874283080969807,0,Mesophilic
+ADA67370.1 glycoside hydrolase family 12 [Thermotoga petrophila RKU-10],0.6926904038732724,1,Thermophilic/Hyperthermophilic
+TCL61791.1 aryl-phospho-beta-D-glucosidase BglC (GH1 family) [Hydrogenispora ethanolica],0.013841840426415512,0,Mesophilic
+"ADX84426.1 cellulase (endo 1,4 beta glucanase), putative (CelB) [Sulfolobus islandicus REY15A]",0.9610128080304383,1,Thermophilic/Hyperthermophilic
+ADX84872.1 endoglucanase precursor [Sulfolobus islandicus REY15A],0.9758284730227806,1,Thermophilic/Hyperthermophilic
+PNS01449.1 endoglucanase [Petrotoga miotherma DSM 10691],0.34229363590968637,0,Mesophilic
+MBB6512495.1 endoglucanase [Gracilibacillus halotolerans],0.010574142363630044,0,Mesophilic
+MBB3059801.1 cellulase/cellobiase CelA1 [Microbulbifer rhizosphaerae],0.03769269198063688,0,Mesophilic
+MBB3060016.1 hypothetical protein FHS09_000829 [Microbulbifer rhizosphaerae],0.27099263066195667,0,Mesophilic
+MBB3060017.1 hypothetical protein FHS09_000830 [Microbulbifer rhizosphaerae],0.5560745217651869,1,Thermophilic/Hyperthermophilic
+MBB3061762.1 endoglucanase [Microbulbifer rhizosphaerae],0.07366407976832787,0,Mesophilic
+MBB3061773.1 hypothetical protein FHS09_002613 [Microbulbifer rhizosphaerae],0.2624738241012632,0,Mesophilic
+MBB3061774.1 aryl-phospho-beta-D-glucosidase BglC (GH1 family) [Microbulbifer rhizosphaerae],0.08563368937135518,0,Mesophilic
+MBB3061775.1 hypothetical protein FHS09_002615 [Microbulbifer rhizosphaerae],0.6743971337551317,1,Thermophilic/Hyperthermophilic
+"MBB3061779.1 mannan endo-1,4-beta-mannosidase [Microbulbifer rhizosphaerae]",0.22758193273601462,0,Mesophilic
+"MBB3061780.1 cellulose 1,4-beta-cellobiosidase [Microbulbifer rhizosphaerae]",0.3400466466591236,0,Mesophilic
+MBB3061785.1 hypothetical protein FHS09_002625 [Microbulbifer rhizosphaerae],0.14456904298485007,0,Mesophilic
+MBB3061788.1 aryl-phospho-beta-D-glucosidase BglC (GH1 family) [Microbulbifer rhizosphaerae],0.05470526200700582,0,Mesophilic
+MBB3061789.1 endoglucanase [Microbulbifer rhizosphaerae],0.038715433840198085,0,Mesophilic
+MBB3061791.1 endoglucanase [Microbulbifer rhizosphaerae],0.08593066779218506,0,Mesophilic
+MBB3062392.1 endoglucanase [Microbulbifer rhizosphaerae],0.29138161480576963,0,Mesophilic
+MBB3062478.1 aryl-phospho-beta-D-glucosidase BglC (GH1 family) [Microbulbifer rhizosphaerae],0.09564267829067837,0,Mesophilic
+MBB3062737.1 hypothetical protein FHS09_003586 [Microbulbifer rhizosphaerae],0.11490165728240985,0,Mesophilic
+MBB0229008.1 cellobiohydrolase [Streptomyces calidiresistens],0.9703329746103149,1,Thermophilic/Hyperthermophilic
+MBB0230075.1 glycoside hydrolase [Streptomyces calidiresistens],0.9727761868358671,1,Thermophilic/Hyperthermophilic
+MBB0230235.1 endoglucanase [Streptomyces calidiresistens],0.9717860939778166,1,Thermophilic/Hyperthermophilic
+MBB0230236.1 glycosyl hydrolase family 6 [Streptomyces calidiresistens],0.32957497236309,0,Mesophilic
+MBB0230886.1 glycosyl hydrolase family 5 [Streptomyces calidiresistens],0.895330511470347,1,Thermophilic/Hyperthermophilic
+MBB0232052.1 hypothetical protein FOE67_21780 [Streptomyces calidiresistens],0.9963979591533881,1,Thermophilic/Hyperthermophilic
+MBB0232309.1 cellulase family glycosylhydrolase [Streptomyces calidiresistens],0.8616148172125047,1,Thermophilic/Hyperthermophilic
+MBB0232344.1 endoglucanase [Streptomyces calidiresistens],0.9999935960370001,1,Thermophilic/Hyperthermophilic
+"MBB0232729.1 cellulase family glycosylhydrolase, partial [Streptomyces calidiresistens]",0.41717046266274854,0,Mesophilic
+ABK51910.1 Cellulase [Acidothermus cellulolyticus 11B],0.9318685379456133,1,Thermophilic/Hyperthermophilic
+"ABK52387.1 glycoside hydrolase, family 5 [Acidothermus cellulolyticus 11B]",0.9470977357085877,1,Thermophilic/Hyperthermophilic
+"ABK52390.1 cellulose 1,4-beta-cellobiosidase [Acidothermus cellulolyticus 11B]",0.9817344904668032,1,Thermophilic/Hyperthermophilic
+"ABK52743.1 glycoside hydrolase, family 9 [Acidothermus cellulolyticus 11B]",0.9890450440053011,1,Thermophilic/Hyperthermophilic
+ABK53473.1 processive endocellulase [Acidothermus cellulolyticus 11B],0.9810683945608206,1,Thermophilic/Hyperthermophilic
+ABN51284.1 glycoside hydrolase family 9 [Acetivibrio thermocellus ATCC 27405],0.45618919223175247,0,Mesophilic
+ABN51513.1 glycoside hydrolase family 9 [Acetivibrio thermocellus ATCC 27405],0.5226476240235223,1,Thermophilic/Hyperthermophilic
+ABN51671.1 glycoside hydrolase family 9 [Acetivibrio thermocellus ATCC 27405],0.3178821909590028,0,Mesophilic
+ABN51859.1 glycoside hydrolase family 9 [Acetivibrio thermocellus ATCC 27405],0.8203159835631432,1,Thermophilic/Hyperthermophilic
+ABN52032.1 glycoside hydrolase family 5 [Acetivibrio thermocellus ATCC 27405],0.5,0,Mesophilic
+ABN52700.1 glycoside hydrolase family 5 [Acetivibrio thermocellus ATCC 27405],0.2518379215544288,0,Mesophilic
+ABN53350.1 glycoside hydrolase family 5 [Acetivibrio thermocellus ATCC 27405],0.40497200793650595,0,Mesophilic
+ABN53395.1 Carbohydrate binding family 6 [Acetivibrio thermocellus ATCC 27405],0.8395288285399193,1,Thermophilic/Hyperthermophilic
+ABN53562.1 glycoside hydrolase family 9 [Acetivibrio thermocellus ATCC 27405],0.7010741264640243,1,Thermophilic/Hyperthermophilic
+ABN53960.1 glycoside hydrolase family 9 [Acetivibrio thermocellus ATCC 27405],0.6227705857759029,1,Thermophilic/Hyperthermophilic
+ABN54006.1 glycoside hydrolase family 5 [Acetivibrio thermocellus ATCC 27405],0.44375084948632193,0,Mesophilic
+AVX21090.1 hypothetical protein CFE_1920 [Carboxydocella thermautotrophica],0.7474701710132977,1,Thermophilic/Hyperthermophilic
+QGR21384.1 hypothetical protein D1866_04810 [Acidianus ambivalens],0.9358672643836083,1,Thermophilic/Hyperthermophilic
+"AEB95090.1 cellulase (endo 1,4 beta glucanase), putative (celB) [Metallosphaera cuprina Ar-4]",0.9632475849416854,1,Thermophilic/Hyperthermophilic
+"ACL10732.1 arabinogalactan endo-1,4-beta-galactosidase, putative [Desulfurococcus amylolyticus 1221n]",0.9759718282316823,1,Thermophilic/Hyperthermophilic
+QCI29200.1 glycoside hydrolase family 5 protein [Caminibacter pacificus],0.7748756878201594,1,Thermophilic/Hyperthermophilic
+ACU53036.1 glycoside hydrolase family 5 [Acidimicrobium ferrooxidans DSM 10331],0.9999975176797481,1,Thermophilic/Hyperthermophilic
+ACU54908.1 cellulose-binding family II [Acidimicrobium ferrooxidans DSM 10331],0.9746820664910983,1,Thermophilic/Hyperthermophilic
+ACP49447.1 endoglucanase precursor [Sulfolobus islandicus Y.N.15.51],0.980105569631385,1,Thermophilic/Hyperthermophilic
+"ACP49627.1 cellulase (endo 1,4 beta glucanase), putative (CelB) [Sulfolobus islandicus Y.N.15.51]",0.958013861528862,1,Thermophilic/Hyperthermophilic
+AAM23368.1 conserved hypothetical protein [Caldanaerobacter subterraneus subsp. tengcongensis MB4],0.9624458743892143,1,Thermophilic/Hyperthermophilic
+GAP06885.1 endoglucanase [Anaerolinea thermolimosa],0.37774583881729895,0,Mesophilic
+GAP06900.1 endoglucanase [Anaerolinea thermolimosa],0.8439766737312329,1,Thermophilic/Hyperthermophilic
+GAP08045.1 glycosyl hydrolase family 9 [Anaerolinea thermolimosa],0.8622452633533609,1,Thermophilic/Hyperthermophilic
+GAP08306.1 endoglucanase [Anaerolinea thermolimosa],0.5867709429126089,1,Thermophilic/Hyperthermophilic
+ULR48137.1 cellulase family glycosylhydrolase [Streptomyces deccanensis],0.8248528049640312,1,Thermophilic/Hyperthermophilic
+ULR48153.1 glycoside hydrolase family 5 protein [Streptomyces deccanensis],0.04781202939525452,0,Mesophilic
+ULR48157.1 glycoside hydrolase family 5 protein [Streptomyces deccanensis],0.4566947148551112,0,Mesophilic
+ULR50909.1 glycoside hydrolase family 6 protein [Streptomyces deccanensis],0.20817350071009663,0,Mesophilic
+ULR51437.1 cellulase family glycosylhydrolase [Streptomyces deccanensis],0.6559108915589812,1,Thermophilic/Hyperthermophilic
+ULR53679.1 hypothetical protein L3078_32810 [Streptomyces deccanensis],0.2830589518805852,0,Mesophilic
+"ULR53688.1 endo-1,4-beta-glucanase [Streptomyces deccanensis]",0.20993682038691633,0,Mesophilic
+ULR54592.1 cellulose binding domain-containing protein [Streptomyces deccanensis],0.9382290804713681,1,Thermophilic/Hyperthermophilic
+ULR54593.1 glycoside hydrolase family 6 protein [Streptomyces deccanensis],0.2793072246037105,0,Mesophilic
+ULR55187.1 glycoside hydrolase family 9 protein [Streptomyces deccanensis],0.7473833455923784,1,Thermophilic/Hyperthermophilic
+ULR55429.1 cellulose binding domain-containing protein [Streptomyces deccanensis],0.9806436312709511,1,Thermophilic/Hyperthermophilic
+ULR55853.1 cellulase family glycosylhydrolase [Streptomyces deccanensis],0.8863803640176576,1,Thermophilic/Hyperthermophilic
+ULR55875.1 cellulase family glycosylhydrolase [Streptomyces deccanensis],0.6848958990168501,1,Thermophilic/Hyperthermophilic
+ULR55883.1 glycoside hydrolase family 6 protein [Streptomyces deccanensis],0.9860166060688176,1,Thermophilic/Hyperthermophilic
+"ACM23282.1 Endo-1,4-beta-glucanase A [Thermotoga neapolitana DSM 4359]",0.8882974483427376,1,Thermophilic/Hyperthermophilic
+"ACM23283.1 Endo-1,4-beta-glucanase B [Thermotoga neapolitana DSM 4359]",0.7084692778750227,1,Thermophilic/Hyperthermophilic
+SUA85007.1 glycoside hydrolase family protein [Paenibacillus macerans],0.5907325083439953,1,Thermophilic/Hyperthermophilic
+"SUA85008.1 putative cellulose 1,4-beta-cellobiosidase [Paenibacillus macerans]",0.6468665114842765,1,Thermophilic/Hyperthermophilic
+SUA85241.1 glycoside hydrolase [Paenibacillus macerans],0.9006532981978652,1,Thermophilic/Hyperthermophilic
+"SUA85372.1 endo-1,4-beta-glucanase [Paenibacillus macerans]",0.21142810360561715,0,Mesophilic
+SUA85373.1 glycoside hydrolase family protein [Paenibacillus macerans],0.5,0,Mesophilic
+SUA85374.1 exoglucanase a [Paenibacillus macerans],0.5801795852794229,1,Thermophilic/Hyperthermophilic
+"SUA85391.1 endo-1,4-beta-glucanase [Paenibacillus macerans]",0.04229660384921551,0,Mesophilic
+SUD25377.1 exoglucanase A [Paenibacillus macerans],0.5845219831972526,1,Thermophilic/Hyperthermophilic
+MUM65651.1 hypothetical protein D1867_10445 [Acidianus infernus],0.7512378851908971,1,Thermophilic/Hyperthermophilic
+BAS27961.1 glycoside hydrolase family 5 [Limnochorda pilosa],0.9805812752953128,1,Thermophilic/Hyperthermophilic
+ABL79076.1 endoglucanase; Glycosyl Hydrolase family 12 [Thermofilum pendens Hrk 5],0.9897592180617862,1,Thermophilic/Hyperthermophilic
+ACZ43095.1 glycoside hydrolase family 5 [Thermobaculum terrenum ATCC BAA-798],0.9959239116553561,1,Thermophilic/Hyperthermophilic
+KAL2007894.1 hypothetical protein VTN00DRAFT_7876 [Thermoascus crustaceus],0.024121736622999487,0,Mesophilic
+KAL2008531.1 hypothetical protein VTN00DRAFT_6725 [Thermoascus crustaceus],0.17874250382867854,0,Mesophilic
+KAL2010278.1 hypothetical protein VTN00DRAFT_6085 [Thermoascus crustaceus],0.14263089780397062,0,Mesophilic
+KAL2013012.1 hypothetical protein VTN00DRAFT_537 [Thermoascus crustaceus],0.03352798736776876,0,Mesophilic
+KAL2013241.1 hypothetical protein VTN00DRAFT_766 [Thermoascus crustaceus],0.04472097034804188,0,Mesophilic
+ADI14563.1 glycoside hydrolase family 5 [Truepera radiovictrix DSM 17093],0.8534678470542846,1,Thermophilic/Hyperthermophilic
+QKR00833.1 hypothetical protein GWK48_10965 [Metallosphaera tengchongensis],0.5796399970355209,1,Thermophilic/Hyperthermophilic
+SHK79668.1 hypothetical protein SAMN05444342_2208 [Haladaptatus paucihalophilus DX253],0.5195703686025254,1,Thermophilic/Hyperthermophilic
+QLH81620.1 cellulase family glycosylhydrolase [Halosimplex pelagicum],0.42990196834414135,0,Mesophilic
+QLH81622.1 hypothetical protein HZS54_08280 [Halosimplex pelagicum],0.9289262485040882,1,Thermophilic/Hyperthermophilic
+QLH81623.1 fibronectin type III domain-containing protein [Halosimplex pelagicum],0.9634117004252072,1,Thermophilic/Hyperthermophilic
+QLH81625.1 cellulase family glycosylhydrolase [Halosimplex pelagicum],0.921853836701449,1,Thermophilic/Hyperthermophilic
+QLH81627.1 cellulase family glycosylhydrolase [Halosimplex pelagicum],0.9575359669582959,1,Thermophilic/Hyperthermophilic
+QLH81664.1 cellulase family glycosylhydrolase [Halosimplex pelagicum],0.9929508422569642,1,Thermophilic/Hyperthermophilic
+QLH83678.1 glycoside hydrolase family 9 protein [Halosimplex pelagicum],0.9936543291304365,1,Thermophilic/Hyperthermophilic
+QLH84787.1 cellulase family glycosylhydrolase [Halosimplex pelagicum],0.9025451282027056,1,Thermophilic/Hyperthermophilic
+QLH84945.1 cellulase family glycosylhydrolase [Halosimplex pelagicum],0.7642111118592799,1,Thermophilic/Hyperthermophilic
+AFH49737.1 Glycoside hydrolase family 9 protein [Ignavibacterium album JCM 16511],0.09446195686306219,0,Mesophilic
+AFH50281.1 Endoglucanase [Ignavibacterium album JCM 16511],0.33072079024158707,0,Mesophilic
+AFH50296.1 Endoglucanase [Ignavibacterium album JCM 16511],0.7923623015051097,1,Thermophilic/Hyperthermophilic
+AFH50299.1 Cellodextrinase [Ignavibacterium album JCM 16511],0.22269998948609457,0,Mesophilic
+GGP19934.1 hypothetical protein GCM10007981_05620 [Thermocladium modestius],0.6280773579874918,1,Thermophilic/Hyperthermophilic
+REF37227.1 aryl-phospho-beta-D-glucosidase BglC (GH1 family) [Thermasporomyces composti],0.9999813889087296,1,Thermophilic/Hyperthermophilic
+REF37563.1 endoglucanase [Thermasporomyces composti],0.1692393916704955,0,Mesophilic
+REF37706.1 endoglucanase [Thermasporomyces composti],0.9940464050558251,1,Thermophilic/Hyperthermophilic
+GEM90599.1 hypothetical protein ODE01S_20330 [Oceanithermus desulfurans NBRC 100063],0.24132179552455207,0,Mesophilic
+RQG86682.1 glycoside hydrolase [Natrarchaeobius halalkaliphilus],0.9795625772649176,1,Thermophilic/Hyperthermophilic
+ADB61387.1 Carbohydrate-binding family 9 [Haloterrigena turkmenica DSM 5511],0.9999994575685333,1,Thermophilic/Hyperthermophilic
+ADB63457.1 glycoside hydrolase family 5 (plasmid) [Haloterrigena turkmenica DSM 5511],0.39041654701918016,0,Mesophilic
+SHK04945.1 endoglucanase [Pseudonocardia thermophila],0.9189589036211518,1,Thermophilic/Hyperthermophilic
+SHK63702.1 Glycosyl hydrolase family 12 [Pseudonocardia thermophila],0.9902843762891573,1,Thermophilic/Hyperthermophilic
+SHL22321.1 endoglucanase [Pseudonocardia thermophila],0.46752120859215285,0,Mesophilic
+SHL22330.1 endoglucanase [Pseudonocardia thermophila],0.9163697918281282,1,Thermophilic/Hyperthermophilic
+SHL45255.1 Glycosyl hydrolase family 12 [Pseudonocardia thermophila],0.969153209148571,1,Thermophilic/Hyperthermophilic
+"ACP34505.1 cellulase (endo 1,4 beta glucanase), putative (CelB) [Sulfolobus islandicus L.S.2.15]",0.9468546584633525,1,Thermophilic/Hyperthermophilic
+ACP34754.1 endoglucanase precursor [Sulfolobus islandicus L.S.2.15],0.980105569631385,1,Thermophilic/Hyperthermophilic
+BBG25044.1 hypothetical protein IC006_2379 [Sulfuracidifex tepidarius],0.846343882909017,1,Thermophilic/Hyperthermophilic
+AGA56765.1 glycosyl hydrolase family 9 [Thermobacillus composti KWC4],0.9025236475268323,1,Thermophilic/Hyperthermophilic
+MDR6224959.1 endoglucanase [Desmospora profundinema],0.10987530854472924,0,Mesophilic
+ACM59384.1 glycoside hydrolase family 5 [Caldicellulosiruptor bescii DSM 6725],0.9577911244855082,1,Thermophilic/Hyperthermophilic
+ACM59720.1 Cellulase [Caldicellulosiruptor bescii DSM 6725],0.902403741546309,1,Thermophilic/Hyperthermophilic
+AEE95680.1 glycoside hydrolase family 5 [Mahella australiensis 50-1 BON],0.10181144808799077,0,Mesophilic
+AEE96268.1 glycoside hydrolase family 5 [Mahella australiensis 50-1 BON],0.03531049071641958,0,Mesophilic
+AEE96307.1 glycoside hydrolase family 9 [Mahella australiensis 50-1 BON],0.6156302711632429,1,Thermophilic/Hyperthermophilic
+AEE96308.1 glycoside hydrolase family 48 [Mahella australiensis 50-1 BON],0.6486672797450085,1,Thermophilic/Hyperthermophilic
+AEE96309.1 glycoside hydrolase family 5 [Mahella australiensis 50-1 BON],0.1016118872784285,0,Mesophilic
+AEE96310.1 Cellulase [Mahella australiensis 50-1 BON],0.0775103103838009,0,Mesophilic
+AEE96311.1 glycoside hydrolase family 5 [Mahella australiensis 50-1 BON],0.598420926501616,1,Thermophilic/Hyperthermophilic
+AEE96313.1 glycoside hydrolase family 5 [Mahella australiensis 50-1 BON],0.29881975160620533,0,Mesophilic
+AEE96314.1 glycoside hydrolase family 9 [Mahella australiensis 50-1 BON],0.6599788531195487,1,Thermophilic/Hyperthermophilic
+AEE97278.1 glycoside hydrolase family 5 [Mahella australiensis 50-1 BON],0.18512807610953166,0,Mesophilic
+CAG5076630.1 endoglucanase D [Thermobacillus xylanilyticus],0.9081531595717651,1,Thermophilic/Hyperthermophilic
+"CAG5089501.1 Glycoside hydrolase, family 5 [Thermobacillus xylanilyticus]",0.5735258867629126,1,Thermophilic/Hyperthermophilic
+TNY36470.1 glycoside hydrolase [Thermomonospora catenispora],0.9963915201550674,1,Thermophilic/Hyperthermophilic
+TNY38019.1 glycoside hydrolase family 5 protein [Thermomonospora catenispora],0.93108329269109,1,Thermophilic/Hyperthermophilic
+WWQ60903.1 endoglucanase [Sulfolobus tengchongensis],0.9613232997560283,1,Thermophilic/Hyperthermophilic
+WWQ60989.1 cellulase [Sulfolobus tengchongensis],0.9818069059142496,1,Thermophilic/Hyperthermophilic
+OXB91748.1 hypothetical protein B9L23_10475 [Parageobacillus galactosidasius],0.4405567413533861,0,Mesophilic
+GLG00475.1 endoglucanase [Alicyclobacillus hesperidum subsp. aegles],0.22063015892741059,0,Mesophilic
+GLG01768.1 hypothetical protein Alches_18080 [Alicyclobacillus hesperidum subsp. aegles],0.7953125285170176,1,Thermophilic/Hyperthermophilic
+GLG01769.1 hypothetical protein Alches_18090 [Alicyclobacillus hesperidum subsp. aegles],0.0069712985980682285,0,Mesophilic
+QSB47792.1 thioredoxin domain-containing protein [Parageobacillus toebii],0.5,0,Mesophilic
+KAL1972720.1 hypothetical protein VTN31DRAFT_7134 [Thermomyces dupontii],0.02954719835382208,0,Mesophilic
+KAL1977055.1 hypothetical protein VTN31DRAFT_3337 [Thermomyces dupontii],0.036360682377567975,0,Mesophilic
+KAL1977890.1 hypothetical protein VTN31DRAFT_749 [Thermomyces dupontii],0.4293796903654876,0,Mesophilic
+KAL1978348.1 hypothetical protein VTN31DRAFT_1207 [Thermomyces dupontii],0.4762514044238097,0,Mesophilic
+ACV10489.1 glycoside hydrolase family 5 [Halorhabdus utahensis DSM 12940],0.9413209263904269,1,Thermophilic/Hyperthermophilic
+ACV12554.1 Fibronectin type III domain protein [Halorhabdus utahensis DSM 12940],0.766835254601011,1,Thermophilic/Hyperthermophilic
+ACV12555.1 hypothetical protein Huta_2389 [Halorhabdus utahensis DSM 12940],0.8828424983382244,1,Thermophilic/Hyperthermophilic
+ACV12559.1 PKD domain containing protein [Halorhabdus utahensis DSM 12940],0.6652689320385465,1,Thermophilic/Hyperthermophilic
+ACV12560.1 Fibronectin type III domain protein [Halorhabdus utahensis DSM 12940],0.9606680138541315,1,Thermophilic/Hyperthermophilic
+ACV12561.1 glycoside hydrolase family 5 [Halorhabdus utahensis DSM 12940],0.8790875838378396,1,Thermophilic/Hyperthermophilic
+ACV12564.1 Carbohydrate binding family 6 [Halorhabdus utahensis DSM 12940],0.963106153490714,1,Thermophilic/Hyperthermophilic
+ACV12565.1 glycoside hydrolase family 9 [Halorhabdus utahensis DSM 12940],0.5885188911573926,1,Thermophilic/Hyperthermophilic
+SDR01458.1 hypothetical protein SAMN05216278_3263 [Halopelagius longus],0.052525277748964955,0,Mesophilic
+ACX72533.1 hypothetical protein Metvu_0674 [Methanocaldococcus vulcanius M7],0.948838201404695,1,Thermophilic/Hyperthermophilic
+QPV61503.1 glycoside hydrolase family 9 protein [Halosimplex litoreum],0.9954241001490189,1,Thermophilic/Hyperthermophilic
+QPV61938.1 cellulase family glycosylhydrolase [Halosimplex litoreum],0.7928997611253771,1,Thermophilic/Hyperthermophilic
+QPV62787.1 glycoside hydrolase family 9 protein [Halosimplex litoreum],0.9933153925708395,1,Thermophilic/Hyperthermophilic
+QPV64249.1 cellulase family glycosylhydrolase [Halosimplex litoreum],0.9490401122642649,1,Thermophilic/Hyperthermophilic
+QPV64251.1 cellulase family glycosylhydrolase [Halosimplex litoreum],0.9073874399192657,1,Thermophilic/Hyperthermophilic
+QPV64253.1 fibronectin type III domain-containing protein [Halosimplex litoreum],0.9680128109540002,1,Thermophilic/Hyperthermophilic
+QPV64254.1 hypothetical protein I7X12_06450 [Halosimplex litoreum],0.8217302545052649,1,Thermophilic/Hyperthermophilic
+QPV64257.1 cellulase family glycosylhydrolase [Halosimplex litoreum],0.5958022453923264,1,Thermophilic/Hyperthermophilic
+QPV64819.1 cellulase family glycosylhydrolase [Halosimplex litoreum],0.9999999881391012,1,Thermophilic/Hyperthermophilic
+ADQ07774.1 glycoside hydrolase family 5 [Caldicellulosiruptor hydrothermalis 108],0.6940894052966577,1,Thermophilic/Hyperthermophilic
+ADQ08066.1 glycoside hydrolase family 5 [Caldicellulosiruptor hydrothermalis 108],0.8640568500156898,1,Thermophilic/Hyperthermophilic
+NGO38408.1 cellulase family glycosylhydrolase [Limisphaera ngatamarikiensis],0.7686524421700694,1,Thermophilic/Hyperthermophilic
+NGO38663.1 glycoside hydrolase family 5 protein [Limisphaera ngatamarikiensis],0.9767454137542111,1,Thermophilic/Hyperthermophilic
+NGO38857.1 glycoside hydrolase family 5 protein [Limisphaera ngatamarikiensis],0.977155691893951,1,Thermophilic/Hyperthermophilic
+NGO39527.1 glycoside hydrolase family 5 protein [Limisphaera ngatamarikiensis],0.9999988844848718,1,Thermophilic/Hyperthermophilic
+NGO39974.1 glycoside hydrolase family 5 protein [Limisphaera ngatamarikiensis],0.6709647813950703,1,Thermophilic/Hyperthermophilic
+MCM8899918.1 thioredoxin domain-containing protein [Caldicoprobacter algeriensis],0.26445467340826817,0,Mesophilic
+MCM8901046.1 glycoside hydrolase family 9 protein [Caldicoprobacter algeriensis],0.1204117447458157,0,Mesophilic
+ADI31911.1 Cellulase [Staphylothermus hellenicus DSM 12710],0.6643923453901012,1,Thermophilic/Hyperthermophilic
+AQS60117.1 thioredoxin domain-containing protein [Desulforamulus ferrireducens],0.0907535704580701,0,Mesophilic
+SDB31725.1 endoglucanase [Eubacterium oxidoreducens],0.6312860983743703,1,Thermophilic/Hyperthermophilic
+AAK42142.1 Endoglucanase precursor [Saccharolobus solfataricus P2],0.980105569631385,1,Thermophilic/Hyperthermophilic
+"AAK42663.1 Cellulase (endo 1,4 beta glucanase), putative (celB) [Saccharolobus solfataricus P2]",0.9308359570733027,1,Thermophilic/Hyperthermophilic
+AEF18067.1 glycosyl hydrolase family 88 [Thermoanaerobacterium xylanolyticum LX-11],0.2598634378483187,0,Mesophilic
+TDT51927.1 6-phospho-beta-glucosidase [Fonticella tunisiensis],0.8191940118477238,1,Thermophilic/Hyperthermophilic
+MBM7624901.1 uncharacterized protein YyaL (SSP411 family) [Sporohalobacter salinus],0.15803776239535014,0,Mesophilic
+TCJ15604.1 glycoside hydrolase family 5 protein [Rubrobacter taiwanensis],0.9518380493798346,1,Thermophilic/Hyperthermophilic
+MBB3905859.1 aryl-phospho-beta-D-glucosidase BglC (GH1 family) [Anoxybacillus rupiensis],0.0883277788367758,0,Mesophilic
+"ABF44126.1 glycoside hydrolase, family 5 (plasmid) [Deinococcus geothermalis DSM 11300]",0.19964723217153024,0,Mesophilic
+EOT56837.1 hypothetical protein I579_00341 [Enterococcus asini ATCC 700915],0.07474221220437449,0,Mesophilic
+AEO53175.1 glycoside hydrolase family 5 protein [Thermothelomyces thermophilus ATCC 42464],0.9923389345058145,1,Thermophilic/Hyperthermophilic
+AEO53522.1 glycoside hydrolase family 7 protein [Thermothelomyces thermophilus ATCC 42464],0.019574597643502018,0,Mesophilic
+AEO55544.1 glycoside hydrolase family 7 protein [Thermothelomyces thermophilus ATCC 42464],0.16354395992064785,0,Mesophilic
+AEO57190.1 glycoside hydrolase family 6 protein [Thermothelomyces thermophilus ATCC 42464],0.07097239630723674,0,Mesophilic
+AEO57401.1 glycoside hydrolase family 5 protein [Thermothelomyces thermophilus ATCC 42464],0.4888682218144734,0,Mesophilic
+AEO58455.1 glycoside hydrolase family 5 protein [Thermothelomyces thermophilus ATCC 42464],0.05993697937399597,0,Mesophilic
+AEO58520.1 glycoside hydrolase family 5 protein [Thermothelomyces thermophilus ATCC 42464],0.0470294240310471,0,Mesophilic
+AEO58824.1 glycoside hydrolase family 7 protein [Thermothelomyces thermophilus ATCC 42464],0.300924728111146,0,Mesophilic
+AEO59280.1 glycoside hydrolase family 6 protein [Thermothelomyces thermophilus ATCC 42464],0.0218053578407088,0,Mesophilic
+AEO59361.1 glycoside hydrolase family 7 protein [Thermothelomyces thermophilus ATCC 42464],0.10256806144961082,0,Mesophilic
+AEO60532.1 glycoside hydrolase family 12 protein [Thermothelomyces thermophilus ATCC 42464],0.1974950060350233,0,Mesophilic
+AEO60897.1 glycoside hydrolase family 5 protein [Thermothelomyces thermophilus ATCC 42464],0.05137528448859268,0,Mesophilic
+AEO61262.1 glycoside hydrolase family 7 protein [Thermothelomyces thermophilus ATCC 42464],0.018681988259547675,0,Mesophilic
+MBH8591973.1 cellulase family glycosylhydrolase [Paenactinomyces guangxiensis],0.2035655633075929,0,Mesophilic
+QGR19734.1 hypothetical protein D1868_06830 [Stygiolobus azoricus],0.6751502056619434,1,Thermophilic/Hyperthermophilic
+KAF1690705.1 glycoside hydrolase [Pseudoxanthomonas taiwanensis],0.9930351687778525,1,Thermophilic/Hyperthermophilic
+KAF1690986.1 cellulase [Pseudoxanthomonas taiwanensis],0.9916306655439385,1,Thermophilic/Hyperthermophilic
+SFQ16344.1 Cellulase family 5 [Caldicoprobacter faecalis],0.14530436277233516,0,Mesophilic
+SFQ16376.1 non-processive endocellulase [Caldicoprobacter faecalis],0.13658395019068284,0,Mesophilic
+SFQ28529.1 hypothetical protein SAMN05444406_12330 [Caldicoprobacter faecalis],0.29817686679884503,0,Mesophilic
+EOC99482.1 Thymidylate kinase [Caldisalinibacter kiritimatiensis],0.6760739257822047,1,Thermophilic/Hyperthermophilic
+WPD18678.1 cellulase family glycosylhydrolase [Thermaerobacter composti],0.7426401741585339,1,Thermophilic/Hyperthermophilic
+ADI03480.1 putative endoglucanase [Streptomyces bingchenggensis BCW-1],0.5674262077244152,1,Thermophilic/Hyperthermophilic
+"ADI04930.1 cellulose 1,4-beta-cellobiosidase [Streptomyces bingchenggensis BCW-1]",0.080545713412746,0,Mesophilic
+ADI05235.1 endoglucanase [Streptomyces bingchenggensis BCW-1],0.9529715850892745,1,Thermophilic/Hyperthermophilic
+ADI06092.1 glycoside hydrolase family 6 [Streptomyces bingchenggensis BCW-1],0.9888516635270984,1,Thermophilic/Hyperthermophilic
+ADI06541.1 hypothetical protein SBI_03420 [Streptomyces bingchenggensis BCW-1],0.36509571127734675,0,Mesophilic
+ADI06662.1 glycoside hydrolase family 6 [Streptomyces bingchenggensis BCW-1],0.7285589221343473,1,Thermophilic/Hyperthermophilic
+ADI09008.1 endoglucanase [Streptomyces bingchenggensis BCW-1],0.9842725565044377,1,Thermophilic/Hyperthermophilic
+ADI09009.1 glycoside hydrolase family protein [Streptomyces bingchenggensis BCW-1],0.006466536665787826,0,Mesophilic
+ADI09835.1 putative secreted endoglucanase [Streptomyces bingchenggensis BCW-1],0.36071195259812994,0,Mesophilic
+ADI09891.1 putative hydrolase [Streptomyces bingchenggensis BCW-1],0.8347448168452132,1,Thermophilic/Hyperthermophilic
+"ADI10019.1 cellulose 1,4-beta-cellobiosidase [Streptomyces bingchenggensis BCW-1]",0.22687077758535065,0,Mesophilic
+"ADI10020.1 endo-1,4-beta-glucanase [Streptomyces bingchenggensis BCW-1]",0.06044786649853346,0,Mesophilic
+"ADI10021.1 cellulose 1,4-beta-cellobiosidase [Streptomyces bingchenggensis BCW-1]",0.8792010642935497,1,Thermophilic/Hyperthermophilic
+ADI11512.1 putative secreted endoglucanase [Streptomyces bingchenggensis BCW-1],0.9592993977468389,1,Thermophilic/Hyperthermophilic
+ADI12268.1 putative glycosylhydrolase [Streptomyces bingchenggensis BCW-1],0.8345047839435384,1,Thermophilic/Hyperthermophilic
+"ADI12306.1 cellulose 1,4-beta-cellobiosidase [Streptomyces bingchenggensis BCW-1]",0.9567044391006213,1,Thermophilic/Hyperthermophilic
+ADI12317.1 endoglucanase [Streptomyces bingchenggensis BCW-1],0.9175921325699732,1,Thermophilic/Hyperthermophilic
+ADI13041.1 glycoside hydrolase family 5 [Streptomyces bingchenggensis BCW-1],0.45868308022428145,0,Mesophilic
+ADI13081.1 glycoside hydrolase family 5 [Streptomyces bingchenggensis BCW-1],0.5993144632303705,1,Thermophilic/Hyperthermophilic
+ADI13085.1 putative cellulase CelA1 [Streptomyces bingchenggensis BCW-1],0.7039090826303095,1,Thermophilic/Hyperthermophilic
+ADI13086.1 glycoside hydrolase family 6 [Streptomyces bingchenggensis BCW-1],0.4491619033573766,0,Mesophilic
+ADI13090.1 hypothetical protein SBI_09972 [Streptomyces bingchenggensis BCW-1],0.5,0,Mesophilic
+"ABP65789.1 glycoside hydrolase, family 5 [Caldicellulosiruptor saccharolyticus DSM 8903]",0.9794986409897216,1,Thermophilic/Hyperthermophilic
+"ABP66690.1 glycoside hydrolase, family 48 [Caldicellulosiruptor saccharolyticus DSM 8903]",0.9307156146967345,1,Thermophilic/Hyperthermophilic
+"ABP66691.1 glycoside hydrolase, family 5 [Caldicellulosiruptor saccharolyticus DSM 8903]",0.902001194917198,1,Thermophilic/Hyperthermophilic
+"ABP66693.1 Cellulase., Cellulose 1,4-beta-cellobiosidase [Caldicellulosiruptor saccharolyticus DSM 8903]",0.959855752151951,1,Thermophilic/Hyperthermophilic
+"ABP66694.1 glycoside hydrolase, family 5 [Caldicellulosiruptor saccharolyticus DSM 8903]",0.12568124451963106,0,Mesophilic
+ANZ30852.1 hypothetical protein BCV53_12535 [Parageobacillus thermoglucosidasius],0.8619945630727321,1,Thermophilic/Hyperthermophilic
+GAA0523656.1 hypothetical protein GCM10009545_27440 [Saccharopolyspora thermophila],0.8250965234970529,1,Thermophilic/Hyperthermophilic
+TCS96873.1 hypothetical protein EDD58_101518 [Hazenella coriacea],0.03615641700246314,0,Mesophilic
+"CCQ32630.1 glycoside hydrolase, family GH5 [Halorhabdus tiamatea SARL4B]",0.8919237010276296,1,Thermophilic/Hyperthermophilic
+"CCQ33656.1 beta-1,4-glucanase, family GH5-Fn3- [Halorhabdus tiamatea SARL4B]",0.9999978115300355,1,Thermophilic/Hyperthermophilic
+CCQ34230.1 chitin binding protein [Halorhabdus tiamatea SARL4B],0.8073716969477233,1,Thermophilic/Hyperthermophilic
+CCQ34231.1 chitin binding protein [Halorhabdus tiamatea SARL4B],0.6079488514403338,1,Thermophilic/Hyperthermophilic
+"CCQ34232.1 endo-1,4-beta-xylanase A precursor [Halorhabdus tiamatea SARL4B]",0.903363425338501,1,Thermophilic/Hyperthermophilic
+CCQ34235.1 chitin binding protein [Halorhabdus tiamatea SARL4B],0.9765780312921158,1,Thermophilic/Hyperthermophilic
+CCQ34237.1 chitin binding protein [Halorhabdus tiamatea SARL4B],0.9826677283882099,1,Thermophilic/Hyperthermophilic
+"CCQ34238.1 beta-1,4-glucanase family GH9-CBM3 [Halorhabdus tiamatea SARL4B]",0.4769456129835814,0,Mesophilic
+"QXJ28463.1 Extracellular endo-1,4-beta-glucanase [Saccharolobus shibatae B12]",0.9563197859910726,1,Thermophilic/Hyperthermophilic
+"QXJ29013.1 Cytoplasmic endo-1,4-beta-glucanase [Saccharolobus shibatae B12]",0.9718589470146977,1,Thermophilic/Hyperthermophilic
+"QXJ29154.1 Extracellular endo-1,4-beta-glucanase [Saccharolobus shibatae B12]",0.9485730680787713,1,Thermophilic/Hyperthermophilic
+AIC16068.1 hypothetical protein NVIE_018090 [Nitrososphaera viennensis EN76],0.1798562152925064,0,Mesophilic
+SHF36272.1 Glycosyl hydrolases family 6 [Streptoalloteichus hindustanus],0.917724616326616,1,Thermophilic/Hyperthermophilic
+SHG04458.1 endoglycosylceramidase [Streptoalloteichus hindustanus],0.9999997148701956,1,Thermophilic/Hyperthermophilic
+CDM67132.1 endoglucanase [Pyrinomonas methylaliphatogenes],0.8534850034964012,1,Thermophilic/Hyperthermophilic
+"ACP44630.1 cellulase (endo 1,4 beta glucanase), putative (CelB) [Sulfolobus islandicus Y.G.57.14]",0.9511990847344693,1,Thermophilic/Hyperthermophilic
+ACP45001.1 endoglucanase precursor [Sulfolobus islandicus Y.G.57.14],0.9795846459647605,1,Thermophilic/Hyperthermophilic
+AWR98165.1 cellulase [Acidianus sulfidivorans JP7],0.912746014331241,1,Thermophilic/Hyperthermophilic
+AWR98635.1 hypothetical protein DFR87_01740 [Metallosphaera hakonensis JCM 8857 = DSM 7519],0.6825387843487767,1,Thermophilic/Hyperthermophilic
+ABW01682.1 glycoside hydrolase family 12 [Caldivirga maquilingensis IC-167],0.9938093586851291,1,Thermophilic/Hyperthermophilic
+RAK18867.1 hypothetical protein B0I26_10842 [Anoxybacillus vitaminiphilus],0.5138936838459711,1,Thermophilic/Hyperthermophilic
+BFH74238.1 hypothetical protein SJAV_21820 [Sulfurisphaera javensis],0.9962430103867977,1,Thermophilic/Hyperthermophilic
+MUN29067.1 hypothetical protein GC250_06370 [Sulfolobus metallicus DSM 6482 = JCM 9184],0.5665006109748565,1,Thermophilic/Hyperthermophilic
+MBB5131105.1 aryl-phospho-beta-D-glucosidase BglC (GH1 family) [Thermocatellispora tengchongensis],0.9315762337833103,1,Thermophilic/Hyperthermophilic
+MBB5132691.1 endoglucanase [Thermocatellispora tengchongensis],0.9206179115390536,1,Thermophilic/Hyperthermophilic
+MBB5133782.1 hypothetical protein HNP84_003508 [Thermocatellispora tengchongensis],0.9908395175844471,1,Thermophilic/Hyperthermophilic
+"MBB5134243.1 mannan endo-1,4-beta-mannosidase, partial [Thermocatellispora tengchongensis]",0.529157531846133,1,Thermophilic/Hyperthermophilic
+MBB5134244.1 hypothetical protein HNP84_003976 [Thermocatellispora tengchongensis],0.9768112639807921,1,Thermophilic/Hyperthermophilic
+"MBB5135258.1 cellulose 1,4-beta-cellobiosidase [Thermocatellispora tengchongensis]",0.7575038874254221,1,Thermophilic/Hyperthermophilic
+MBB5135738.1 endoglucanase [Thermocatellispora tengchongensis],0.6717737645968795,1,Thermophilic/Hyperthermophilic
+MBB5135887.1 endoglucanase [Thermocatellispora tengchongensis],0.8668498669966651,1,Thermophilic/Hyperthermophilic
+MBB5137133.1 hypothetical protein HNP84_006885 [Thermocatellispora tengchongensis],0.9844914190280833,1,Thermophilic/Hyperthermophilic
+MBB5138800.1 endoglucanase [Thermocatellispora tengchongensis],0.8069078331274929,1,Thermophilic/Hyperthermophilic
+MBB5138801.1 hypothetical protein HNP84_008559 [Thermocatellispora tengchongensis],0.8317686259627368,1,Thermophilic/Hyperthermophilic
+MBB5138802.1 endoglucanase [Thermocatellispora tengchongensis],0.9297932280420879,1,Thermophilic/Hyperthermophilic
+MBB5138921.1 endoglucanase [Thermocatellispora tengchongensis],0.9926075109888218,1,Thermophilic/Hyperthermophilic
+MBB5140165.1 hypothetical protein HNP84_009932 [Thermocatellispora tengchongensis],0.9851520061188793,1,Thermophilic/Hyperthermophilic
+SHI89581.1 hypothetical protein SAMN02745176_01730 [Lutispora thermophila DSM 19022],0.5856672094332631,1,Thermophilic/Hyperthermophilic
+CUH91631.1 putative secreted protein [Herbinix luporum],0.4523265761567261,0,Mesophilic
+CUH91691.1 hypothetical protein SD1D_0137 [Herbinix luporum],0.3411385508952401,0,Mesophilic
+CUH91693.1 Endoglucanase B [Herbinix luporum],0.5,0,Mesophilic
+CUH91791.1 Endoglucanase/exoglucanase B [Herbinix luporum],0.21985342011300474,0,Mesophilic
+CUH91792.1 Endoglucanase [Herbinix luporum],0.20388120863075082,0,Mesophilic
+CUH92781.1 Endoglucanase Z [Herbinix luporum],0.15728481639298372,0,Mesophilic
+CUH92782.1 Exoglucanase-2 [Herbinix luporum],0.1909768159051905,0,Mesophilic
+CUH93289.1 Endoglucanase C307 [Herbinix luporum],0.1094477502772983,0,Mesophilic
+"CUH93326.1 Cellulose 1,4-beta-cellobiosidase [Herbinix luporum]",0.39637606789641544,0,Mesophilic
+CUH93327.1 Endoglucanase F [Herbinix luporum],0.0646044002472061,0,Mesophilic
+CUH93330.1 putative secreted protein [Herbinix luporum],0.7694816002536824,1,Thermophilic/Hyperthermophilic
+CUH93427.1 hypothetical protein SD1D_1887 [Herbinix luporum],0.10036649941406117,0,Mesophilic
+KKA17010.1 Cellulase [Rasamsonia emersonii CBS 393.64],0.7440807264951186,1,Thermophilic/Hyperthermophilic
+"KKA17510.1 endo-beta-1,4-glucanase [Rasamsonia emersonii CBS 393.64]",0.891338256935203,1,Thermophilic/Hyperthermophilic
+KKA18928.1 DUF255 domain protein [Rasamsonia emersonii CBS 393.64],0.14445364347252773,0,Mesophilic
+KKA19681.1 Cellulase [Rasamsonia emersonii CBS 393.64],0.12777129202583565,0,Mesophilic
+"KKA20841.1 exo-beta-1,3-glucanase [Rasamsonia emersonii CBS 393.64]",0.012950558352946496,0,Mesophilic
+"KKA20991.1 Cellulose 1,4-beta-cellobiosidase (non-reducing end) [Rasamsonia emersonii CBS 393.64]",0.12511382934616322,0,Mesophilic
+"KKA21438.1 Xyloglucan-specific endo-beta-1,4-glucanase [Rasamsonia emersonii CBS 393.64]",0.6269867978998432,1,Thermophilic/Hyperthermophilic
+KKA22027.1 Glucanase [Rasamsonia emersonii CBS 393.64],0.0406929723605185,0,Mesophilic
+KKA22296.1 Cellulase [Rasamsonia emersonii CBS 393.64],0.20460867573736324,0,Mesophilic
+KKA22890.1 Endoglucanase [Rasamsonia emersonii CBS 393.64],0.7775789628075358,1,Thermophilic/Hyperthermophilic
+"KKA23484.1 endo-beta-1,4-glucanase [Rasamsonia emersonii CBS 393.64]",0.0669769094303583,0,Mesophilic
+"KKA23812.1 Cellulose 1,4-beta-cellobiosidase (non-reducing end) [Rasamsonia emersonii CBS 393.64]",0.6573918772916394,1,Thermophilic/Hyperthermophilic
+"KKA24880.1 endo-beta-1,6-glucanase [Rasamsonia emersonii CBS 393.64]",0.021365517841610913,0,Mesophilic
+ADL41864.1 glycoside hydrolase family 5 [Caldicellulosiruptor obsidiansis OB47],0.8266909144376192,1,Thermophilic/Hyperthermophilic
+"ADL42945.1 Cellulose 1,4-beta-cellobiosidase [Caldicellulosiruptor obsidiansis OB47]",0.9615394853983074,1,Thermophilic/Hyperthermophilic
+"ADL42950.1 Cellulase., Mannan endo-1,4-beta-mannosidase [Caldicellulosiruptor obsidiansis OB47]",0.9537903652779139,1,Thermophilic/Hyperthermophilic
+"ADL42951.1 Cellulose 1,4-beta-cellobiosidase [Caldicellulosiruptor obsidiansis OB47]",0.9097258240145931,1,Thermophilic/Hyperthermophilic
+"ADL42953.1 Cellulase., Cellulose 1,4-beta-cellobiosidase [Caldicellulosiruptor obsidiansis OB47]",0.9251107740732019,1,Thermophilic/Hyperthermophilic
+GAA3896681.1 hypothetical protein GCM10022244_03560 [Streptomyces gulbargensis],0.9481935987706445,1,Thermophilic/Hyperthermophilic
+GAA3904870.1 cellulase family glycosylhydrolase [Streptomyces gulbargensis],0.4479750579440859,0,Mesophilic
+GAA3904881.1 cellulase [Streptomyces gulbargensis],0.9184510582104793,1,Thermophilic/Hyperthermophilic
+"GAA3905559.1 cellulose 1,4-beta-cellobiosidase [Streptomyces gulbargensis]",0.7223139448068352,1,Thermophilic/Hyperthermophilic
+GAA3905568.1 cellulase family glycosylhydrolase [Streptomyces gulbargensis],0.9595164001413244,1,Thermophilic/Hyperthermophilic
+GAA3905578.1 glycoside hydrolase family 48 protein [Streptomyces gulbargensis],0.9669230386032529,1,Thermophilic/Hyperthermophilic
+GAA3919708.1 hypothetical protein GCM10022244_30990 [Streptomyces gulbargensis],0.9429144974251733,1,Thermophilic/Hyperthermophilic
+GAA3930457.1 glycoside hydrolase family 6 protein [Streptomyces gulbargensis],0.9956704610064064,1,Thermophilic/Hyperthermophilic
+GAA3940599.1 hypothetical protein GCM10022244_55840 [Streptomyces gulbargensis],0.9999941408062123,1,Thermophilic/Hyperthermophilic
+GGT89437.1 beta-glucuronidase [Sulfodiicoccus acidiphilus],0.9956041693352697,1,Thermophilic/Hyperthermophilic
+GGT92508.1 hypothetical protein GCM10007116_07820 [Sulfodiicoccus acidiphilus],0.947777291079131,1,Thermophilic/Hyperthermophilic
+GGT94270.1 hypothetical protein GCM10007116_09820 [Sulfodiicoccus acidiphilus],0.8838717715576141,1,Thermophilic/Hyperthermophilic
+ADQ04043.1 glycoside hydrolase family 5 [Caldicellulosiruptor owensensis OL],0.5269865913182022,1,Thermophilic/Hyperthermophilic
+PHJ39622.1 hypothetical protein P378_02875 [Desulforamulus profundi],0.7524029074426272,1,Thermophilic/Hyperthermophilic
+SHK26868.1 Beta-glucosidase/6-phospho-beta-glucosidase/beta-galactosidase [Clostridium cavendishii DSM 21758],0.7836051669355676,1,Thermophilic/Hyperthermophilic
+ENZ03507.1 hypothetical protein HMPREF1092_00694 [Clostridium thermobutyricum],0.7741005418150311,1,Thermophilic/Hyperthermophilic
+GCE48755.1 hypothetical protein KTH_36240 [Thermosporothrix hazakensis],0.015944999231141725,0,Mesophilic
+GCE50102.1 hypothetical protein KTH_49710 [Thermosporothrix hazakensis],0.5296428657102257,1,Thermophilic/Hyperthermophilic
+GCE50103.1 glucanase [Thermosporothrix hazakensis],0.8144776615746062,1,Thermophilic/Hyperthermophilic
+GCE50128.1 hypothetical protein KTH_49970 [Thermosporothrix hazakensis],0.9414008855569006,1,Thermophilic/Hyperthermophilic
+GCE50334.1 hypothetical protein KTH_52030 [Thermosporothrix hazakensis],0.6097433942947479,1,Thermophilic/Hyperthermophilic
+GCE50518.1 glycoside hydrolase [Thermosporothrix hazakensis],0.14156760100216567,0,Mesophilic
+GCE51262.1 endoglucanase [Thermosporothrix hazakensis],0.5309531970538947,1,Thermophilic/Hyperthermophilic
+MGJ7044304.1 unsaturated rhamnogalacturonyl hydrolase [Thermoanaerobacterium thermosulfurigenes],0.29925348884122976,0,Mesophilic
+GAA4515356.1 hypothetical protein GCM10023173_13070 [Sphingobacterium thermophilum],0.060506285983004456,0,Mesophilic
+EEB73138.1 conserved hypothetical protein [Thermococcus sp. AM4],0.516534933547151,1,Thermophilic/Hyperthermophilic
+"EEB73588.2 endo-1,4-beta-glucanase b [Thermococcus sp. AM4]",0.9065258899908483,1,Thermophilic/Hyperthermophilic
+"SRX92804.1 putative cellulase CelA1 (endoglucanase) (endo-1,4-beta-glucanase) (FI-cmcase) (carboxymethyl cellulase) [Mycobacterium tuberculosis H37Rv] [Mycobacterium shimoidei]",0.6769627255346722,1,Thermophilic/Hyperthermophilic
+SRX95619.1 endoglycoceramidase [Nocardioides sp. JS614] [Mycobacterium shimoidei],0.4540974441613137,0,Mesophilic
+KAF0976663.1 hypothetical protein FDP41_004562 [Naegleria fowleri],0.03137355695324597,0,Mesophilic
+ACY97312.1 glycoside hydrolase family 6 [Thermomonospora curvata DSM 43183],0.9821952594367785,1,Thermophilic/Hyperthermophilic
+ACZ19972.1 glycoside hydrolase family 5 [Thermanaerovibrio acidaminovorans DSM 6589],0.594293250879832,1,Thermophilic/Hyperthermophilic
+GGJ00382.1 endoglucanase [Alicyclobacillus cellulosilyticus],0.8948202299402477,1,Thermophilic/Hyperthermophilic
+GGJ00652.1 endoglucanase [Alicyclobacillus cellulosilyticus],0.6750520603733884,1,Thermophilic/Hyperthermophilic
+AGN36282.1 endoglucanase EglA [Bacillus paralicheniformis ATCC 9945a],0.2562370512930249,0,Mesophilic
+AGN36283.1 endoglucanase CelA [Bacillus paralicheniformis ATCC 9945a],0.4935770573961772,0,Mesophilic
+AGN36284.1 putative endoglucanase CelB [Bacillus paralicheniformis ATCC 9945a],0.27548474204448725,0,Mesophilic
+"AGN36513.1 endo-1,4-beta-glucanase [Bacillus paralicheniformis ATCC 9945a]",0.022573679750850055,0,Mesophilic
+AGN37700.1 glycoside hydrolase family protein [Bacillus paralicheniformis ATCC 9945a],0.37587345666482536,0,Mesophilic
+AMW33355.1 glycoside hydrolase family 5 protein [Fervidobacterium islandicum],0.9306423778671297,1,Thermophilic/Hyperthermophilic
+PNS01287.1 hypothetical protein X927_00930 [Petrotoga mexicana DSM 14811],0.48144699092431453,0,Mesophilic
+AHL22547.1 hypothetical protein BD01_0925 [Thermococcus nautili],0.767026986706551,1,Thermophilic/Hyperthermophilic
+AWR93883.1 hypothetical protein DFR85_03870 [Acidianus brierleyi],0.9651166192375554,1,Thermophilic/Hyperthermophilic
+"ADQ45727.1 Cellulase., Cellulose 1,4-beta-cellobiosidase [Caldicellulosiruptor kronotskyensis 2002]",0.8881387396067258,1,Thermophilic/Hyperthermophilic
+"ADQ45728.1 Mannan endo-1,4-beta-mannosidase [Caldicellulosiruptor kronotskyensis 2002]",0.8653383121114699,1,Thermophilic/Hyperthermophilic
+"ADQ45729.1 Cellulose 1,4-beta-cellobiosidase [Caldicellulosiruptor kronotskyensis 2002]",0.8856296726294769,1,Thermophilic/Hyperthermophilic
+"ADQ45730.1 Mannan endo-1,4-beta-mannosidase [Caldicellulosiruptor kronotskyensis 2002]",0.9085068272681085,1,Thermophilic/Hyperthermophilic
+ADQ45731.1 Cellulase [Caldicellulosiruptor kronotskyensis 2002],0.7931227729989213,1,Thermophilic/Hyperthermophilic
+ADQ45732.1 glycoside hydrolase family 5 [Caldicellulosiruptor kronotskyensis 2002],0.74532794733534,1,Thermophilic/Hyperthermophilic
+"ADQ45737.1 Cellulose 1,4-beta-cellobiosidase [Caldicellulosiruptor kronotskyensis 2002]",0.9150371363485658,1,Thermophilic/Hyperthermophilic
+ADQ47167.1 glycoside hydrolase family 5 [Caldicellulosiruptor kronotskyensis 2002],0.9498412952186679,1,Thermophilic/Hyperthermophilic
+TDT71386.1 endoglucanase [Hypnocyclicus thermotrophus],0.22212937860577003,0,Mesophilic
+XEY14857.1 glycoside hydrolase family 5 protein [Fervidobacterium thailandense],0.9204275409097668,1,Thermophilic/Hyperthermophilic
+AFN73747.1 glycoside hydrolase family protein [Melioribacter roseus P3M-2],0.7885102636453494,1,Thermophilic/Hyperthermophilic
+AFN73995.1 endoglucanase [Melioribacter roseus P3M-2],0.01997063768469124,0,Mesophilic
+AFN73999.1 glycoside hydrolase family 9 [Melioribacter roseus P3M-2],0.34786125395599865,0,Mesophilic
+AFN75471.1 glycoside hydrolase family 9 [Melioribacter roseus P3M-2],0.2618550268824766,0,Mesophilic
+AFN75855.1 glycoside hydrolase family protein [Melioribacter roseus P3M-2],0.8112281081572182,1,Thermophilic/Hyperthermophilic
+AFN75856.1 glycoside hydrolase family 9 protein [Melioribacter roseus P3M-2],0.5572725045931495,1,Thermophilic/Hyperthermophilic
+AFN76067.1 glycoside hydrolase family 9 domain protein [Melioribacter roseus P3M-2],0.6780405696411467,1,Thermophilic/Hyperthermophilic
+AKX97101.1 hypothetical protein MOTHA_c17550 [Moorella thermoacetica],0.9814242328891706,1,Thermophilic/Hyperthermophilic
+BAJ62400.1 endoglucanase C [Anaerolinea thermophila UNI-1],0.30621860923909394,0,Mesophilic
+BAJ63901.1 endoglucanase [Anaerolinea thermophila UNI-1],0.34442172240864233,0,Mesophilic
+GAA0503070.1 thioredoxin domain-containing protein [Salinibacillus aidingensis],0.2201887139533512,0,Mesophilic
+ADI73986.1 protein of unknown function DUF255 [Methanohalobium evestigatum Z-7303],0.04882297458029619,0,Mesophilic
+AJG41198.1 endoglucanase [Thermotoga sp. RQ7],0.9110551422997255,1,Thermophilic/Hyperthermophilic
+AJG41199.1 endoglucanase [Thermotoga sp. RQ7],0.6990149112210767,1,Thermophilic/Hyperthermophilic
+GGK07858.1 hypothetical protein GCM10007043_22390 [Calditerricola satsumensis],0.8900368946929974,1,Thermophilic/Hyperthermophilic
+RZS95331.1 secreted protein [Cecembia calidifontis],0.10027221951929785,0,Mesophilic
+ADV60918.1 glycoside hydrolase family 5 [Isosphaera pallida ATCC 43644],0.48042289104468955,0,Mesophilic
+ADV61705.1 glycoside hydrolase family 9 [Isosphaera pallida ATCC 43644],0.09537831383414415,0,Mesophilic
+"PRX00792.1 UNVERIFIED_ORG: mannan endo-1,4-beta-mannosidase [Actinomadura viridilutea]",0.952517244274629,1,Thermophilic/Hyperthermophilic
+PRX01979.1 UNVERIFIED_ORG: glycosyl hydrolase family 6 [Actinomadura viridilutea],0.5,0,Mesophilic
+PRX02959.1 UNVERIFIED_ORG: endoglucanase [Actinomadura viridilutea],0.9927170629574869,1,Thermophilic/Hyperthermophilic
+PRX06196.1 UNVERIFIED_ORG: endoglucanase [Actinomadura viridilutea],0.9720075223331422,1,Thermophilic/Hyperthermophilic
+"PRX06239.1 UNVERIFIED_ORG: cellulose 1,4-beta-cellobiosidase [Actinomadura viridilutea]",0.9427761009026846,1,Thermophilic/Hyperthermophilic
+"PRX06242.1 UNVERIFIED_ORG: cellulose 1,4-beta-cellobiosidase [Actinomadura viridilutea]",0.4170901446427328,0,Mesophilic
+KNY25033.1 Cellulase [Pseudobacteroides cellulosolvens ATCC 35603 = DSM 2933],0.43285547359246923,0,Mesophilic
+KNY25129.1 glycoside hydrolase family 5 [Pseudobacteroides cellulosolvens ATCC 35603 = DSM 2933],0.5890087152644092,1,Thermophilic/Hyperthermophilic
+KNY25228.1 Cellulase [Pseudobacteroides cellulosolvens ATCC 35603 = DSM 2933],0.3680410215389136,0,Mesophilic
+KNY25262.1 Cellulase [Pseudobacteroides cellulosolvens ATCC 35603 = DSM 2933],0.5576621488441614,1,Thermophilic/Hyperthermophilic
+KNY25263.1 Cellulase [Pseudobacteroides cellulosolvens ATCC 35603 = DSM 2933],0.55511637359682,1,Thermophilic/Hyperthermophilic
+KNY25264.1 Cellulase [Pseudobacteroides cellulosolvens ATCC 35603 = DSM 2933],0.12963184815178444,0,Mesophilic
+KNY25265.1 Cellulase [Pseudobacteroides cellulosolvens ATCC 35603 = DSM 2933],0.2281810958718466,0,Mesophilic
+KNY25463.1 glycoside hydrolase family 5 [Pseudobacteroides cellulosolvens ATCC 35603 = DSM 2933],0.19105575442297273,0,Mesophilic
+KNY25560.1 Cellulase [Pseudobacteroides cellulosolvens ATCC 35603 = DSM 2933],0.7244739324658458,1,Thermophilic/Hyperthermophilic
+KNY25621.1 Cellulase [Pseudobacteroides cellulosolvens ATCC 35603 = DSM 2933],0.0395000190208829,0,Mesophilic
+"KNY25635.1 Cellulose 1,4-beta-cellobiosidase [Pseudobacteroides cellulosolvens ATCC 35603 = DSM 2933]",0.10112274885465038,0,Mesophilic
+"KNY25649.1 Cellulose 1,4-beta-cellobiosidase [Pseudobacteroides cellulosolvens ATCC 35603 = DSM 2933]",0.03832028016131655,0,Mesophilic
+KNY25731.1 glycoside hydrolase family 5 [Pseudobacteroides cellulosolvens ATCC 35603 = DSM 2933],0.08563355328787672,0,Mesophilic
+KNY25732.1 Cellulase [Pseudobacteroides cellulosolvens ATCC 35603 = DSM 2933],0.4535931414707512,0,Mesophilic
+KNY25842.1 glycoside hydrolase family 9 [Pseudobacteroides cellulosolvens ATCC 35603 = DSM 2933],0.7601640247198365,1,Thermophilic/Hyperthermophilic
+"KNY25843.1 Cellulose 1,4-beta-cellobiosidase [Pseudobacteroides cellulosolvens ATCC 35603 = DSM 2933]",0.060178053737483035,0,Mesophilic
+"KNY25939.1 Cellulose 1,4-beta-cellobiosidase [Pseudobacteroides cellulosolvens ATCC 35603 = DSM 2933]",0.0759721468394094,0,Mesophilic
+KNY26018.1 Cellulase [Pseudobacteroides cellulosolvens ATCC 35603 = DSM 2933],0.21876980137356017,0,Mesophilic
+KNY26068.1 Cellulase [Pseudobacteroides cellulosolvens ATCC 35603 = DSM 2933],0.6456236443506236,1,Thermophilic/Hyperthermophilic
+KNY26223.1 Cellulase [Pseudobacteroides cellulosolvens ATCC 35603 = DSM 2933],0.1917659846230303,0,Mesophilic
+KNY26233.1 glycoside hydrolase family 5 [Pseudobacteroides cellulosolvens ATCC 35603 = DSM 2933],0.13737278848785517,0,Mesophilic
+"KNY26485.1 Glycoside hydrolase, family 44 [Pseudobacteroides cellulosolvens ATCC 35603 = DSM 2933]",0.07185335759636208,0,Mesophilic
+"KNY26506.1 Cellulose 1,4-beta-cellobiosidase [Pseudobacteroides cellulosolvens ATCC 35603 = DSM 2933]",0.14915175049144558,0,Mesophilic
+"KNY26550.1 Glycoside hydrolase, family 44 [Pseudobacteroides cellulosolvens ATCC 35603 = DSM 2933]",0.0998602695625534,0,Mesophilic
+KNY26551.1 Cellulase [Pseudobacteroides cellulosolvens ATCC 35603 = DSM 2933],0.10369705095628497,0,Mesophilic
+KNY26631.1 Cellulase [Pseudobacteroides cellulosolvens ATCC 35603 = DSM 2933],0.07985652204081535,0,Mesophilic
+KNY26685.1 Cellulase [Pseudobacteroides cellulosolvens ATCC 35603 = DSM 2933],0.09766823223100048,0,Mesophilic
+KNY26737.1 Cellulase [Pseudobacteroides cellulosolvens ATCC 35603 = DSM 2933],0.11824931609169081,0,Mesophilic
+KNY26805.1 hypothetical protein Bccel_2070 [Pseudobacteroides cellulosolvens ATCC 35603 = DSM 2933],0.5831028573923758,1,Thermophilic/Hyperthermophilic
+"KNY27223.1 Mannan endo-1,4-beta-mannosidase [Pseudobacteroides cellulosolvens ATCC 35603 = DSM 2933]",0.03313471667643273,0,Mesophilic
+"KNY27224.1 Mannan endo-1,4-beta-mannosidase, Cellulase [Pseudobacteroides cellulosolvens ATCC 35603 = DSM 2933]",0.023136988099100007,0,Mesophilic
+"KNY27286.1 Cellulose 1,4-beta-cellobiosidase [Pseudobacteroides cellulosolvens ATCC 35603 = DSM 2933]",0.1809795436203105,0,Mesophilic
+"KNY27461.1 Cellulose 1,4-beta-cellobiosidase [Pseudobacteroides cellulosolvens ATCC 35603 = DSM 2933]",0.2148673411626397,0,Mesophilic
+"KNY27462.1 Cellulose 1,4-beta-cellobiosidase [Pseudobacteroides cellulosolvens ATCC 35603 = DSM 2933]",0.23017492607887696,0,Mesophilic
+KNY27463.1 glycoside hydrolase family 9 [Pseudobacteroides cellulosolvens ATCC 35603 = DSM 2933],0.07491109560504279,0,Mesophilic
+"KNY27464.1 Cellulose 1,4-beta-cellobiosidase [Pseudobacteroides cellulosolvens ATCC 35603 = DSM 2933]",0.2799997108173927,0,Mesophilic
+"KNY27482.1 Cellulose 1,4-beta-cellobiosidase [Pseudobacteroides cellulosolvens ATCC 35603 = DSM 2933]",0.14340953440584403,0,Mesophilic
+KNY27552.1 Cellulase [Pseudobacteroides cellulosolvens ATCC 35603 = DSM 2933],0.13382752817812718,0,Mesophilic
+"KNY28339.1 Cellulose 1,4-beta-cellobiosidase [Pseudobacteroides cellulosolvens ATCC 35603 = DSM 2933]",0.2994497840725707,0,Mesophilic
+"KNY28340.1 Cellulose 1,4-beta-cellobiosidase [Pseudobacteroides cellulosolvens ATCC 35603 = DSM 2933]",0.4332746500378482,0,Mesophilic
+"KNY28341.1 Cellulose 1,4-beta-cellobiosidase [Pseudobacteroides cellulosolvens ATCC 35603 = DSM 2933]",0.3434368554198577,0,Mesophilic
+"KNY28342.1 Cellulose 1,4-beta-cellobiosidase [Pseudobacteroides cellulosolvens ATCC 35603 = DSM 2933]",0.28717495238985585,0,Mesophilic
+"KNY28343.1 Cellulose 1,4-beta-cellobiosidase [Pseudobacteroides cellulosolvens ATCC 35603 = DSM 2933]",0.24958249745404767,0,Mesophilic
+"KNY28344.1 Cellulose 1,4-beta-cellobiosidase [Pseudobacteroides cellulosolvens ATCC 35603 = DSM 2933]",0.07931395534911637,0,Mesophilic
+KNY28539.1 Cellulase [Pseudobacteroides cellulosolvens ATCC 35603 = DSM 2933],0.4524396031976387,0,Mesophilic
+"KNY28560.1 Cellulose 1,4-beta-cellobiosidase [Pseudobacteroides cellulosolvens ATCC 35603 = DSM 2933]",0.1576738348150183,0,Mesophilic
+KNY28669.1 glycoside hydrolase family 5 [Pseudobacteroides cellulosolvens ATCC 35603 = DSM 2933],0.20524479145748306,0,Mesophilic
+KNY28737.1 Cellulase [Pseudobacteroides cellulosolvens ATCC 35603 = DSM 2933],0.07126783889112763,0,Mesophilic
+KNY28917.1 glycoside hydrolase family 5 [Pseudobacteroides cellulosolvens ATCC 35603 = DSM 2933],0.07075104643287654,0,Mesophilic
+KNY29224.1 glycoside hydrolase family 5 [Pseudobacteroides cellulosolvens ATCC 35603 = DSM 2933],0.022577123792633932,0,Mesophilic
+"KNY29444.1 Cellulose 1,4-beta-cellobiosidase [Pseudobacteroides cellulosolvens ATCC 35603 = DSM 2933]",0.18234011928526248,0,Mesophilic
+"KNY29859.1 Cellulose 1,4-beta-cellobiosidase [Pseudobacteroides cellulosolvens ATCC 35603 = DSM 2933]",0.11640502489242577,0,Mesophilic
+KNY29912.1 Cellulase [Pseudobacteroides cellulosolvens ATCC 35603 = DSM 2933],0.23032475365842384,0,Mesophilic
+"KNY29939.1 Cellulose 1,4-beta-cellobiosidase [Pseudobacteroides cellulosolvens ATCC 35603 = DSM 2933]",0.4098253846558338,0,Mesophilic
+KNY30231.1 Cellulase [Pseudobacteroides cellulosolvens ATCC 35603 = DSM 2933],0.3029531663326967,0,Mesophilic
+"KNY30307.1 Cellulose 1,4-beta-cellobiosidase [Pseudobacteroides cellulosolvens ATCC 35603 = DSM 2933]",0.20533193599714114,0,Mesophilic
+"QEK78526.1 1,4-beta-glucanase [Pyrococcus furiosus DSM 3638]",0.9643600817808844,1,Thermophilic/Hyperthermophilic
+EMA59581.1 hypothetical protein C469_09666 [Halorubrum lipolyticum DSM 21995],0.5957591934388036,1,Thermophilic/Hyperthermophilic
+EGS18038.1 cellulase-like protein [Thermochaetoides thermophila DSM 1495],0.31389633139857126,0,Mesophilic
+"EGS18473.1 cellulose 1,4-beta-cellobiosidase II-like protein [Thermochaetoides thermophila DSM 1495]",0.6031412052011513,1,Thermophilic/Hyperthermophilic
+EGS18763.1 exoglucanase-like protein [Thermochaetoides thermophila DSM 1495],0.042124471331199946,0,Mesophilic
+EGS18971.1 endoglucanase-like protein [Thermochaetoides thermophila DSM 1495],0.45339343796083437,0,Mesophilic
+EGS19001.1 hypothetical protein CTHT_0056210 [Thermochaetoides thermophila DSM 1495],0.8613874106519728,1,Thermophilic/Hyperthermophilic
+EGS19718.1 hypothetical protein CTHT_0042000 [Thermochaetoides thermophila DSM 1495],0.0439147550076759,0,Mesophilic
+EGS20023.1 hypothetical protein CTHT_0045200 [Thermochaetoides thermophila DSM 1495],0.08847470631482636,0,Mesophilic
+EGS20050.1 cellulase-like protein [Thermochaetoides thermophila DSM 1495],0.7424544700871661,1,Thermophilic/Hyperthermophilic
+EGS20074.1 endoglucanase-like protein [Thermochaetoides thermophila DSM 1495],0.07230847454705024,0,Mesophilic
+EGS20370.1 hypothetical protein CTHT_0021970 [Thermochaetoides thermophila DSM 1495],0.8411907833387738,1,Thermophilic/Hyperthermophilic
+EGS20928.1 hypothetical protein CTHT_0027670 [Thermochaetoides thermophila DSM 1495],0.005102588243232553,0,Mesophilic
+EGS21251.1 exoglucanase-like protein [Thermochaetoides thermophila DSM 1495],0.18064745898929022,0,Mesophilic
+EGS22494.1 hypothetical protein CTHT_0020380 [Thermochaetoides thermophila DSM 1495],0.07494054136385515,0,Mesophilic
+EGS22518.1 hypothetical protein CTHT_0020620 [Thermochaetoides thermophila DSM 1495],0.20267171181123386,0,Mesophilic
+EGS24065.1 hypothetical protein CTHT_0007770 [Thermochaetoides thermophila DSM 1495],0.04981446316730225,0,Mesophilic
+SJZ60874.1 hypothetical protein SAMN02745885_00381 [Carboxydocella sporoproducens DSM 16521],0.7474701710132977,1,Thermophilic/Hyperthermophilic
+MFC7442781.1 cellulase family glycosylhydrolase [Laceyella putida],0.12379844083777569,0,Mesophilic
+PPS39583.1 hypothetical protein B1A85_22055 [Chroococcidiopsis sp. TS-821],0.545821997544973,1,Thermophilic/Hyperthermophilic
+PPS41468.1 glycoside hydrolase [Chroococcidiopsis sp. TS-821],0.11375538865491629,0,Mesophilic
+PPS43414.1 cellulase [Chroococcidiopsis sp. TS-821],0.09469709088735014,0,Mesophilic
+PPS44720.1 endoglucanase [Chroococcidiopsis sp. TS-821],0.8806931798579269,1,Thermophilic/Hyperthermophilic
+PPS45539.1 hypothetical protein B1A85_04635 [Chroococcidiopsis sp. TS-821],0.022312517074260144,0,Mesophilic
+ABU56316.1 glycoside hydrolase family 5 [Roseiflexus castenholzii DSM 13941],0.9701664108448163,1,Thermophilic/Hyperthermophilic
+"ABE50281.1 glycoside hydrolase, family 5 [Methylobacillus flagellatus KT]",0.04885076316566924,0,Mesophilic
+RWQ92385.1 glycoside hydrolase family 5 protein [Paecilomyces variotii],0.04639744807690983,0,Mesophilic
+"RWQ92546.1 putative endo-beta-1,6-glucanase [Paecilomyces variotii]",0.017370120407284,0,Mesophilic
+RWQ93015.1 concanavalin A-like lectin/glucanase domain-containing protein [Paecilomyces variotii],0.4539452227353454,0,Mesophilic
+RWQ98527.1 glycoside hydrolase superfamily [Paecilomyces variotii],0.0344336774241859,0,Mesophilic
+RWQ99563.1 putative cellulase [Paecilomyces variotii],0.03204276005505266,0,Mesophilic
+PZX64826.1 endoglucanase [Hydrotalea sandarakina],0.5353367693535906,1,Thermophilic/Hyperthermophilic
+"ADN01239.1 glycoside hydrolase, family 9 [Spirochaeta thermophila DSM 6192]",0.9865018267865399,1,Thermophilic/Hyperthermophilic
+"ADN01378.1 glycosyl hydrolase family 12 protein, TPS linker, domain X [Spirochaeta thermophila DSM 6192]",0.828078376734907,1,Thermophilic/Hyperthermophilic
+ADN01668.1 endoglucanase [Spirochaeta thermophila DSM 6192],0.9826280872942056,1,Thermophilic/Hyperthermophilic
+"ADN02189.1 putative cellulase, glycosyl hydrolase family 5 [Spirochaeta thermophila DSM 6192]",0.8356237571115733,1,Thermophilic/Hyperthermophilic
+"ADN02392.1 endo-1-4-beta glucanase, glycosyl hydrolase family 5 [Spirochaeta thermophila DSM 6192]",0.6847204668337035,1,Thermophilic/Hyperthermophilic
+ADN02583.1 cellodextrinase [Spirochaeta thermophila DSM 6192],0.9763871979878913,1,Thermophilic/Hyperthermophilic
+ADN02996.1 glycosyl hydrolase family 5 cellulase CBM64 [Spirochaeta thermophila DSM 6192],0.9658446801546724,1,Thermophilic/Hyperthermophilic
+"ADN02997.1 glycoside hydrolase family 9, CBM3, linker, domain X [Spirochaeta thermophila DSM 6192]",0.9719052531908035,1,Thermophilic/Hyperthermophilic
+"ADN02998.1 glycoside hydrolase family 9, CBM3, linker, domain X [Spirochaeta thermophila DSM 6192]",0.9428811330921661,1,Thermophilic/Hyperthermophilic
+"SEQ73461.1 Aryl-phospho-beta-D-glucosidase BglC, GH1 family [Natrinema salaciae]",0.5816132387702049,1,Thermophilic/Hyperthermophilic
+SEQ73665.1 Cellulase (glycosyl hydrolase family 5) [Natrinema salaciae],0.8454681419770887,1,Thermophilic/Hyperthermophilic
+SEQ73759.1 Cellulase (glycosyl hydrolase family 5) [Natrinema salaciae],0.5734953976615947,1,Thermophilic/Hyperthermophilic
+SEQ73901.1 Cellulase (glycosyl hydrolase family 5) [Natrinema salaciae],0.10827424249390215,0,Mesophilic
+SEQ80069.1 Glycosyl hydrolase family 12 [Natrinema salaciae],0.835711265948381,1,Thermophilic/Hyperthermophilic
+CRZ33667.1 Endoglucanase C307 [Herbinix hemicellulosilytica],0.7787138662210243,1,Thermophilic/Hyperthermophilic
+CRZ35393.1 Endoglucanase Z [Herbinix hemicellulosilytica],0.36752488741969896,0,Mesophilic
+CRZ35394.1 Exoglucanase-2 [Herbinix hemicellulosilytica],0.5702246176270557,1,Thermophilic/Hyperthermophilic
+CRZ35717.1 Endoglucanase E [Herbinix hemicellulosilytica],0.09804178718678698,0,Mesophilic
+WNF33670.1 glycoside hydrolase family 1 protein [Aeribacillus composti],0.1229300363417976,0,Mesophilic
+WNF34553.1 thioredoxin domain-containing protein [Aeribacillus composti],0.01862241147071709,0,Mesophilic
+MBA2872297.1 hypothetical protein HNQ85_002606 [Anoxybacillus calidus],0.367432841775692,0,Mesophilic
+MBM7556745.1 aryl-phospho-beta-D-glucosidase BglC (GH1 family) [Halanaerobacter jeridensis],0.039153136877252206,0,Mesophilic
+OYD07033.1 endoglucanase [Paludifilum halophilum],0.12555571792915085,0,Mesophilic
+"ORA20077.1 1,4-beta-glucanase [Mycobacterium arosiense ATCC BAA-1401 = DSM 45069]",0.779561806040478,1,Thermophilic/Hyperthermophilic
+ADQ39606.1 type 3a cellulose-binding domain protein [Caldicellulosiruptor acetigenus I77R1B],0.9159380162937367,1,Thermophilic/Hyperthermophilic
+ADQ39796.1 glycoside hydrolase family 5 [Caldicellulosiruptor acetigenus I77R1B],0.9328057435705147,1,Thermophilic/Hyperthermophilic
+ADQ41479.1 glycoside hydrolase family 5 [Caldicellulosiruptor acetigenus I77R1B],0.8165761822021308,1,Thermophilic/Hyperthermophilic
+ADQ41951.1 Cellulase [Caldicellulosiruptor acetigenus I77R1B],0.4505725675060456,0,Mesophilic
+AUG56050.1 Beta-mannanase/endoglucanase A precursor [Acetivibrio saccincola],0.09374255143865402,0,Mesophilic
+AUG56471.1 Endoglucanase 1 precursor [Acetivibrio saccincola],0.41508672238067634,0,Mesophilic
+AUG56624.1 Endoglucanase E1 precursor [Acetivibrio saccincola],0.6942046869885371,1,Thermophilic/Hyperthermophilic
+AUG56787.1 Endoglucanase G precursor [Acetivibrio saccincola],0.5438110432602051,1,Thermophilic/Hyperthermophilic
+AUG56788.1 Endoglucanase 1 precursor [Acetivibrio saccincola],0.42220880733521365,0,Mesophilic
+AUG56926.1 Endoglucanase 1 precursor [Acetivibrio saccincola],0.8054408615736841,1,Thermophilic/Hyperthermophilic
+AUG57322.1 Endoglucanase E1 precursor [Acetivibrio saccincola],0.3823032152506807,0,Mesophilic
+AUG57328.1 Endoglucanase Z precursor [Acetivibrio saccincola],0.6714203923855205,1,Thermophilic/Hyperthermophilic
+AUG57358.1 Endoglucanase 1 precursor [Acetivibrio saccincola],0.7957433410595359,1,Thermophilic/Hyperthermophilic
+"AUG57501.1 Cellulose 1,4-beta-cellobiosidase precursor [Acetivibrio saccincola]",0.6828230688301757,1,Thermophilic/Hyperthermophilic
+AUG57562.1 Endoglucanase 1 precursor [Acetivibrio saccincola],0.8688916648607578,1,Thermophilic/Hyperthermophilic
+AUG57784.1 Endoglucanase 1 precursor [Acetivibrio saccincola],0.28975318260841476,0,Mesophilic
+AUG57808.1 Endoglucanase 1 precursor [Acetivibrio saccincola],0.5739107344169334,1,Thermophilic/Hyperthermophilic
+AUG57819.1 Endoglucanase E precursor [Acetivibrio saccincola],0.6780165426752336,1,Thermophilic/Hyperthermophilic
+"AUG58129.1 Cellulose 1,4-beta-cellobiosidase precursor [Acetivibrio saccincola]",0.3216520456023828,0,Mesophilic
+AUG58357.1 Endoglucanase 5A [Acetivibrio saccincola],0.3499248838980396,0,Mesophilic
+AUG58400.1 Endoglucanase 1 precursor [Acetivibrio saccincola],0.0677190308377054,0,Mesophilic
+AUG58665.1 Endoglucanase 1 precursor [Acetivibrio saccincola],0.31838612032381125,0,Mesophilic
+AUG58721.1 Endoglucanase precursor [Acetivibrio saccincola],0.6847508209119721,1,Thermophilic/Hyperthermophilic
+"AUG58811.1 Cellulose 1,4-beta-cellobiosidase (reducing end) CelS precursor [Acetivibrio saccincola]",0.4016098396396231,0,Mesophilic
+"SMO31941.1 mannan endo-1,4-beta-mannosidase [Melghirimyces algeriensis]",0.024908653284926745,0,Mesophilic
+SCL47670.1 endoglucanase [Micromonospora chersina],0.9929693915833604,1,Thermophilic/Hyperthermophilic
+SCL50147.1 endoglucanase [Micromonospora chersina],0.9340251724093005,1,Thermophilic/Hyperthermophilic
+SCL52025.1 endoglucanase [Micromonospora chersina],0.8751713153903085,1,Thermophilic/Hyperthermophilic
+SCL54748.1 Carbohydrate binding domain-containing protein [Micromonospora chersina],0.9452436984587405,1,Thermophilic/Hyperthermophilic
+"SCL56707.1 mannan endo-1,4-beta-mannosidase [Micromonospora chersina]",0.5921978743073495,1,Thermophilic/Hyperthermophilic
+SCL56928.1 processive endocellulase [Micromonospora chersina],0.9837420714640234,1,Thermophilic/Hyperthermophilic
+SCL57588.1 endoglucanase [Micromonospora chersina],0.8280719744362243,1,Thermophilic/Hyperthermophilic
+SCL59508.1 Cellulose binding domain-containing protein [Micromonospora chersina],0.8838761578648028,1,Thermophilic/Hyperthermophilic
+SCL69503.1 Cellulase/cellobiase CelA1 [Micromonospora chersina],0.8367907318188663,1,Thermophilic/Hyperthermophilic
+"SCL71812.1 cellulose 1,4-beta-cellobiosidase [Micromonospora chersina]",0.9260792948709583,1,Thermophilic/Hyperthermophilic
+KAL2264859.1 hypothetical protein VTJ83DRAFT_7369 [Remersonia thermophila],0.09100668910704006,0,Mesophilic
+KAL2264972.1 hypothetical protein VTJ83DRAFT_7482 [Remersonia thermophila],0.028491988480456122,0,Mesophilic
+KAL2265020.1 hypothetical protein VTJ83DRAFT_7530 [Remersonia thermophila],0.12887508757435784,0,Mesophilic
+KAL2265053.1 hypothetical protein VTJ83DRAFT_7563 [Remersonia thermophila],0.7657864385948204,1,Thermophilic/Hyperthermophilic
+KAL2265093.1 hypothetical protein VTJ83DRAFT_6193 [Remersonia thermophila],0.04300703069658173,0,Mesophilic
+KAL2265901.1 hypothetical protein VTJ83DRAFT_5253 [Remersonia thermophila],0.38338571459444876,0,Mesophilic
+KAL2267797.1 hypothetical protein VTJ83DRAFT_5074 [Remersonia thermophila],0.21698542775877813,0,Mesophilic
+KAL2267914.1 hypothetical protein VTJ83DRAFT_5191 [Remersonia thermophila],0.12986724650307951,0,Mesophilic
+KAL2268040.1 hypothetical protein VTJ83DRAFT_2886 [Remersonia thermophila],0.0212351702291694,0,Mesophilic
+KAL2269246.1 hypothetical protein VTJ83DRAFT_4092 [Remersonia thermophila],0.03262715318920044,0,Mesophilic
+KAL2270037.1 hypothetical protein VTJ83DRAFT_2221 [Remersonia thermophila],0.35230982820148293,0,Mesophilic
+KAL2270269.1 hypothetical protein VTJ83DRAFT_2453 [Remersonia thermophila],0.06160939746216759,0,Mesophilic
+KAL2270896.1 hypothetical protein VTJ83DRAFT_267 [Remersonia thermophila],0.8912665389927233,1,Thermophilic/Hyperthermophilic
+KAL2271410.1 hypothetical protein VTJ83DRAFT_781 [Remersonia thermophila],0.2190350623263916,0,Mesophilic
+KAL2271905.1 hypothetical protein VTJ83DRAFT_1276 [Remersonia thermophila],0.017615256442479285,0,Mesophilic
+"ADB86136.1 cellulase (endo 1,4 beta glucanase), putative [Saccharolobus islandicus L.D.8.5]",0.9552717574445346,1,Thermophilic/Hyperthermophilic
+ADB86610.1 hypothetical protein LD85_0905 [Saccharolobus islandicus L.D.8.5],0.9815618080197668,1,Thermophilic/Hyperthermophilic
+SMC20740.1 hypothetical protein SAMN02746041_01004 [Desulfacinum hydrothermale DSM 13146],0.9536517222000696,1,Thermophilic/Hyperthermophilic
+XEY04582.1 glycoside hydrolase family 5 protein [Fervidobacterium gondwanense],0.882619475594418,1,Thermophilic/Hyperthermophilic
+"AFL66263.1 Arabinogalactan endo-1,4-beta-galactosidase [Desulfurococcus amylolyticus DSM 16532]",0.978253696508411,1,Thermophilic/Hyperthermophilic
+AAM23368.1 conserved hypothetical protein [Caldanaerobacter subterraneus subsp. tengcongensis MB4],0.9624458743892143,1,Thermophilic/Hyperthermophilic
+"ADL19791.1 Endo-beta 1,4-glucanase [Acidilobus saccharovorans 345-15]",0.9888229787866516,1,Thermophilic/Hyperthermophilic
+"ADL19820.1 Endo-beta 1,4-glucanase [Acidilobus saccharovorans 345-15]",0.9843451236425361,1,Thermophilic/Hyperthermophilic
+MFD1673830.1 hypothetical protein ACFSB2_03790 [Alicyclobacillus fodiniaquatilis],0.19329361349478366,0,Mesophilic
+MFD1678098.1 glycoside hydrolase family 44 protein [Alicyclobacillus fodiniaquatilis],0.7846999289996035,1,Thermophilic/Hyperthermophilic
+ACL26277.1 glycoside hydrolase family 9 [Chloroflexus aggregans DSM 9485],0.8624662274460734,1,Thermophilic/Hyperthermophilic
+QLH77149.1 cellulase family glycosylhydrolase [Halosimplex rubrum],0.8853309206606997,1,Thermophilic/Hyperthermophilic
+QLH77150.1 cellulase family glycosylhydrolase [Halosimplex rubrum],0.3354040499265179,0,Mesophilic
+QLH77151.1 hypothetical protein HZS55_07510 [Halosimplex rubrum],0.825517789189832,1,Thermophilic/Hyperthermophilic
+QLH77152.1 fibronectin type III domain-containing protein [Halosimplex rubrum],0.9697629360751837,1,Thermophilic/Hyperthermophilic
+QLH77210.1 cellulase family glycosylhydrolase [Halosimplex rubrum],0.9955152077309797,1,Thermophilic/Hyperthermophilic
+QLH78823.1 glycoside hydrolase family 9 protein [Halosimplex rubrum],0.9960500690175061,1,Thermophilic/Hyperthermophilic
+QLH79797.1 cellulase family glycosylhydrolase [Halosimplex rubrum],0.8818468643846626,1,Thermophilic/Hyperthermophilic
+ADN50982.1 glycoside hydrolase family 12 [Vulcanisaeta distributa DSM 14429],0.9838695362413519,1,Thermophilic/Hyperthermophilic
+OAA29162.1 hypothetical protein AT15_04005 [Kosmotoga arenicorallina S304],0.4842222207098398,0,Mesophilic
+SHN33535.1 endoglucanase [Gracilibacillus kekensis],0.03734584354095973,0,Mesophilic
+BES81017.1 hypothetical protein PABY_05840 [Pyrodictium abyssi],0.935535767152037,1,Thermophilic/Hyperthermophilic
+AGE71770.1 hypothetical protein SacN8_09050 [Sulfolobus acidocaldarius N8],0.9490433467959771,1,Thermophilic/Hyperthermophilic
+"MBP2071438.1 endo-1,4-beta-mannosidase [Thermoanaerobacterium butyriciformans]",0.34129724045726106,0,Mesophilic
+MBP2071443.1 aryl-phospho-beta-D-glucosidase BglC (GH1 family) [Thermoanaerobacterium butyriciformans],0.9182231952245798,1,Thermophilic/Hyperthermophilic
+SIS52809.1 non-processive endocellulase [Alicyclobacillus vulcanalis],0.7245487656154473,1,Thermophilic/Hyperthermophilic
+MFC4075870.1 glycoside hydrolase family 5 protein [Salinithrix halophila],0.05580315109981379,0,Mesophilic
+UWP16699.1 cellulase family glycosylhydrolase [Coprococcus eutactus],0.14941705771468902,0,Mesophilic
+UWP16928.1 glycoside hydrolase family 9 protein [Coprococcus eutactus],0.026419482857551576,0,Mesophilic
+UWP17131.1 glycoside hydrolase family 5 protein [Coprococcus eutactus],0.12577331655770918,0,Mesophilic
+UWP17182.1 glycoside hydrolase family 5 protein [Coprococcus eutactus],0.7247824799551137,1,Thermophilic/Hyperthermophilic
+UWP18152.1 glycoside hydrolase family 9 protein [Coprococcus eutactus],0.08349874439282985,0,Mesophilic
+UWP18189.1 cellulase family glycosylhydrolase [Coprococcus eutactus],0.04536931893179503,0,Mesophilic
+CEP78490.1 cellulase [Defluviitoga tunisiensis],0.14908396052487408,0,Mesophilic
+AEV67086.1 endoglucanase [Acetivibrio clariflavus DSM 19732],0.569341882722377,1,Thermophilic/Hyperthermophilic
+"AEV67733.1 Cellulose binding domain-containing protein,dockerin-like protein [Acetivibrio clariflavus DSM 19732]",0.49495393646754093,0,Mesophilic
+AEV67797.1 endoglucanase [Acetivibrio clariflavus DSM 19732],0.21963946477780324,0,Mesophilic
+AEV68200.1 PDK repeat-containing protein [Acetivibrio clariflavus DSM 19732],0.259326055496865,0,Mesophilic
+"AEV68202.1 Cellulose binding domain-containing protein,dockerin-like protein [Acetivibrio clariflavus DSM 19732]",0.3126441237217383,0,Mesophilic
+AEV68203.1 thioredoxin domain protein [Acetivibrio clariflavus DSM 19732],0.8083938974504881,1,Thermophilic/Hyperthermophilic
+AEV68415.1 dockerin-like protein [Acetivibrio clariflavus DSM 19732],0.5806710058892265,1,Thermophilic/Hyperthermophilic
+"AEV68472.1 Cellulose binding domain-containing protein,dockerin-like protein [Acetivibrio clariflavus DSM 19732]",0.5646245512896673,1,Thermophilic/Hyperthermophilic
+AEV68577.1 dockerin-like protein [Acetivibrio clariflavus DSM 19732],0.2576710909292897,0,Mesophilic
+AEV68583.1 endoglucanase [Acetivibrio clariflavus DSM 19732],0.46359624111020803,0,Mesophilic
+"AEV69539.1 Cellulose binding domain-containing protein,dockerin-like protein [Acetivibrio clariflavus DSM 19732]",0.2890255164253004,0,Mesophilic
+AEV69564.1 dockerin-like protein [Acetivibrio clariflavus DSM 19732],0.462781658205836,0,Mesophilic
+AEV69573.1 Cellulose binding domain-containing protein [Acetivibrio clariflavus DSM 19732],0.4097747360460464,0,Mesophilic
+AEV69768.1 thioredoxin domain protein [Acetivibrio clariflavus DSM 19732],0.39773617707265413,0,Mesophilic
+AEV69770.1 dockerin-like protein [Acetivibrio clariflavus DSM 19732],0.19394403598779222,0,Mesophilic
+"AEV70357.1 putative carbohydrate binding protein,dockerin-like protein [Acetivibrio clariflavus DSM 19732]",0.08694595894360865,0,Mesophilic
+AEV70372.1 endoglucanase [Acetivibrio clariflavus DSM 19732],0.5,0,Mesophilic
+XTU89123.1 GH12 family glycosyl hydrolase domain-containing protein [Pyrococcus woesei],0.9675463899478932,1,Thermophilic/Hyperthermophilic
+RQG94244.1 glycoside hydrolase [Natrarchaeobius chitinivorans],0.9913149966747173,1,Thermophilic/Hyperthermophilic
+"AEA12777.1 endo-1,4-beta-glucanase [Thermoproteus uzoniensis 768-20]",0.7309056683291022,1,Thermophilic/Hyperthermophilic
+AGC68873.1 endoglucanase Z [Thermoclostridium stercorarium subsp. stercorarium DSM 8532],0.36941225700767816,0,Mesophilic
+AGC68874.1 exoglucanase-2 [Thermoclostridium stercorarium subsp. stercorarium DSM 8532],0.5367084547141459,1,Thermophilic/Hyperthermophilic
+POZ93100.1 hypothetical protein AA81_03605 [Petrotoga halophila DSM 16923],0.3214423282154373,0,Mesophilic
+SNT74067.1 N-terminal ig-like domain of cellulase [Amphiplicatus metriothermophilus],0.9913382146839321,1,Thermophilic/Hyperthermophilic
+"SNT74575.1 cellulose 1,4-beta-cellobiosidase [Amphiplicatus metriothermophilus]",0.6986104319261692,1,Thermophilic/Hyperthermophilic
+MGF7013116.1 hypothetical protein HNR27_000444 [Ornithinibacillus bavariensis],0.23786206518404931,0,Mesophilic
+TDY42593.1 cellulase (glycosyl hydrolase family 5) [Alicyclobacillus sacchari],0.25144986057374136,0,Mesophilic
+TDY51403.1 non-processive endocellulase [Alicyclobacillus sacchari],0.6782728544589509,1,Thermophilic/Hyperthermophilic
+CCW34506.1 Glycoside hydrolase family 44 [Chthonomonas calidirosea T49],0.38113284074685044,0,Mesophilic
+CCW36053.1 Endoglucanase [Chthonomonas calidirosea T49],0.04335819226590279,0,Mesophilic
+MBA9001589.1 hypothetical protein HNR21_000471 [Actinomadura cellulosilytica],0.9370562691707708,1,Thermophilic/Hyperthermophilic
+MBA9001602.1 endoglucanase [Actinomadura cellulosilytica],0.2466044961183488,0,Mesophilic
+MBA9001608.1 plastocyanin [Actinomadura cellulosilytica],0.9290380777242478,1,Thermophilic/Hyperthermophilic
+"MBA9001610.1 cellulose 1,4-beta-cellobiosidase [Actinomadura cellulosilytica]",0.4851970067350761,0,Mesophilic
+MBA9004146.1 hypothetical protein HNR21_003028 [Actinomadura cellulosilytica],0.9769271177496923,1,Thermophilic/Hyperthermophilic
+MBA9004582.1 endoglucanase [Actinomadura cellulosilytica],0.9326354428167157,1,Thermophilic/Hyperthermophilic
+"MBA9005569.1 mannan endo-1,4-beta-mannosidase [Actinomadura cellulosilytica]",0.772507110761664,1,Thermophilic/Hyperthermophilic
+PNR98600.1 endoglucanase [Petrotoga olearia DSM 13574],0.3307212296632643,0,Mesophilic
+ADG05167.1 protein of unknown function DUF255 [Kyrpidia tusciae DSM 2912],0.9803478072402011,1,Thermophilic/Hyperthermophilic
+QXJ40415.1 Cellobiose 2-epimerase [Parageobacillus caldoxylosilyticus],0.7281415257746224,1,Thermophilic/Hyperthermophilic
+QPA33130.1 thioredoxin domain-containing protein [Anoxybacillus caldiproteolyticus],0.4303603387615782,0,Mesophilic
+ADD08340.1 glycoside hydrolase family 1 [Aciduliprofundum boonei T469],0.9792507918113766,1,Thermophilic/Hyperthermophilic
+ADD09279.1 glycoside hydrolase family 5 [Aciduliprofundum boonei T469],0.1436077525084326,0,Mesophilic
+EHM10884.1 endoglucanase [Thermanaerovibrio velox DSM 12556],0.9855186977110431,1,Thermophilic/Hyperthermophilic
+KAL1990883.1 hypothetical protein VTN49DRAFT_5886 [Thermomyces lanuginosus],0.517580941886546,1,Thermophilic/Hyperthermophilic
+KAL1992413.1 hypothetical protein VTN49DRAFT_4445 [Thermomyces lanuginosus],0.043162477311557736,0,Mesophilic
+KAL1994416.1 hypothetical protein VTN49DRAFT_3085 [Thermomyces lanuginosus],0.16799683541890748,0,Mesophilic
+KAL1995946.1 hypothetical protein VTN49DRAFT_812 [Thermomyces lanuginosus],0.045869442942182044,0,Mesophilic
+SET67401.1 Hemolysin-type calcium-binding repeat-containing protein [Oceanicella actignis],0.5457835241132328,1,Thermophilic/Hyperthermophilic
+AZR73456.1 hypothetical protein BBF96_08710 [Anoxybacter fermentans],0.1403379656490304,0,Mesophilic
+AIF69907.1 hypothetical protein PAP_07590 [Palaeococcus pacificus DY20341],0.9758797035211398,1,Thermophilic/Hyperthermophilic
+BDG17649.1 hypothetical protein TbrSNM41_23830 (plasmid) [Thermus brockianus],0.9198385934179543,1,Thermophilic/Hyperthermophilic
+AEO62210.1 glycoside hydrolase family 6 protein [Thermothielavioides terrestris NRRL 8126],0.6951178155265675,1,Thermophilic/Hyperthermophilic
+AEO62940.1 glycoside hydrolase family 5 protein [Thermothielavioides terrestris NRRL 8126],0.03501384682514992,0,Mesophilic
+AEO63146.1 glycoside hydrolase family 7 protein [Thermothielavioides terrestris NRRL 8126],0.11294677800799731,0,Mesophilic
+AEO64066.1 glycoside hydrolase family 7 protein [Thermothielavioides terrestris NRRL 8126],0.0311627238935803,0,Mesophilic
+AEO64572.1 glycoside hydrolase family 6 protein [Thermothielavioides terrestris NRRL 8126],0.012461253361976548,0,Mesophilic
+AEO65930.1 glycoside hydrolase family 45 protein [Thermothielavioides terrestris NRRL 8126],0.16988325591002737,0,Mesophilic
+AEO66394.1 glycoside hydrolase family 5 protein [Thermothielavioides terrestris NRRL 8126],0.02795734148632723,0,Mesophilic
+AEO67140.1 glycoside hydrolase family 7 protein [Thermothielavioides terrestris NRRL 8126],0.02829510514290718,0,Mesophilic
+AEO67160.1 glycoside hydrolase family 12 protein [Thermothielavioides terrestris NRRL 8126],0.5,0,Mesophilic
+AEO67179.1 glycoside hydrolase family 5 protein [Thermothielavioides terrestris NRRL 8126],0.12375364497762571,0,Mesophilic
+AEO67421.1 glycoside hydrolase family 7 protein [Thermothielavioides terrestris NRRL 8126],0.5214534859517854,1,Thermophilic/Hyperthermophilic
+AEO67907.1 glycoside hydrolase family 5 protein [Thermothielavioides terrestris NRRL 8126],0.7062614122417623,1,Thermophilic/Hyperthermophilic
+AEO68296.1 glycoside hydrolase family 12 protein [Thermothielavioides terrestris NRRL 8126],0.43022489250934676,0,Mesophilic
+AEO68439.1 glycoside hydrolase family 5 protein [Thermothielavioides terrestris NRRL 8126],0.047551858892957696,0,Mesophilic
+AEO68519.1 glycoside hydrolase family 5 protein [Thermothielavioides terrestris NRRL 8126],0.0909819720561806,0,Mesophilic
+AEO69079.1 glycosyltransferase family 2 protein [Thermothielavioides terrestris NRRL 8126],0.9205657470757735,1,Thermophilic/Hyperthermophilic
+AEO69593.1 glycoside hydrolase family 5 protein [Thermothielavioides terrestris NRRL 8126],0.03247356554904284,0,Mesophilic
+AEO69910.1 glycoside hydrolase family 5 protein [Thermothielavioides terrestris NRRL 8126],0.5,0,Mesophilic
+AEO70062.1 glycoside hydrolase family 5 protein [Thermothielavioides terrestris NRRL 8126],0.5739463032636406,1,Thermophilic/Hyperthermophilic
+AEO70679.1 glycoside hydrolase family 5 protein [Thermothielavioides terrestris NRRL 8126],0.5469402975636408,1,Thermophilic/Hyperthermophilic
+AAZ54658.1 cellobiohydrolase. Glycosyl Hydrolase family 6 [Thermobifida fusca YX],0.5304023908645028,1,Thermophilic/Hyperthermophilic
+"AAZ54938.1 Mannan endo-1,4-beta-mannosidase. Glycosyl Hydrolase family 5 [Thermobifida fusca YX]",0.39928188221151667,0,Mesophilic
+AAZ55112.1 endoglucanase. Glycosyl Hydrolase family 6 [Thermobifida fusca YX],0.8421177425904823,1,Thermophilic/Hyperthermophilic
+"AAZ55662.1 cellulose 1,4-beta-cellobiosidase / endoglucanase. Glycosyl Hydrolase family 9 [Thermobifida fusca YX]",0.8995462075013236,1,Thermophilic/Hyperthermophilic
+"AAZ55992.1 cellulose 1,4-beta-cellobiosidase [Thermobifida fusca YX]",0.800143451628421,1,Thermophilic/Hyperthermophilic
+AAZ56209.1 endoglucanase. Glycosyl Hydrolase family 9 [Thermobifida fusca YX],0.9602725679578662,1,Thermophilic/Hyperthermophilic
+APF18708.1 non-processive endocellulase [Caldithrix abyssi DSM 13497],0.16262343131392792,0,Mesophilic
+APF18720.1 Cellulase family 5 [Caldithrix abyssi DSM 13497],0.011554250908535181,0,Mesophilic
+APF19198.1 Por secretion system C-terminal sorting domain-containing protein [Caldithrix abyssi DSM 13497],0.023095441401754038,0,Mesophilic
+SDH25727.1 hypothetical protein SAMN05192534_10362 [Alteribacillus persepolensis],0.2922502611252767,0,Mesophilic
+ADG87082.1 glycoside hydrolase family 12 [Thermobispora bispora DSM 43833],0.9548836957245243,1,Thermophilic/Hyperthermophilic
+ADG87649.1 cellulose-binding family II [Thermobispora bispora DSM 43833],0.7257353225924822,1,Thermophilic/Hyperthermophilic
+ADG88849.1 glycoside hydrolase family 48 [Thermobispora bispora DSM 43833],0.7449555690507274,1,Thermophilic/Hyperthermophilic
+ADG89029.1 glycoside hydrolase family 5 [Thermobispora bispora DSM 43833],0.8547981483194316,1,Thermophilic/Hyperthermophilic
+ADG89357.1 glycoside hydrolase family 6 [Thermobispora bispora DSM 43833],0.6990737508015525,1,Thermophilic/Hyperthermophilic
+ADG89529.1 glycoside hydrolase family 6 [Thermobispora bispora DSM 43833],0.9036146022130845,1,Thermophilic/Hyperthermophilic
+ACI18413.1 endoglucanase B [Dictyoglomus thermophilum H-6-12],0.9639552055015385,1,Thermophilic/Hyperthermophilic
+ACI18797.1 beta-mannanase/endoglucanase A [Dictyoglomus thermophilum H-6-12],0.2661061374398785,0,Mesophilic
+ACI19111.1 endoglucanase [Dictyoglomus thermophilum H-6-12],0.9710077393083082,1,Thermophilic/Hyperthermophilic
+ACI19118.1 endoglucanase [Dictyoglomus thermophilum H-6-12],0.9535351000057872,1,Thermophilic/Hyperthermophilic
+ACI19154.1 endoglucanase H [Dictyoglomus thermophilum H-6-12],0.988624634513298,1,Thermophilic/Hyperthermophilic
+ACI19692.1 endoglucanase H [Dictyoglomus thermophilum H-6-12],0.8082102825810379,1,Thermophilic/Hyperthermophilic
+AFK85204.1 glycosyl hydrolase family 88 [Thermoanaerobacterium saccharolyticum JW/SL-YS485],0.35164243443502646,0,Mesophilic
+AFK85368.1 glycoside hydrolase family 5 [Thermoanaerobacterium saccharolyticum JW/SL-YS485],0.5796795428791394,1,Thermophilic/Hyperthermophilic
+AFK87257.1 hypothetical protein Tsac_2253 [Thermoanaerobacterium saccharolyticum JW/SL-YS485],0.05102661647775444,0,Mesophilic
+AFK87324.1 Beta-galactosidase trimerisation domain protein [Thermoanaerobacterium saccharolyticum JW/SL-YS485],0.7436693560219673,1,Thermophilic/Hyperthermophilic
+AFK87329.1 glycoside hydrolase family 5 [Thermoanaerobacterium saccharolyticum JW/SL-YS485],0.9251186584854367,1,Thermophilic/Hyperthermophilic
+MCC9074586.1 cellulase family glycosylhydrolase [Litorilinea aerophila],0.9743368790457422,1,Thermophilic/Hyperthermophilic
+AEF93392.1 hypothetical protein Desca_0499 [Desulfotomaculum nigrificans CO-1-SRB],0.13988678111627945,0,Mesophilic
+KAL2115191.1 hypothetical protein VTJ04DRAFT_10854 [Mycothermus thermophilus],0.026400492600891664,0,Mesophilic
+KAL2115339.1 hypothetical protein VTJ04DRAFT_9594 [Mycothermus thermophilus],0.258359721048211,0,Mesophilic
+KAL2115394.1 hypothetical protein VTJ04DRAFT_9649 [Mycothermus thermophilus],0.5423596695042814,1,Thermophilic/Hyperthermophilic
+KAL2115474.1 hypothetical protein VTJ04DRAFT_9729 [Mycothermus thermophilus],0.05651217406323712,0,Mesophilic
+KAL2115923.1 hypothetical protein VTJ04DRAFT_10178 [Mycothermus thermophilus],0.11969816827414198,0,Mesophilic
+KAL2116235.1 hypothetical protein VTJ04DRAFT_8402 [Mycothermus thermophilus],0.0708083401118706,0,Mesophilic
+KAL2118733.1 hypothetical protein VTJ04DRAFT_8393 [Mycothermus thermophilus],0.04809974060061531,0,Mesophilic
+KAL2119084.1 hypothetical protein VTJ04DRAFT_6044 [Mycothermus thermophilus],0.6056834569539967,1,Thermophilic/Hyperthermophilic
+KAL2120063.1 hypothetical protein VTJ04DRAFT_7024 [Mycothermus thermophilus],0.6321382461095639,1,Thermophilic/Hyperthermophilic
+KAL2120210.1 hypothetical protein VTJ04DRAFT_4236 [Mycothermus thermophilus],0.20372232894484135,0,Mesophilic
+KAL2120298.1 hypothetical protein VTJ04DRAFT_4324 [Mycothermus thermophilus],0.06313313387530536,0,Mesophilic
+KAL2122790.1 hypothetical protein VTJ04DRAFT_3245 [Mycothermus thermophilus],0.38022919572987485,0,Mesophilic
+KAL2123475.1 hypothetical protein VTJ04DRAFT_3930 [Mycothermus thermophilus],0.9430026275415254,1,Thermophilic/Hyperthermophilic
+KAL2123865.1 hypothetical protein VTJ04DRAFT_230 [Mycothermus thermophilus],0.008136980001607183,0,Mesophilic
+KAL2124897.1 hypothetical protein VTJ04DRAFT_1262 [Mycothermus thermophilus],0.16501014576147455,0,Mesophilic
+KAL2125380.1 hypothetical protein VTJ04DRAFT_1745 [Mycothermus thermophilus],0.9591181750091923,1,Thermophilic/Hyperthermophilic
+KAL2125734.1 hypothetical protein VTJ04DRAFT_2099 [Mycothermus thermophilus],0.14872939963810045,0,Mesophilic
+"PWJ95895.1 1,4-alpha-glucan branching enzyme [Oceanotoga teriensis]",0.5,0,Mesophilic
+ACY97312.1 glycoside hydrolase family 6 [Thermomonospora curvata DSM 43183],0.9821952594367785,1,Thermophilic/Hyperthermophilic
+BDB99994.1 hypothetical protein SACC_30110 [Saccharolobus caldissimus],0.9999834956324187,1,Thermophilic/Hyperthermophilic
+BDC00005.1 hypothetical protein SACC_30210 [Saccharolobus caldissimus],0.9913064181065713,1,Thermophilic/Hyperthermophilic
+"SFV27013.1 Aryl-phospho-beta-D-glucosidase BglC, GH1 family [Thermoflavifilum thermophilum]",0.07009984651398465,0,Mesophilic
+SFV28299.1 N-terminal ig-like domain of cellulase [Thermoflavifilum thermophilum],0.07145025602822294,0,Mesophilic
+SFV32205.1 endoglucanase [Thermoflavifilum thermophilum],0.32274686488181376,0,Mesophilic
+ACK41435.1 beta-mannanase/endoglucanase A [Dictyoglomus turgidum DSM 6724],0.3155825641042849,0,Mesophilic
+ACK41602.1 Cellulase [Dictyoglomus turgidum DSM 6724],0.9719301163618113,1,Thermophilic/Hyperthermophilic
+ACK41916.1 glycoside hydrolase family 12 [Dictyoglomus turgidum DSM 6724],0.9709611164454779,1,Thermophilic/Hyperthermophilic
+ACK41954.1 Cellulase [Dictyoglomus turgidum DSM 6724],0.9445377795594271,1,Thermophilic/Hyperthermophilic
+ACK41956.1 glycoside hydrolase family 5 [Dictyoglomus turgidum DSM 6724],0.9475172824330751,1,Thermophilic/Hyperthermophilic
+ACK42859.1 Cellulase [Dictyoglomus turgidum DSM 6724],0.9801879743685681,1,Thermophilic/Hyperthermophilic
+SFR85302.1 PKD domain-containing protein [Halomicrobium zhouii],0.6670751531314276,1,Thermophilic/Hyperthermophilic
+SFR88356.1 endoglucanase [Halomicrobium zhouii],0.9935429732222429,1,Thermophilic/Hyperthermophilic
+SFR99133.1 PKD domain-containing protein [Halomicrobium zhouii],0.8333939376505138,1,Thermophilic/Hyperthermophilic
+SFR99140.1 PKD domain-containing protein [Halomicrobium zhouii],0.6177817596789432,1,Thermophilic/Hyperthermophilic
+SFR99156.1 PKD domain-containing protein [Halomicrobium zhouii],0.8043260962749007,1,Thermophilic/Hyperthermophilic
+"SFR99161.1 Aryl-phospho-beta-D-glucosidase BglC, GH1 family [Halomicrobium zhouii]",0.9574186987487487,1,Thermophilic/Hyperthermophilic
+SFR99166.1 Fibronectin type III domain-containing protein [Halomicrobium zhouii],0.9157330364958359,1,Thermophilic/Hyperthermophilic
+SFR99177.1 Tat (twin-arginine translocation) pathway signal sequence [Halomicrobium zhouii],0.961568185654991,1,Thermophilic/Hyperthermophilic
+TCO80517.1 aryl-phospho-beta-D-glucosidase BglC (GH1 family) [Plasticicumulans lactativorans],0.1583290746502361,0,Mesophilic
+TCO80519.1 aryl-phospho-beta-D-glucosidase BglC (GH1 family) [Plasticicumulans lactativorans],0.9999867968749703,1,Thermophilic/Hyperthermophilic
+QAV33433.1 endoglucanase [Fervidobacterium changbaicum],0.9280424703028846,1,Thermophilic/Hyperthermophilic
+PSL03430.1 aryl-phospho-beta-D-glucosidase BglC (GH1 family) [Cecembia rubra],0.1256861696981478,0,Mesophilic
+PSL03777.1 cellulase-like Ig domain-containing protein [Cecembia rubra],0.04674255375256567,0,Mesophilic
+AOL15484.1 hypothetical protein BFU36_00630 [Sulfolobus sp. A20],0.7736725789614491,1,Thermophilic/Hyperthermophilic
+AOL16515.1 hypothetical protein BFU36_07185 [Sulfolobus sp. A20],0.9462249724373394,1,Thermophilic/Hyperthermophilic
+AOL16553.1 hypothetical protein BFU36_07415 [Sulfolobus sp. A20],0.9825565240459955,1,Thermophilic/Hyperthermophilic
+MBM7647051.1 uncharacterized protein YyaL (SSP411 family) [Scopulibacillus daqui],0.03424604377175417,0,Mesophilic
+AGE74043.1 hypothetical protein SacRon12I_09070 [Sulfolobus acidocaldarius Ron12/I],0.9490433467959771,1,Thermophilic/Hyperthermophilic
+KPL88393.1 endoglucanase [Ardenticatena maritima],0.992721649278755,1,Thermophilic/Hyperthermophilic
+KPL88683.1 hypothetical protein SE16_06155 [Ardenticatena maritima],0.9081495445192372,1,Thermophilic/Hyperthermophilic
+KPL89124.1 hypothetical protein SE16_00915 [Ardenticatena maritima],0.9502279386573087,1,Thermophilic/Hyperthermophilic
+QRV17480.1 cellulase family glycosylhydrolase (plasmid) [Haloterrigena salifodinae],0.4127845349160941,0,Mesophilic
+"SHF73518.1 Aryl-phospho-beta-D-glucosidase BglC, GH1 family [Caldanaerobius fijiensis DSM 17918]",0.1874486308784204,0,Mesophilic
+"SHF77449.1 glucan 1,3-beta-glucosidase [Caldanaerobius fijiensis DSM 17918]",0.7134726174258467,1,Thermophilic/Hyperthermophilic
+"SHF88345.1 Aryl-phospho-beta-D-glucosidase BglC, GH1 family [Caldanaerobius fijiensis DSM 17918]",0.09903353932518921,0,Mesophilic
+AKI98197.1 endoglucanase [Kosmotoga pacifica],0.41021808331576537,0,Mesophilic
+SCM55578.1 Endoglucanase C [Petrimonas mucosa],0.18047176975622578,0,Mesophilic
+"SCM57160.1 Xyloglucan-specific endo-beta-1,4-glucanase BoGH5A [Petrimonas mucosa]",0.05209012202910236,0,Mesophilic
+GHE77751.1 hypothetical protein GCM10017786_04080 [Amycolatopsis deserti],0.8991056478128928,1,Thermophilic/Hyperthermophilic
+AHD18354.1 endoglucanase [Thermotoga maritima MSB8],0.8986310544732973,1,Thermophilic/Hyperthermophilic
+AHD18355.1 endoglucanase [Thermotoga maritima MSB8],0.9754359315267365,1,Thermophilic/Hyperthermophilic
+AHD18578.1 endoglucanase [Thermotoga maritima MSB8],0.5060359940085156,1,Thermophilic/Hyperthermophilic
+AHD18579.1 endoglucanase [Thermotoga maritima MSB8],0.7073661168830662,1,Thermophilic/Hyperthermophilic

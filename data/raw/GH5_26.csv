@@ -1,0 +1,6 @@
+Unnamed: 0,Organism,GH_family,EC_number,GenBank_accession,UniProt_accession,PDB
+0,allomuricauda sp. mar_2010_75,GH5_26,3.2.1.4,WP_197062539.1,,
+1,bacterium enrichment culture clone cela24,GH5_26,3.2.1.4,ACR23659.1,C5HG56,
+2,cellvibrio mixtus atcc 12120,GH5_26,3.2.1.4,AAB61461.1,O07652,
+3,saccharophagus degradans 2-40,GH5_26,3.2.1.4,ABD80834.1,Q21KE5,"5A8M[A,B,C], 5A8N[A], 5A8O[A], 5A8P[A], 5A8Q[A], 5A94[A,B,C,D,E,F], 5A95[A,B,C]"
+4,xanthomonas albilineans xai-i,GH5_26,3.2.1.4,AAA27599.1,Q60100,

@@ -11,19 +11,41 @@ __pycache__/
 *.swp
 .*.swp
 
-# Large data
-data/
-results/
-logs/
-output_files/
+
+
 
 # IDE
 .vscode/
 .idea/
 dbcan/
 .snakemake/
+logs/
 
 # Docking results (keep directory but ignore contents)
 results/autodock_vina/*.pdbqt
 results/autodock_vina/*.sdf
 !results/autodock_vina/.gitkeep
+
+# INTERMEDIATE FILES (can be regenerated)
+data/query_structures/
+data/trimmed_structures/
+
+# INTERMEDIATE RESULTS
+results/hmmsearch_results/
+results/usalign_results/
+results/p2rank_predictions/
+results/signalp/
+
+# Large input
+data/proteomes/
+
+# Binary files
+*.pdb
+*.pdbqt
+*.hmm
+*.h3*
+
+# Temporary
+*.tmp
+*.swp
+*~

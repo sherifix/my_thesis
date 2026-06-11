@@ -1,0 +1,73 @@
+Unnamed: 0,Organism,GH_family,EC_number,GenBank_accession,UniProt_accession,PDB
+0,caldivirga maquilingensis ic-167,GH12,3.2.1.4,ABW02444.1,A8M9X3,
+1,pyrococcus furiosus dsm 3638,GH12,3.2.1.4,AAL80978.1,E7FHY8,"3VGI[A], 3WQ0[A], 3WQ1[A], 3WQ7[A,B], 3WR0[A], 3WT3[A,B], 3WXP[A], 3WY6[A]"
+2,saccharolobus shibatae b12,GH12,3.2.1.4,CZS63539.1,A0A1B5G0A1,
+3,saccharolobus solfataricus p2,GH12,3.2.1.4,CAC24331.1,Q97VS7,
+4,saccharolobus solfataricus p2,GH12,3.2.1.4,AAK41590.1,Q97YG7,
+5,thermococcus sp. 2319x1,GH12,3.2.1.4,ALV63957.1,A0A0U3SGP7,
+6,thermococcus sp. 2319x1,GH12,3.2.1.4,ALV63957.1,A0A0U3SGP7,"7S8K[A,B]"
+7,acidothermus cellulolyticus 11b,GH12,3.2.1.4,ABK52388.1,A0LSH8,"7MKR[A], 7MKS[A]"
+8,acidothermus cellulolyticus 11b,GH12,3.2.1.4,ABK52392.1,A0LSI2,
+9,bacillus licheniformis dsm 13 = atcc 14580,GH12,3.2.1.4,AAU42138.1,Q65FM6,"2JEM[A,B], 2JEN[A]"
+10,bacillus licheniformis gxn151,GH12,3.2.1.4,AAP44491.1,Q7X4S4,
+11,mycobacterium tuberculosis h37rv,GH12,3.2.1.4,CAA17206.1,O53438,
+12,pectobacterium carotovorum scc3193,GH12,3.2.1.4,AAA24817.1,P16630,
+13,pectobacterium carotovorum subsp. carotovorum ly34,GH12,3.2.1.4,AAC02965.2,O31030,
+14,pectobacterium sp. scc3193,GH12,3.2.1.4,AFI91032.1,P16630,
+15,rhodothermus marinus iti378,GH12,3.2.1.4,AAB65594.1,O33897,"1H0B[A,B], 2BW8[A,B], 2BWA[A,B], 2BWC[A,B], 3B7M[A,B,C,D]"
+16,streptomyces halstedii jm8,GH12,3.2.1.4,AAC45429.1,O08468,
+17,streptomyces lividans 1326,GH12,3.2.1.4,AAB71950.1,Q54331,"1NLR[A], 2NLR[A]"
+18,streptomyces rochei a2,GH12,3.2.1.4,CAA52139.1,Q59963,
+19,streptomyces sp. 11ag8,GH12,3.2.1.4,AAF91283.1,Q9KIH1,1OA4[A]
+20,streptomyces sp. g12,GH12,3.2.1.4,CCI74016.1,I7L8N7,
+21,streptomyces viridosporus t7a,GH12,3.2.1.4,AAD25090.1,Q9X602,
+22,streptomyces xylophagus kx6,GH12,3.2.1.4,ACN56471.1,D2D3J0,
+23,thermotoga maritima msb8,GH12,3.2.1.4,AGL50456.1,G4FFR2,"3AMH[A,B], 3AMM[A,B], 3AMN[A,B], 3AMP[A,B], 3AMQ[A,B,C,D], 3O7O[A,B], 3VHN[A,B,C,D,E,F,G,H], 3VHO[A,B], 3VHP[A,B]"
+24,thermotoga maritima msb8,GH12,3.2.1.4,AAD36592.1,G4FFR3,
+25,thermotoga neapolitana,GH12,3.2.1.4,AAC95059.1,O08428,
+26,thermotoga neapolitana,GH12,3.2.1.4,AAC95060.1,P96492,
+27,thermotoga petrophila rku-1,GH12,3.2.1.4,ABQ47281.1,A5IM58,
+28,thermotoga petrophila rku-1,GH12,3.2.1.4,ABQ47282.1,A5IM59,
+29,winmispira thermophila dsm 6192,GH12,3.2.1.4,ADN02999.1,E0RQU3,
+30,aspergillus aculeatus f-50,GH12,3.2.1.4,BAA00435.1,P22669,"5GM3[A,B], 5GM4[A,B,C,D,E,F,G], 5GM5[A,B,C,D,E,F,G]"
+31,aspergillus cervinus vkpm f-612,GH12,3.2.1.4,AYM46706.1,A0A3G2C3I4,
+32,aspergillus fumigatus af293,GH12,3.2.1.4,EAL86857.1,Q4WGT4,
+33,aspergillus kawachii ifo 4308,GH12,3.2.1.4,AAM77715.1,Q8NJY2,
+34,aspergillus kawachii ifo 4308,GH12,3.2.1.4,AAR63633.1,Q12679,
+35,aspergillus niger cbs 120.49 / n400,GH12,3.2.1.4,AAE60101.1,O74705,"1KS4[A], 1KS5[A]"
+36,aspergillus niger cbs 513.88,GH12,3.2.1.4,CAK46524.1,A2R322,
+37,aspergillus niger ho,GH12,3.2.1.4,AIX97359.1,O74705,
+38,aspergillus niger vtcc f-021 / vtcc-f021,GH12,3.2.1.4,ADD12042.1,D3YC02,
+39,aspergillus oryzae kbn616,GH12,3.2.1.4,BAA22588.1,O13454,
+40,aspergillus oryzae rib40,GH12,3.2.1.4,BAE59597.1,Q2UFR8,
+41,aspergillus terreus nih2624,GH12,3.2.1.4,EAU30085.1,Q0C8U0,
+42,aspergillus usamii e001,GH12,3.2.1.4,AEL12376.1,G1ETN1,
+43,bipolaris zeicola,GH12,3.2.1.4,AAF65311.1,Q9P8N6,
+44,chaetomium brasiliense cbs 140.50,GH12,3.2.1.4,AAM77701.1,Q8NJZ6,
+45,chrysosporium lucknowense,GH12,3.2.1.4,AAQ38148.1,,
+46,clonostachys rosea 1003,GH12,3.2.1.4,AAM77706.1,Q8NJZ1,
+47,clonostachys rosea 1003,GH12,3.2.1.4,AAM77707.1,Q8NJZ0,
+48,clonostachys rosea 1003,GH12,3.2.1.4,AAM77708.1,Q8NJY9,
+49,clonostachys rosea 1003,GH12,3.2.1.4,AAM77709.1,Q8NJY8,
+50,emericella desertorum cbs 653.73,GH12,3.2.1.4,AAM77702.1,Q8NJZ5,
+51,fomitopsis palustris ffpri 0507,GH12,3.2.1.4,BAF49602.1,A4PID1,
+52,fusarium equiseti cbs 185.34,GH12,3.2.1.4,AAM77703.1,Q8NJZ4,
+53,fusarium graminearum ph-1,GH12,3.2.1.4,XP_391213.1,,
+54,fusarium graminearum ph-1,GH12,3.2.1.4,SCB65334.1,I1RUJ7,
+55,fusarium graminearum ph-1,GH12,3.2.1.4,XP_383205.1,,
+56,fusarium striatum cbs 203.32,GH12,3.2.1.4,AAM77704.1,Q8NJZ3,
+57,fusarium striatum cbs 203.32,GH12,3.2.1.4,AAM77705.1,Q8NJZ2,
+58,gloeophyllum trabeum atcc 11539,GH12,3.2.1.4,AEJ35167.1,F8T946,
+59,humicola grisea atcc 22081,GH12,3.2.1.4,AAM77714.2,Q8NJY3,"1OLR[A], 1UU4[A], 1UU5[A], 1UU6[A], 1W2U[A]"
+60,hypocrea schweinitzii atcc 66965,GH12,3.2.1.4,AAM77711.1,Q8NJY6,"1OA3[A,B,C,D]"
+61,penicillium oxalicum 114-2,GH12,3.2.1.4,EPS31484.1,S7ZMB4,
+62,phanerochaete chrysosporium k3,GH12,3.2.1.4,AAU12276.1,Q66NB6,
+63,polyporus arcularius 69b-8,GH12,3.2.1.4,BAD98315.1,Q50LE3,
+64,postia placenta mad-698-r,GH12,3.2.1.4,ADH51731.1,D7REW4,
+65,stachybotrys chartarum cect 20565 / stachybotrys atra bp-a,GH12,3.2.1.4,CAL48345.1,Q08HM8,
+66,stachybotrys echinatus cbs 304.54,GH12,3.2.1.4,AAM77710.1,Q8NJY7,
+67,talaromyces amestolkiae cib,GH12,3.2.1.4,ATY39123.1,A0A2H4R494,
+68,trichoderma harzianum ioc-3844,GH12,3.2.1.4,AFK32784.1,I3RY46,"4H7M[A,B]"
+69,trichoderma koningii atcc 2613,GH12,3.2.1.4,AAM77712.1,Q8NJY5,
+70,trichoderma reesei qm9414,GH12,3.2.1.4,AAE59774.1,O00095,"1H8V[A,B,C,D,E,F], 1OA2[A,B,C,D,E,F], 1OLQ[A,B]"
+71,trichoderma viride atcc 26802,GH12,3.2.1.4,AAM77713.1,Q8NJY4,

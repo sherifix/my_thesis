@@ -1,5 +1,7 @@
 
-# Cel_screening
+# Master Thesis
+
+This repo contain files for master thesis. The pipeline used here is available at [Cel_screening](https://github.com/sherifix/cel_screening)
 
 **Pipeline for screening thermostable cellulases from GH family sequences**.
 

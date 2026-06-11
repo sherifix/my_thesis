@@ -1,0 +1,1239 @@
+Methanopyrus kandleri 116	190192
+Geogemma barossii 121	1927912
+Pyrolobus fumarii 1A, DSM 11204	694429
+Pyrococcus kukulkanii NCB100	1609559
+Pyrodictium brockii S1	35616
+Pyrodictium occultum PL-19	2309
+Methanopyrus kandleri AV19	190192
+Pyrococcus endeavori	39456
+Pyrodictium abyssi AV2	54256
+Hyperthermus butylicus DSM 5456	415426
+Pyrococcus yayanosii CH1	529709
+Pyrococcus woesei	2262
+Pyrobaculum aerophilum IM2	178306
+Pyrococcus glycovorans AL585	74610
+Pyrococcus furiosus Vc 1 DSM 3638	186497
+Thermococcus fumicolans ST557	46540
+Pyrobaculum organotrophum H10	2278
+Pyrobaculum islandicum DSM 4184	384616
+Pyrococcus horikoshii	53953
+Pyrococcus abyssi GE5	272844
+Stetteria hydrogenophila	52001
+Thermoproteus uzoniensis 768-20	999630
+Pyrococcus sp NA2	342949
+Pyrobaculum calidifontis VA1	410359
+Pyrobaculum arsenaticum PZ6, DSM 13514	340102
+Thermococcus peptonophilus OG-1	523851
+Thermococcus eurythermalis A501	1505907
+Thermococcus hydrothermalis AL662	46539
+Thermococcus kodakarensis KOD1	69014
+Pyrobaculum neutrophilum	70771
+Ignisphaera aggregans AQ1.S1, DSM 17230	583356
+Pyrobaculum ferrireducens 1860	1104324
+Staphylothermus marinus F1, DSM 3639	399550
+Ignicoccus hospitalis KIN4/I, DSM 18386	453591
+Ignicoccus islandicus  Kol8	54259
+Ignicoccus pacificus LPC33	940294
+Vulcanisaeta moutnovskia	985052
+Nanoarchaeum equitans	160232
+Pyrobaculum oguniense TE7, DSM 13380	698757
+Desulfurococcus amylolyticus	94694
+Hyperthermus hephaesti Ro04	1227648
+Pyrodictium delaneyi Su06	1273541
+Methanothermus sociabilis	2181
+Aeropyrum camini SY1, JCM 12091	1198449
+Desulfurococcus mobilis	2275
+Desulfurococcus saccharovorans	54257
+Thermoproteus neutrophilus	70771
+Acidianus infernus So4a	12915
+Thermoproteus tenax Kra1	768679
+Methanothermus fervidus V24S, DSM 2088	523846
+Pyrobaculum igneiluti	1806371
+Thermococcus gammatolerans EJ3	593117
+Thermococcus litoralis DSM 5473	523849
+Thermococcus marinus EJ1	187879
+Thermococcus radiotolerans EJ2	187880
+Thermococcus nautili 30-1	195522
+Thermofilum pendens Hrk 5	368408
+Aquifex pyrophilus	2714
+Aquifex aeolicus VF5	224324
+Sulfolobus tengchongensis	207809
+Thermococcus barophilus MP, DSM 11836	391623
+Thermogladius calderae 1633	1184251
+Thermococcus gorgonarius W-12	71997
+Thermococcus pacificus P-4	71998
+Thermococcus henrietii	2016361
+Thermococcus sp AM4	246969
+Sulfolobus yangmingensis YM1	73007
+Thermococcus prieurii	1128108
+Thermofilum adornatus 1910b	697581
+Acidianus hospitalis W1	933801
+Thermococcus waimanguensis	87734
+Thermococcus aggregans TY	110163
+Thermococcus cleftensis CL1	163003
+Thermococcus thioreducens	277988
+Pyrobaculum yellowstonensis sp WP30	
+Thermococcus stetteri	49900
+Thermococcus celer	2264
+Desulfurococcus mucosus 07/1, DSM 2162	765177
+Saccharolobus caldissimus HS-3	1702097
+Pyrococcus chitonophagus DSM 10152	
+Thermococcus acidaminovorans	71280
+Thermococcus siculi RG-20	72803
+Thermogladius shockii	477696
+Methanocaldococcus sp FS406-22	644281
+Acidilobus aceticus	105851
+Sulfurisphaera ohwakuensis	69656
+Thermococcus barossii SHCK-94	54077
+Thermosulfurimonas dismutans	999894
+Geoglobus ahangari	113653
+Methanotorris igneus Kol5, DSM 5666	880724
+Methanocaldococcus infernus ME	573063
+Methanocaldococcus jannaschii DSM 2661	243232
+Thermococcus paralvinellae ES1	582419
+Thermococcus aegaeicus P5	84597
+Thermococcus guaymasensis DSM 11113	1432656
+Vulcanisaeta distributa DSM 14429	572478
+Thermococcus coalescens TS1	227597
+Archaeoglobus profundus Av18, DSM 5631	572546
+Ferroglobus placidus AEDII12DO, DSM 10642	589924
+Staphylothermus hellenicus P8, DSM 12710	591019
+Thermosphaera aggregans M11TL, DSM 11486	633148
+Thermococcus alcaliphilus DSM 10322	139207
+Thermococcus atlanticus	155321
+Thermococcus waiotapuensis	90909
+Thermofilum uzonense 1807-2	1550241
+Caldivirga maquilingensis IC-167	397948
+Thermoproteus thermophilus	867916
+Vulcanisaeta thermophila CBA1501	867917
+Sulfolobus solfataricus MT4	2287
+Thermodesulfobacterium geofontis OPF15	795359
+Acidilobus saccharovorans 345-15	666510
+Sulfurisphaera javensis	2049879
+Methanocaldococcus bathoardescens JH146	1301915
+Sulfolobus solfataricus P2	273057
+Methanocaldococcus villosus KIN24-T80	1069083
+Sulfolobus solfataricus B12	2287
+Acidianus manzaensis NA-1	282676
+Palaeococcus pacificus DY20341	1343739
+Thermococcus onnurineus NA1	523850
+Thermococcus profundus DT 5432	49899
+Thermotoga maritima MSB8	243274
+Thermotoga neapolitana DSM 4359	309803
+Caldicellulosiruptor bescii Z-1320, DSM 6725	521460
+Thermococcus camini IRI35c	2016373
+Fervidobacterium changbaicum	310769
+Thermococcus piezophilus CDGS	1712654
+Pseudothermotoga hypogea NBRC 106472	1123384
+Korarchaeum cryptofilum	498846
+Vulcanisaeta souniana DSM 11430	1293586
+Acidilobus sulfurireducens	411357
+Caldisphaera draconis	411358
+Desulfurococcus fermentans Z-1312, DSM 16532	94694
+Thermocrinis ruber DSM 23557	932678
+Archaeoglobus lithotrophicus	138903
+Methanocaldococcus vulcanius M7, DSM 12094	579137
+Stygiolobus azoricus	41675
+Thermocrinis albus HI 11/12, DSM 14484	638303
+Palaeococcus ferrophilus	83868
+Archaeoglobus fulgidus VC-16, DSM 4304	224325
+Thermotoga petrophila RKU-1	390874
+Fervidobacterium thailandense	1008305
+Thermococcus sibiricus MM 739	604354
+Thermovibrio guaymasensis	240167
+Saccharolobus solfataricus	2287
+Desulfurococcus kamchatkensis 1221n	490899
+Desulfurolobus ambivalens	2283
+Sulfolobus acidocaldarius N8	1028566
+Acidianus ambivalens	2283
+Methanocaldococcus indicus SL43	213231
+Sulfolobus shibatae DSM 5389	523848
+Saccharolobus shibatae B12	523848
+Methanocaldococcus fervens AG86	573064
+Thermotoga naphthophila RKU-10	590168
+Thermothrix azorensis	48383
+Nanopusillus acidilobi	1577684
+Geoglobus acetivorans SBH6	565033
+Thermocrinis jamiesonii	1302351
+Sulfolobus sp A20	1891280
+Sulfolobus solfataricus 98/2	555311
+Sulfurisphaera tokodaii	111955
+Palaeococcus helgesonii	207243
+Thermococcus celericrescens TS2	227598
+Hydrogenobacter subterraneus	92642
+Caldicellulosiruptor obsidiansis OB47	608506
+Thermococcus zilligii	54076
+Archaeoglobus veneficus SNP6, DSM 11195	693661
+Thermocrinis minervae	381751
+Desulfurobacterium pacificum	240166
+Hydrogenivirga okinawensis	345592
+Sulfolobus acidocaldarius 98-3, DSM 639	330779
+Thermotoga caldifontis	1508419
+Thermus thermophilus	274
+Thermoanaerobacter brockii	29323
+Fervidicoccus fontis Kam940	1163730
+Caldicoprobacter guelmensis	1170224
+Acidianus manzaensis YN-25	282676
+Sulfolobus solfataricus P1	273057
+Archaeoglobus fulgidus DSM 8774	1344584
+Metallosphaera sedula DSM 5348	399549
+Pseudothermotoga thermarum DSM 5069	688269
+Calditerricola satsumensis	373054
+Methanotorris formicicus Mc-S-70	647171
+Acidianus sulfidivorans JP7	619593
+Thermus brockianus	56956
+Thermococcus indicus	2586643
+Caldicellulosiruptor kristjanssonii 177R1B, DSM 12137	301953
+Ammonifex thiophilus	444093
+Caldimicrobium rimae	444091
+Thermocladium modestius	62609
+Caldicellulosiruptor kronotskyensis 2002	632348
+Thermotoga sp RQ2	126740
+Calditerricola yamamurae	448141
+Thermovorax subterraneus	496831
+Sulfolobus tokodaii 7, JCM 10545	273063
+Dictyoglomus thermophilum H-6-12, ATCC 35947	309799
+Thermaerobacter marianensis 7p75a, DSM 12885	644966
+Phorcysia thermohydrogeniphila	936138
+Thermovibrio ammonificans HB-1, DSM 15698	648996
+Thermovibrio ruber	171869
+Thermoanaerobacter tengcongensis	119072
+Archaeoglobus sulfaticallidus PM70-1, DSM 19444 (Asulf_version1)	387631
+Sulfurihydrogenibium rodmanii	380763
+Metallosphaera prunae DSM 10039	43687
+Sulfolobus acidocaldarius Ron 12/11	1028567
+Caldicellulosiruptor owensensis OL	632518
+Persephonella marina	309805
+Thermus filiformis	276
+Caldisphaera lagunensis DSM 15908	1056495
+Balnearium lithotrophicum	223788
+Desulfurobacterium atlanticum 	240169
+Rhodothermus profundi	633813
+Thermosipho japonicus	90323
+Thermosipho japonicus	90323
+Desulfovirgula thermocuniculi	348842
+Thermoanaerobacter pentosaceus	694059
+Caldanaerobacter subterraneus	911092
+Geobacillus sp WCH70	471223
+Thermaerobacter subterraneus	175696
+Desulfurobacterium thermolithotrophum	64160
+Thermosipho melanesiensis BI429	391009
+Methanothermobacter tenebrarum	680118
+Metallosphaera hakonensis DSM 7519	1293036
+Thermus antranikianii	88190
+Thermus composti	532059
+Thermus parvatiensis	456163
+Vulcanithermus mediatlanticus	206045
+Fervidicola ferrireducens	520764
+Caldicellulosiruptor saccharolyticus DSM 8903	351627
+Thermodesulfatator indicus CIR29812, DSM 15286	667014
+Thermodesulfobacterium commune DSM 2178	289377
+Fervidobacterium pennivorans Ven 5, DSM 9078	771875
+Methanofervidicoccus abyssi	2082189
+Clostridium fervidus	29344
+Thermus rehai	153832
+Fervidobacterium nodosum Rt17-B1	381764
+Fervidobacterium gondwanense	44754
+Thermoanaerobacter acetoethylicus	2704
+Hydrogenothermus marinus	133270
+Thermosipho atlanticus 	238991
+Thermosipho atlanticus	238991
+Kosmotoga olearia 	651457
+Methanothermobacter crinale sp Tm2	1045764
+Thermus igniterrae	88189
+Caldicellulosiruptor hydrothermalis 108	632292
+Fervidobacterium islandicum	2423
+Fervidobacterium riparium	548918
+Chloroflexus aurantiacus J-10-fl	324602
+Thermaerobacter composti	554949
+Thermus aquaticus	271
+Thermus islandicus	540988
+Hydrogenobacter thermophilus TK-6, DSM 6534	608538
+Carboxydothermus hydrogenoformans Z-2901	246194
+Thermoanaerobacter italicus Ab9, DSM 9252	580331
+Thermoanaerobacter siderophilus	106578
+Thermosulfidibacter takaii	412593
+Thermaerobacter litoralis	317015
+Thermaerobacter nagasakiensis	159723
+Sulfurihydrogenibium yellowstonense	304736
+Kosmotoga pacifica	1330330
+Thermoanaerobacter thermohydrosulfuricus	1516
+Caldicellulosiruptor lactoaceticus 6A, DSM 9545	632516
+Thermus yunnanensis	266825
+Thermoanaerobacter sulfurophilus	74714
+Caldicellulosiruptor acetigenus	301953
+Geobacillus thermocatenulatus	33938
+Geobacillus kaustophilus HTA426	235909
+Brockia lithotrophica	933949
+Thermoanaerobacter ethanolicus	1757
+Hydrogenivirga caldilitoris	246264
+Thermosipho africanus TCF52B	484019
+Caldimicrobium thiodismutans	1653476
+Thermothrix thiopara	48382
+Caldicoprobacter oshimai	551788
+Rhodothermus marinus R-10, DSM 4252	518766
+Thermus arciformis	482827
+Ammonifex degensii KC4	429009
+Aciduliprofundum boonei T469	439481
+Thermomicrobium roseum DSM 5159	309801
+Desulfurella multipotens	79269
+Thermorudis pharmacophila	1167092
+Thermosediminibacter oceani JW/IW-1228P, DSM 16646	555079
+Thermosediminibacter litoriperuensis	291989
+Thermovenabulum ferriorganovorum	159731
+Geobacillus stearothermophilus	1422
+Thermoflexus hugenholtzii	1495650
+Caldicoprobacter faecalis	937334
+Thermoanaerobacter mathranii	583357
+Hydrogenobacter halophilus	2547829
+Archaeoglobus infectus	403219
+Geobacillus galactosidasius	883812
+Thermosipho affectus	660294
+Thermosipho geolei	117503
+Thermosipho affectus	660294
+Thermosipho geolei	117503
+Persephonella guaymasensis	182900
+Venenivibrio stagnispumantis 	407998
+Metallosphaera tengchongensis	1532350
+Acidianus brierleyi DSM 1651	41673
+Acidianus tengchongensis	146920
+Pseudothermotoga subterranea	39100
+Caldanaerobacter uzonensis	447594
+Thermosipho globiformans	380685
+Thermosipho globiformans	380685
+Coprothermobacter proteolyticus DSM 5265	309798
+Thermobaculum terrenum YNP1, ATCC BAA-798	525904
+Pseudothermotoga elfii	38322
+Geobacillus sp Y4.1MC1	581103
+Geobacillus sp Y412MC52	581103
+Parageobacillus caldoxylosilyticus	1234664
+Caldicoprobacter algeriensis	699281
+Desulfurobacterium indicum	1914305
+Thermosipho activus	1462921
+Thermosipho activus	1462921
+Kosmotoga shengliensis	501340
+Methanobacterium thermaggregans	83982
+Metallosphaera cuprina Ar-4	1006006
+Sulfolobus metallicus	47303
+Caldinitratiruptor microaerophilus	671077
+Rhabdothermus arcticus	874266
+Thermus thermamylovorans	2509362
+Planifilum yunnanense	337094
+Thermosulfuriphilus ammonigenes	1936021
+Pseudothermotoga lettingae TMO	416591
+Candidatus Nitrosocaldus islandicus	2045011
+Ardenticatena maritima	872965
+Geobacillus icigianus	1430331
+Caloramator indicus	33957
+Desulfotomaculum salinum	41211
+Methanothermococcus okinawensis IH1	647113
+Desulfotomaculum thermocisternum	42471
+Thermoanaerobacterium thermosulfirigenes	33950
+Deferribacter autotrophicus	500465
+Hippea alviniae	1279027
+Planifilum composti	1108801
+Polycladomyces subterraneus	1016997
+Anoxybacillus tengchongensis	576944
+Candidatus Nitrosocaldus yellowstonensis	498375
+Desulfotomaculum australicum	1566
+Candidatus Nitrosocaldus cavascurensis	2058097
+Carboxydothermus ferrireducens	54265
+Thermogemmatispora foliorum	732235
+Thermogemmatispora onikobensis	732234
+Thermoanaerobacter thermocopriae	29350
+Methanothermobacter wolfeii SIV6	145261
+Thermanaeromonas toyohensis	161154
+Chthonomonas calidirosea T49, DSM 23976 (Chthonomonas calirisosea T49, DSM 23976)	1427520
+Sulfurihydrogenibium kristjanssonii	460873
+Sulfurihydrogenibium azorense Az-Fu1	204536
+Thermus kawarayensis	171864
+Spirochaeta thermophila DSM 6192	869211
+Thermanaerothrix daxensis	869279
+Polycladomyces abyssicola	1125966
+Persephonella hydrogeniphila	198703
+Marinithermus hydrothermalis T1, DSM 14884	869210
+Caldanaerobius zeae	160792
+Caldanaerobius polysaccharolyticus	44256
+Thermoanaerobacter kivui DSM 2030	2325
+Thermoanaerobacter sulfurigignens	120958
+Synechococcus lividus	1897098
+Desulfotomaculum thermosubterraneum	348840
+Anoxybacillus flavithermus WK1, DSM 2641	491915
+Hippea jasoniae	944479
+Thermoanaerobacter uzonensis	447593
+Anoxybacter fermentans	1323375
+Geobacillus vulcani	135517
+Thermotoga profunda	1508420
+Desulfurella acetivorans A63, DSM 5264	694431
+Limisphaera ngatamarikiensis	1324935
+Thermus caliditerrae	1330700
+Thermomicrobium carboxidum	1401547
+Thermoanaerobacter pseudethanolicus	496866
+Sulfodiicoccus acidiphilus	1670455
+Hydrogenobaculum acidophilum	34092
+Geobacillus zalihae	213419
+Caldisericum exile AZM16c01, NBRC 104410	511051
+Caldisericum exile	693075
+Methanothermobacter marburgensis Marburg DSM 2133	145263
+Methanothermobacter thermautotrophicus Delta H	187420
+Methanococcus thermolithotrophicus	2186
+Marinitoga piezophila KA3	443254
+Streptomyces thermoautotrophicus	1469144
+Thermus tengchongensis	1214928
+Carboxydothermus islandicus	661089
+Carboxydothermus pertinax	870242
+Carboxydothermus siderophilus	441616
+Moorella humiferrea	676965
+Moorella mulderi	1122241
+Moorella stamsii	1266720
+Thermanaeromonas burensis	1226730
+Thermovenabulum gondwanense	520767
+Thermodesulfovibrio yellowstonii DSM 11347	289376
+Aciduliprofundum sp MAR08-339	1033300
+Conexivisphaera calidus	1874277
+Thermorudis peleae	1382356
+Thermosyntropha lipolytica	54294
+Alicyclobacillus acidocaldarius	405212
+Deferribacter desulfuricans SSM1	639282
+Desulfurobacterium crinifex	206249
+Sulfurihydrogenibium subterraneum	171121
+Thermanaerovibrio velox	108007
+Thermus amyloliquefaciens	1449080
+Alicyclobacillus hesperidum	89784
+Dissulfuribacter thermophilus	1156395
+Thermoanaerobacterium saccharolyticum JW/SL-YS485, DSM 8691	1094508
+Thermoanaerobacterium xylanolyticum LX-11, DSM 7097	858215
+Geobacillus thermokeovorans CCB_US3_UF5	1111068
+Geobacillus toebii	153151
+Anoxybacillus kaynarcensis	1173302
+Caldibacillus debilis	301148
+Caldithrix abyssi LF13, DSM 13497	880073
+Clostridium caenicola DSM 19027	1121300
+Caloramator australicus	515264
+Caloranaerobacter ferrireducens	1323370
+Carboxydocella sporoproducens	285110
+Caminibacter hydrogeniphilus	152526
+Marinitoga litoralis	570855
+Rubrobacter taiwanensis	185139
+Thermosyntropha tengcongensis	873078
+Meiothermus ruber DSM 1279	504728
+Thermus caldifontis	1930763
+Thermodesulfovibrio aggregans	86166
+Deferrisoma palaeochoriense	1573172
+Carboxydocella manganica	744873
+Thermincola ferriacetica	281456
+Anaerobranca californiensis	182411
+Geobacillus caldoxylosilyticus	81408
+Geobacillus lituanicus	169283
+Geobacillus thermodenitrificans	33940
+Anoxybacillus gonensis	198467
+Cetia pacifica	1424653
+Marinitoga okinawensis	389480
+Moorella perchloratireducens	411923
+Oceanotoga teriensis	515440
+Moorella thermoautotrophica	1525
+Acidothermus cellulolyticus 11B	351607
+Anoxybacillus calidus	575178
+Anoxybacillus eryuanensis	651866
+Microaerobacter geothermalis	674972
+Brassicibacter thermophilus	1548890
+Fonticella tunisiensis	1096341
+Methanothrix thermoacetophila Z-517	2224
+Caminibacter mediatlanticus	291048
+Desulfotomaculum nigrificans	1565
+Meiothermus rosaceus	142584
+Meiothermus taiwanensis	172827
+Desulfothermobacter acidiphilus	1938353
+Desulfurella kamchatkensis	79270
+Anoxybacillus kestanbolensis	227476
+Bacillus manusensis	2078954
+Anoxybacillus ayderensis	265546
+Bacillus thermophilus	1245522
+Anoxybacillus bogrovensis	409997
+Pyrinomonas methylaliphatogenes	454194
+Sulfuracidifex tepidarius IC-006	1294262
+Sulfuracidifex tepidarius IC-007	1294262
+Desulfothermus naphthae	392844
+Geobacillus thermoglucosidasius	1426
+Parageobacillus thermoglucosidasius C56-YS93	634956
+Anoxybacillus salavatliensis	198467
+Clostridium thermoautotrophicum	3039167
+Inmirania thermothiophila	1750597
+Calderihabitans maritimus	1246530
+Acetivibrio thermocellus	1515
+Halothermothrix orenii H 168	373903
+Thermosinus carboxydivorans	261685
+Oceanithermus profundus 506, DSM 14977	670487
+Carboxydocella thermautotrophica	178899
+Thermovirga lienii Cas60314, DSM 17291	580340
+Caloramator proteoclasticus	53342
+Thermincola carboxydiphila	278994
+Thermostilla marina	1742923
+Thermoanaerobacterium aciditolerans	242698
+Nautilia lithotrophica	128945
+Thermoanaerobacterium calidifontis	715028
+Lebetimonas acidiphila	267990
+Rubrobacter calidifluminis	1392640
+Rubrobacter naiadicus	1392641
+Alicyclobacillus cellulosilyticus	1003997
+Anoxybacillus thermarum	404937
+Hydrogenophilus hirschii	85993
+Planifilum fulgidum	201973
+Caldanaerobius fijiensis	456330
+Anoxybacillus kamchatkensis	265546
+Desulfurispora thermophila	265470
+Thermoplasma volcanium GSS1	273116
+Tepidimicrobium xylanilyticum	1123352
+Methylothermus thermalis	317575
+Anoxybacillus rupiensis	311460
+Anoxybacillus tepidamans	265948
+Anoxybacillus pushchinensis	150248
+Thermoanaerobacterium aotearoense	47490
+Anoxybacillus vitaminiphilus	581036
+Meiothermus cateniformans	172827
+Anaerobranca horikoshii	42448
+Natrinema thermophila	
+Caloranaerobacter azorensis	116090
+Methanothermococcus thermolithotrophicus SN-1	523845
+Geobacillus thermantarcticus	186116
+Parageobacillus thermantarcticus	186116
+Dichotomicrobium thermohalophilum	933063
+Anoxybacillus amylolyticus	294699
+Thermomarinilinea lacunofontalis	1081799
+Aeribacillus composti	1868734
+Anoxybacillus caldiproteolyticus	247480
+Anoxybacillus geothermalis	311460
+Caldalkalibacillus thermarum	296745
+Caldithrix palaeochoryensis	650508
+Caloramator boliviensis	568790
+Deferribacter abyssi	213806
+Deferribacter thermophilus	53573
+Herbivorax saccincola	1677857
+Kosmotoga arenicorallina	688066
+Methanothrix thermoacetophila CALS-1	2224
+Nautilia abyssi	498371
+Ammoniibacillus agariperforans	1229250
+Desulfotomaculum solfataricum	190967
+Marinitoga hydrogenitolerans 	287990
+Petrotoga halophila	301141
+Petrotoga japonica	665105
+Picrophilus oshimae	46632
+Picrophilus torridus	46632
+Rubrobacter xylanophilus DSM 9941	266117
+Desulfacinum infernum	35837
+Meiothermus luteus	2026184
+Oceanithermus desulfurans	227924
+Thermonema rossianum	55505
+Geobacillus jurassicus	235932
+Petrotoga mobilis	69499
+Planifilum fimeticola	201975
+Mesoaciditoga lauensis	1495039
+Acetomicrobium flavidum	49896
+Thermacetogenium phaeum PB, DSM 12270	1089553
+Moorella glycerini	55779
+Thermicanus aegyptius	94009
+Clostridium clariflavum EBR 45, DSM 19732	720554
+Caminicella sporogenes	166485
+Defluviitalea phaphyphila	1473580
+Methylothermus subterraneus	697197
+Desulfotomaculum peckii	1236215
+Desulfotomaculum thermoacetoxidans	58136
+Acetomicrobium mobile DSM 13181	891968
+Meiothermus rufus	604332
+Meiothermus timidus	307124
+Marinithermofilum abyssi	1571185
+Moorella thermoacetica ATCC 39073	264732
+Thermosynechococcus elongatus BP-1	197221
+Defluviitoga tunisiensis	1006576
+Alicyclobacillus sendaiensis	192387
+Alicyclobacillus vulcanalis	252246
+Kyrpidia tusciae T2, DSM 2912	562970
+Bellilinea caldifistulae	360411
+Geobacillus uzenensis	129339
+Bacillus aeolius	203540
+Bacillus borbori	1245521
+Litorilinea aerophila 	1204385
+Caldilinea tarbellica	859243
+Caldilinea aerophila STL-6-O1, DSM 14535	926550
+Coprothermobacter platensis	108819
+Calditerrivibrio nitroreducens Yu37-1, DSM 19672	768670
+Geothermobacter ehrlichii	213224
+Cellulosibacter alkalithermophilus	630405
+Hydrogenimonas thermophila	223786
+Hydrogenophilus islandicus	545536
+Kallotenue papyrolyticum	1325125
+Herbinix luporum	1679721
+Methanoculleus thermophilus	2200
+Methanothrix thermoacetophila PT	349307
+Caminibacter profundus	217041
+Nautilia nitratireducens	646273
+Nitratiruptor sp SB155-2	387092
+Brevibacillus aydinogluensis	927786
+Pelotomaculum thermopropionicum SI	370438
+Marinitoga camini	106262
+Petrotoga mexicana	204046
+Petrotoga miotherma	28237
+Caenibacillus caldisaponilyticus	1674942
+Symbiobacterium ostreiconchae	471799
+Acetomicrobium hydrogeniformans	649746
+Meiothermus silvanus VI-R2, DSM 9946	526227
+Thermus silvanus	52022
+Laceyella sediminis	573074
+Thermogemmatispora carboxidivorans	1382306
+Albidovulum xiamenense	990712
+Hippea maritima MH2, DSM 10411	760142
+Thermodesulfobium narugense Na82, DSM 14796	747365
+Caldisalinibacter kiritimatiensis	1304284
+Caloramator coolhaasii	95159
+Methanoculleus receptaculi	394967
+Brevibacillus sediminis	1707527
+Anaerobranca gottschalkii	108328
+Thermotunica guangxiensis	1248146
+Melghirimyces profundicolus	1242148
+Thermoanaerobacterium butyriciformans	1702242
+Thermomonospora catenispora	2493090
+Tepidimonas ignava	114249
+Thiomonas thermosulfata	40991
+Tepidibacillus fermentans	1281767
+Dissulfurimicrobium hydrothermale	1750598
+Meiothermus roseus	1644118
+Laceyella thermophila	1644115
+Lihuaxuella thermophila	1173111
+Novibacillus thermophilus	1471761
+Caloribacterium cisternae	996765
+Thermomonospora curvata DSM 43183	471852
+Actinomadura rubrobrunea	115335
+Actinomadura viridilutea	58112
+Thermomonospora curvata	2020
+Vulcaniibacterium thermophilum	1169913
+Amphiplicatus metriothermophilus	1519374
+Acidiplasma aeolicum	507754
+Symbiobacterium thermophilum	2734
+Thermobispora bispora R51, DSM 43833	469371
+Ureibacillus thermosphaericus	51173
+Desulfacinum hydrothermale	109258
+Caloramator viterbiensis	112729
+Desulfonauticus autotrophicus	564288
+Anaerobranca zavarzinii	436000
+Anoxybacillus voinovskiensis	230470
+Caldalkalibacillus uzonensis	353224
+Thermoplasma acidophilum DSM 1728	273075
+Methanosarcina thermophila CHTI-55	1434121
+Thermobacillus xylanilyticus	76633
+Desulfurella propionica	79271
+Lebetimonas natsushimae	1936991
+Acidiplasma cupricumulans	312540
+Ferroplasma cupricumulans BH2	312540
+Sinibacillus soli	1289106
+Thermoanaerobacterium thermosaccharolyticum M0795	698948
+Desulfosoma caldarium	610254
+Herbinix hemicellulosilytica	1564487
+Methylocaldum szegediense	73780
+Desulfotomaculum thermobenzoicum	29376
+Melghiribacillus thermohalophilus	1324956
+Thermasporomyces composti	696763
+Thiobacter subterraneus	279810
+Deferrisoma camini	1035120
+Tepidimicrobium ferriphilum	285106
+Clostridium thermobutyricum	29372
+Thermoascus aurantiacus	5087
+Thermobacillus composti KWC4, DSM 18247	717605
+Bacillus kokeshiiformis	1247960
+Tepidiphilus margaritifer	203471
+Haloterrigena limicola	370323
+Thermomyces ibadanensis 	209537
+Alicyclobacillus herbarius	122960
+Lutispora thermophila	288966
+Effusibacillus pohliae	232270
+Anaerolinea thermophila UNI-1	926569
+Anoxybacillus suryakundensis	1325335
+Bacillus methanolicus	1471
+Vulcanibacillus modesticaldus	337097
+Crenotalea thermophila	1393122
+Chloroflexus aggregans DSM 9485	326427
+Caloramator mitchellensis	908809
+Caldimonas hydrothermale	391358
+Caldimonas taiwanensis	307483
+Petrothermobacter organivorans	1856807
+Desulfomicrobium thermophilum	380392
+Garciella nitratireducens	218205
+Tepidiphilus succinatimandens	224436
+Athalassotoga saccharophila	1441386
+Methanocella conradii HZ254	1041930
+Methylacidiphilum kamchatkense	431057
+Halopiger goleimassiliensis	1293048
+Paenibacillus marinum	1033264
+Desulfotomaculum hydrothermale	412895
+Petrotoga olearia	156203
+Ureibacillus composti	367742
+Ureibacillus composti	720633
+Ureibacillus defluvii	1245527
+Saccharomonospora viridis P101, DSM 43017	471857
+Sporolituus thermophilus	608505
+Symbiobacterium terraclitae	557451
+Acetomicrobium thermoterrenum	1120986
+Desulfosoma profundi	869805
+Syntrophothermus lipocalidus DSM 12680	643648
+Meiothermus cerbereus	65552
+Thermoactinomyces daqus	1329516
+Thermodesulfovibrio thiophilus	340095
+Thermotomaculum hydrothermale	981385
+Pseudoxanthomonas taiwanensis	176598
+Calorithrix insularis	1852309
+Tepidimonas fonticaldi	1101373
+Tepidimonas taiwanensis	307486
+Melioribacter roseus P3M	1191523
+Alicyclobacillus kakegawensis	392012
+Alicyclobacillus macrosporangiidus	392015
+Alicyclobacillus contaminans	392016
+Sulfobacillus thermosulfidooxidans	28034
+Defluviitalea raffinosedens	1450156
+Defluviitalea saccharophila	879970
+Tepidiphilus thermophilus	876478
+Sulfurivirga caldicuralii	364032
+Tuberibacillus calidus	340097
+Geothermomicrobium terrae	1411133
+Gelria glutamica	159343
+Tepidimonas thermarum	335431
+Tepidiforma bonchosmolovskayae	2601677
+Effusibacillus lacus	1348429
+Chaetomium thermophilum	209285
+Crassicarpon thermophilum	2588716
+Truepera radiovictrix	332249
+Anoxybacillus contaminans	225988
+Bacillus composti	1245523
+Bacillus hisashii	996558
+Bacillus sediminis	1274353
+Bacillus thermocopriae	1215031
+Bacillus thermolactis	251051
+Compostibacillus humi	1245525
+Georgenia sediminis	1242744
+Chroococcidiopsis sp strain TS-821	1378066
+Clostridium tepidiprofundi	420412
+Schlegelella aquatica	376175
+Desulfothermus okinawensis	392842
+Haloterrigena hispanica	392421
+Haloterrigena thermotolerans PR5	121872
+Methanonatronarchaeum thermophilum	1927129
+Desulfotomaculum thermosapovorans	58137
+Desulfotomaculum tongense	1216062
+Tepidibacter thalassicus	214905
+Raineya orbicola	2016530
+Schleiferia thermophila	884107
+Scopulibacillus daqui	1469162
+Thermoactinospora rubra	1088767
+Thermus chliarophilus	52023
+Calidithermus chliarophilus	52023
+Kroppenstedtia guangzhouensis	1274356
+Thermostaphylospora grisealba	1490296
+Thermosporothrix narukonensis	1445971
+Thermomonas hydrothermalis	213588
+Mahella australiensis 50-1 BON, DSM 15567	697281
+Exilispira thermophila	478105
+Alicyclobacillus pomorum	204470
+Alicyclobacillus shizuokensis	392014
+Bacillus okuhidensis	86665
+Gracilibacillus halophilus	470864
+Paenibacillus tezpurensis	627231
+Fontimonas thermophila	1076937
+Melghirimyces algeriensis	910412
+Tepidanaerobacter syntrophicus	224999
+Thermomyces dupontii	28565
+Thermomyces lanuginosus	5541
+Tepidimonas sediminis	2588941
+Nonomuraea thermotolerans	1490292
+Crenalkalicoccus roseus	1485588
+Bacillus kexueae	2078952
+Bacillus thaonhiensis	1178786
+Desulfonauticus submarinus	206665
+Ferroplasma thermophilum L1	1334192
+Halanaerobacter jeridensis	706427
+Sporohalobacter salinus	1494606
+Halopiger thermotolerans	1383816
+Thermobifida fusca YX	269800
+Cohnella laeviribosi	380174
+Desulfotomaculum profundi	1383067
+Geotoga subterranea	28235
+Pseudonocardia thermophila	1848
+Tepidicella baoligensis	2707016
+Paenibacillus thermophilus	44252
+Saccharopolyspora subtropica	89367
+Pueribacillus theae	2171751
+Salinigranum halophilum	2565931
+Aneurinibacillus sediminis	1776164
+Thermoascus crustaceus	5088
+Phormidium boryanum	415230
+Chloroflexus islandicus	1707952
+Thermanaerovibrio acidaminovorans Su883, DSM 6589	525903
+Paenibacillus thermoaerophilus	1215385
+Desulfotomaculum alkaliphilum	105483
+Chloracidobacterium thermophilum B	981222
+Aciditerrimonas ferrireducens	667306
+Tepidibacillus infernus	1806172
+Methanomethylovorans thermophila	286152
+Thermosporothrix hazakensis	644383
+Dissulfurirhabdus thermomarina	1765737
+Alterococcus agarolyticus	78554
+Laceyella putida	110101
+Thermocatellispora tengchongensis	1073253
+Halorubrum lipolyticum	368624
+Brevibacillus thermoruber	33942
+Paramaledivibacter caminithermalis	191027
+Haloterrigena saccharevitans	301967
+Desulfotomaculum intricatum	1285191
+Mycothermus thermophilus	85995
+Oceanicella actignis	1189325
+Halorhabdus rudnickae	1775544
+Nitratiruptor tergarcus	269259
+Haloterrigena turkmenica 4k	62320
+Chelativorans composti	768533
+Meiothermus hypogaeus	884155
+Thermochromatium tepidum	1050
+Natranaerobaculum magadiense	929101
+Halobiforma lacisalsi	229731
+Natranaerobius thermophilus JW/NM-WN-LF	457570
+Heliobacterium modesticaldum Ice1	35701
+Natronolimnobius aegyptiacus, Strain JW/NM-HA 15	745377
+Natronovirga wadinatrunensis	759415
+Halorubrum coriense	64713
+Halorubrum saccharovorum	2248
+Rubellimicrobium thermophilum	295419
+Tepidisphaera mucosa	1546155
+Heliothrix oregonensis	1110
+Pseudomonas thermotolerans	157784
+Cyanidioschyzon merolae	45157
+Cyanidium caldarium	2771
+Haloterrigena longa	370324
+Petrotoga sibirica 	156202
+Haloferax elongans	403191
+Thermoactinomyces khenchelensis	1470181
+Natranaerobius trueperi	759412
+Clostridium isatidis	182773
+Alicyclobacillus acidiphilus	182455
+Anaerolinea thermolimosa	229919
+Bacillus fumarioli	105229
+Cerasibacillus quisquiliarum	227865
+Caloramator quimbayensis	1147123
+Fervidicella metallireducens	655338
+Thermotalea metallivorans	520762
+Porphyrobacter cryptus	196588
+Haloterrigena mahii	1416969
+Halorhabdus utahensis  AX-2	519442
+Haloferax denitrificans	35745
+Anaerophaga thermohalophila	177400
+Thermophagus xiamenensis	385682
+Methanolinea tarda NOBI-1	882090
+Methanosarcina thermophila TM-1	523844
+Natrialba hulunbeirensis	123783
+Desulfotomaculum ferrireducens	1833852
+Desulfotomaculum varum	886292
+Geotoga petraea	28234
+Roseiflexus castenholzii HLO8, DSM 13941	383372
+Rubrobacter spartanus	1933902
+Thioprofundum lithotrophicum	571898
+Paecilomyces varioti	264951
+Hypnocyclicus thermotrophus	1627895
+Haloferax mucosum	403181
+Halopelagius longus	1236180
+Thermothelomyces thermophilus	78579
+Alicyclobacillus sacchari	392010
+Alicyclobacillus acidoterrestris	1450
+Clostridium tepidum	1962263
+Haloferax mucosum	403181
+Haloparvum alkalitolerans	1042953
+Limnochorda pilosa	1555112
+Methylomarinovum caldicuralii	438856
+Aneurinibacillus danicus	267746
+Paenibacillus cisolokensis	1658519
+Tepidamorphus gemmatus	747076
+Meiothermus granaticius	863370
+Thermoactinomyces guangxiensis	1490290
+Thauera hydrothermalis	2184083
+Deinococcus geothermalis DSM 11300	319795
+Actinomyces ruminicola	332524
+Natronorubrum sulfidifaciens AD2	1230460
+Roseomonas alkaliterrae	1452450
+Alicyclobacillus montanus	90970
+Rhabdanaerobium thermarum	1715347
+Halosiccatus urmianus	1586233
+Halarchaeum nitratireducens MH1-136-2	489913
+Halobacterium jilantaiense	355548
+Natronomonas pharaonis NCMB 2190	2257
+Natronorubrum bangense A33	61858
+Natronorubrum tibetense GA33	1114856
+Halorhabdus tiamatea SARL4B	1033806
+Halobellus limi	699433
+Halobaculum magnesiiphilum	1017351
+Ignavibacterium album	591197
+Methanobacterium ivanovii	2163
+Methanocella arvoryzae MRE50(T)	351160
+Methanococcus aeolicus Nankai-3	419665
+Methanoculleus submarinus	204050
+Methanosarcina flavescens sp E03.2	1715806
+Natrarchaeobius halalkaliphilus	1679091
+Natrialba chahannaoensis	68911
+Crenobacter luteus	1452487
+Nocardiopsis yanglingensis	672459
+Tepidibacter formicigenes	227138
+Curvularia protuberata	671092
+Prauserella oleivorans	1478153
+Actinomadura amylolytica	1411117
+Actinomadura cellulosilytica	1411118
+Actinomadura keratinilytica	547461
+Coralloluteibacterium thermophilus	2707049
+Rehaibacterium terrae	1341696
+Vulcaniibacterium tengchongense	1273429
+Tepidicella xavieri	360241
+Tepidimonas alkaliphilus	2588942
+Halarsenatibacter silvermanii	321763
+Haloferax larsenii	302484
+Annwoodia aquaesulis	47959
+Alicyclobacillus fastidiosus	392011
+Lutaonella thermophila	488549
+Halarchaeum solikamskense	489913
+Brevibacillus fulvus	1125967
+Brevibacillus levickii	278990
+Paludifilum halophilum	1642702
+Rasamsonia emersonii	68825
+Remersonia thermophila	72144
+Geosporobacter subterraneus	390806
+Halomicrobium zhouii	767519
+Haloterrigena salifodinae	2675099
+Halorubrum arcis	29283
+Tibeticola sediminis	1917811
+Altererythrobacter lauratis	2054627
+Altererythrobacter palmitatis	2054628
+Muricauda lutaonensis	516051
+Halogeometricum rufum	553469
+Halorubrum aethiopicum	1758255
+Isosphaera pallida	128
+Aneurinibacillus terranovensis	278991
+Gemmobacter intermedius	1553448
+Jhaorihella thermophila	488547
+Ruegeria intermedia	996115
+Thermoascus aegyptiacus	1394850
+Nautilia profundicola Am-H	598659
+Oscillatoria terebriformis	159849
+Streptoalloteichus hindustanus	2017
+Gracilibacter thermotolerans	342666
+Natronolimnobius innermongolicus	253107
+Haloarcula quadrata	182779
+Alicyclobacillus cycloheptanicus	1457
+Flexistipes sinusarabici MAS10, DSM 4947	717231
+Silanimonas lenta	265429
+Crassicarpon hotsonii	2588717
+Natrarchaeobius chitinivorans	1679083
+Natronobiforma cellulositropha	1679076
+Natrinema versiforme	88724
+Deinococcus murrayi	68910
+Hydrotalea sandarakina	1004304
+Natrinema salaciae	1186196
+Desulfurella amilsii	1562698
+Mizugakiibacter sediminis	1475481
+Chlorobium tepidum	1097
+Chaetomium mesopotamicum 	
+Acidithiobacillus caldus	33059
+Thermithiobacillus tepidarius	929
+Thielavia terrestris	2587410
+Methylobacillus flagellatus	405
+Haloarcula amylolytica	396317
+Halorubrum aidingense	368623
+Thiofaba tepidiphila	444162
+Desulfotomaculum alcoholivorax	265477
+Haloferax prahovense	381852
+Haloferax chudinovii	1109010
+Ferroplasma acidarmanus DRI	97393
+Ferroplasma acidarmanus MT17	97393
+Halobacterium salinarum R1, DSM 671	478009
+Extensimonas vulgaris	1031594
+Gracilibacillus halotolerans	74386
+Caldovatus sediminis	2041189
+Actinopolyspora mortivallis	33906
+Alicyclobacillus tengchongensis	90970
+Bacillus andreesenii	1325932
+Bacillus pervagus	1325931
+Cecembia calidifontis	1187080
+Haloarcula argentinensis	43776
+Halarchaeum grantii	1193105
+Halarchaeum nitratireducens MH1-370-1	489913
+Halobacterium hubeiense JI20-1	1407499
+Halanaerobacter salinarius	63129
+Halorubrum distributum	29283
+Halorubrum gandharaense	1334262
+Mesotoga infera	1236046
+Methanosarcina barkeri MS	1434108
+Methanolobus zinderi	536044
+Halovarius luteus	1586232
+Natronorubrum aibiense	348826
+Petrimonas mucosa	1642646
+Amycolatopsis deserti	185696
+Kroppenstedtia eburnea	714067
+Sulfurivermis fontis	1972068
+Halopolyspora alba	1348092
+Methanoculleus bourgensis sp MAB1	83986
+Porphyrobacter tepidarius	60454
+Ornatilinea apprima	1134406
+Desulfoplanes formicivorans	1592317
+Halorubrum trueperi	2004704
+Halorubrum yunnanense	1526162
+Halanaerobium sehlinense	1076695
+Tranquillimonas alkanivorans	441119
+Thermothelomyces hinnuleus	225406
+Clostridiisalibacter paucivorans	408753
+Clostridium quinii	36850
+Halarchaeum rubridurum	489911
+Orenia salinaria	85450
+Natronococcus amylolyticus	44470
+Sphingobacterium thermophilum	768534
+Halovenus rubra	869890
+Halanaerobaculum tunisiense	503834
+Haloparvum sedimenti	1678448
+Halorubrum salsamenti	2583990
+Nesterenkonia alba	515814
+Salisaeta longa	503170
+Phenylobacterium terrae	2665495
+Clostridium perfringens	1502
+Cecembia rubra	1485585
+Deinobacterium chartae	521158
+Maribacter thermophilus	1197874
+Halalkalicoccus jeotgali	413810
+Haloterrigena jeotgali	121872
+Natronoarchaeum philippinense	558529
+Halorubrum terrestre	29283
+Halopiger salifodinae	1202768
+Natronococcus jeotgali	413812
+Natronococcus roseus	1052014
+Rummeliibacillus suwonensis	1306154
+Streptomyces calidiresistens	1485586
+Hydrogenispora ethanolica	1082276
+Thielavia pingtungia 	223384
+Alicyclobacillus dauci	1475485
+Gracilibacillus kekensis	1027249
+Gracilibacillus lacisalsi	393087
+Virgibacillus chiguensis	411959
+Rhodohalobacter halophilus	1812810
+Bifidobacterium aerophilum	1798155
+Bifidobacterium avesanii	1798157
+Bifidobacterium ramosum	1798158
+Alkaliphilus transvaalensis	114628
+Algoriphagus kandeliae	2562278
+Desulfocurvus thunnarius	1312905
+Catenisphaera adipataccumulans	700500
+Geoalkalibacter subterraneus	483547
+Halanaerobium lacusrosei	42859
+Haloarcula hispanica	51589
+Halorientalis persicus	1367881
+Halosimplex litoreum	1198301
+Halostella salina	1547897
+Halovenus aranensis	890420
+Halanaerobacter chitinivorans	42419
+Halococcus salifodinae	36738
+Halogeometricum borinquense	60847
+Haloplanus vescus	555874
+Halobaculum roseum	2175149
+Halohasta litorea	869891
+Halopenitus malekzadehii	1267564
+Halopenitus persicus	1048396
+Halorubrum orientale	376415
+Halorubrum sodomense	35743
+Halorubrum tebenquichense	119434
+Halorubrum vacuolatum	63740
+Methanoculleus palmolei	72612
+Nesterenkonia alkaliphila	1463631
+Halovivax cerinus	1487865
+Salinarchaeum chitinilyticum	1395169
+Brevibacillus gelatini	1655277
+Salinifilum proteinilyticum	1851175
+Paracoccus kondratievae	135740
+Limimonas halophila	1082479
+Longibacter salinarum	1850348
+Streptococcus thermophilus	1308
+Desmospora profundinema	1571184
+Salinithrix halophila	1485204
+Thermomyces stellatus 	2075419
+Sporanaerobacter acetigenes	165813
+Methanococcus aeolicus Nankai-2	419665
+Acidibacillus sulfuroxidans	1765684
+Haloferax volcanii	2246
+Exiguobacterium profundum	307643
+Salinibacillus aidingensis	237684
+Maledivibacter halophilus	36842
+Micromonospora chersina	47854
+Bifidobacterium callitrichidarum	2052941
+Haloimpatiens lingqiaonensis	1380675
+Haloarchaeobius baliensis	1670458
+Deinococcus misasensis	392413
+Bhargavaea indica	627618
+Tepidicaulis marinus	1333998
+Caecibacterium sporoformans	915180
+Sporosalibacterium faouarense	516123
+Methanohalophilus portucalensis	39664
+Desulfovibrio alkalitolerans	293256
+Halanaerocella petrolearia	644790
+Halococcus agarilyticus	1232219
+Methylocaldum tepidum	73781
+Nitrososphaera viennensis	1034015
+Anaerotignum lactatifermentans	160404
+Saccharedens versatilis	1680761
+Thalassobacillus hwangdonensis	546108
+Aridibacter kavangonensis	1384639
+Halalkalicoccus tibetensis	175632
+Desulfotomaculum arcticum	341036
+Cellulosilyticum ruminicola	425254
+Sulfurifustis variabilis	1675686
+Thalassospira povalilytica	732237
+Ferroplasma acidarmanus Fer1	333146
+Naegleria fowleri	5763
+Clostridium cavendishii	349931
+Natronolimnobius baerhuensis	253108
+Bifidobacterium myosotis	1630166
+Rhodoplanes azumiensis	1897628
+Rhodoplanes tepidamans	200616
+Pseudobacteroides cellulosolvens	35825
+Melanocarpus albomyces	204285
+Malbranchea cinnamomea	5041
+Haloarcula japonica	29282
+Haloquadratum walsbyi	293091
+Halonotius pteroides	268735
+Methanobacterium aarhusense	256826
+Caproiciproducens galactitolivorans	642589
+Hazenella coriacea	1179467
+Thalassospira tepidiphila	393657
+Ornithinibacillus bavariensis	545502
+Halanaerobium congolense	54121
+Halosimplex pelagicum	869886
+Halosimplex rubrum	869889
+Halorubrum glutamatedens	2707018
+Mycobacterium heckeshornense	110505
+Desulfotomaculum aquiferis	1397668
+Dethiosulfovibrio peptidovorans	47055
+Clostridium acetireducens	76489
+Coprococcus catus	116085
+Coprococcus comes	410072
+Coprococcus eutactus	33043
+Methanobacterium formicicum	2162
+Microvirga lotononidis	864069
+Mycobacterium shimoidei	29313
+Streptomyces gulbargensis	364901
+Alicyclobacillus fodiniaquatilis	1661150
+Geobacillus subterraneus	129338
+Alteribacillus persepolensis	568899
+Bacillus halosaccharovorans	930124
+Thalassobacillus cyri	571932
+Plasticicumulans lactativorans	1133106
+Anaerosolibacter carboniphilus	1417629
+Geosporobacter ferrireducens	1424294
+Deinococcus metallilatus	1211322
+Desulfovibrio bizertensis	376490
+Desulfovibrio capillatus	218206
+Desulfovibrio salinus	1721088
+Desulfovibrio senegalensis	1721087
+Enterococcus asini	57732
+Haloarcula vallismortis	28442
+Haladaptatus paucihalophilus	367189
+Natronomonas gomsonensis	1046043
+Fuchsiella alkaliacetigena	957042
+Halomonas endophytica	2033802
+Rhodoplanes tepidicaeni	1897629
+Marinicauda algicola	2029849
+Lactobacillus nasuensis	944671
+Methanobacterium aggregans	1615586
+Methanobacterium ferruginis	710191
+Methanobacterium kanagiense	483896
+Methanobacterium uliginosum	83983
+Methanomicrobium mobile	2205
+Microvirga pakistanensis	1682650
+Natrinema soli	1930624
+Oscillibacter ruminantium	1263547
+Terrisporobacter petrolearius	1460447
+Rhodosalinus sediminis	1940533
+Rhodovibrio salinarum	1087
+Rhodothalassium salexigens	1086
+Sphingomonas astaxanthinifaciens	407019
+Streptomyces deccanensis	424188
+Aminobacterium thunnarium	1482737
+Mongoliimonas terrestris	1709001
+Methanococcus aeolicus PL-15/H	42879
+Methanococcus voltae PS	523842
+Methanofollis tationis	81417
+Pseudogracilibacillus endophyticus	1534102
+Limnobacter litoralis	481366
+Methanofollis liminatans	2201
+Eubacterium oxidoreducens	1732
+Halarchaeum salinum	489912
+Mycobacterium arosiense	425468
+Mycobacterium genavense	36812
+Magnetospirillum bellicus	425942
+Methanobacterium oryzae	69540
+Methanofollis formosanus	299308
+Methanolacinia paynteri	230356
+Ilyobacter delafieldii	933068
+Methanolacinia petrolearia	54120
+Methanoplanus limicola	2315
+Selenomonas lipolytica	60695
+Selenomonas noxia	135083
+Desulfosalsimonas propionicica	332175
+Microbulbifer rhizosphaerae	1562603
+Aeropyrum pernix K1	272557
+Thermofilum carboxyditrophus 1505	697581
+Sulfolobus islandicus M.14.25	1132497
+Thermococcus barophilus CH5	55802
+Thermococcus sp 2319x1	1674923
+Thermogladius cellulolyticus	1200300
+Sulfolobus solfataricus 98/2 SULC	555311
+Sulfolobus solfataricus SULB	2287
+Thermococcus bergensis 7324	2689387
+Thermotoga sp RQ7	126740
+Sulfolobus islandicus L.D.8.5	425944
+Sulfolobus islandicus L.S.2.15	429572
+Sulfolobus islandicus M.16.27	1132497
+Sulfolobus islandicus M.16.4	1132497
+Sulfolobus islandicus REY15A	930945
+Sulfolobus islandicus Y.G.57.14	439386
+Dictyoglomus turgidum DSM 6724	515635
+Thermus oshimai	56957
+Clostridium stercorarium	1510
+Metallosphaera yellowstonensis	1111107
+Thermus scotoductus	37636
+Thermoanaerobacter sp X513	573062
+Thermoanaerobacter sp X514	573062
+Methanothermobacter defluvii ADZ	49339
+Roseiflexus sp RS-1	357808
+Sulfolobus islandicus Y.N.15.51	419942
+Synechococcus bigranulatus	375896
+Bacillus coagulans MA-13	941639
+Methanothermobacter thermautotrophicus CaT2	145262
+Methanothermobacter thermoflexum IDZ	49340
+Methanothermobacter thermophilus	49341
+Thermincola potens JR	635013
+Sphaerobacter thermophilus 4ac11, DSM 20745	479434
+Bacillus licheniformis ATCC 14580	766760
+Halobacterium noricense	223182
+Methanohalobium evestigatum Z-7303, DSM 3721	644295
+Halorhodospira halochloris A	1052
+Acidimicrobium ferrooxidans	53635
+Thermoascus thermophilus	1131473
+Thermothelomyces thermophila	78579
+Sulfobacillus acidophilus NAL, DSM 10332	679936
+Halorhodospira halophila	1053
+Methanohalophilus zhilinae	39669
+Canariomyces thermophila	2587388
+Thermoanaerobacter wiegelii Rt8.B1	697303
+Zygogonium ericetorum	1563981
+Caldanaerobacter hydrothermalis	420335
+Caldanaerobacter proteolyticus	477278
+Hydrogenobaculum sp 3684 ((Finished QAed))	547143
+Hydrogenobaculum sp HO	547144
+Hydrogenobaculum sp SHO (Final Finished Sequence)	
+Hydrogenobaculum sp SN	547146
+Hydrogenobaculum sp Y04AAS1	380749
+Hydrogenobacter hydrogenophilus	35835
+Geobacillus sp Y412MC61	581103
+Bacillus sp IFA 119	1120320
+Calothrix thermalis	1887325
+Methylacidiphilum infernorum V4	481448
+Geotoga aestuarianus	195750
+Streptomyces bingchenggensis BCW-1	749414
+Thermus caldophilus	272
+Thermus nonproteolyticus	116039
+Thermopallium natronophilum	42735

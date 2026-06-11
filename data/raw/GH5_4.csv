@@ -1,0 +1,51 @@
+Unnamed: 0,Organism,GH_family,EC_number,GenBank_accession,UniProt_accession,PDB
+0,acetivibrio thermocellus,GH5_4,3.2.1.4,AAA23224.1,P10477,"4IM4[A,B,C,D,E,F]"
+1,bacillus licheniformis dsm 13 = atcc 14580,GH5_4,3.2.1.4,AAU40777.1,Q65JI7,"4YZP[A], 4YZT[A]"
+2,bacillus sp. bg-cs10,GH5_4,3.2.1.4,ADD62401.1,D4P8C6,"5E09[A], 5E0C[A], 5XRC[A,B,C]"
+3,bacteroidetes bacterium ac2a,GH5_4,3.2.1.4,AIJ19564.1,A0A076MPD7,"4YHE[A,B]"
+4,butyrivibrio fibrisolvens h17c,GH5_4,3.2.1.4,CAA35574.1,P20847,
+5,cellulosilyticum ruminicola cgmcc 1.5065,GH5_4,3.2.1.4,ACZ98591.1,D2KFI9,
+6,clostridiaceae bacterium an-c16-kbrb,GH5_4,3.2.1.4,ADK66823.1,E0A3Q5,
+7,clostridium cellulovorans 743b,GH5_4,3.2.1.4,AAA23231.1,C5RHC3,
+8,clostridium cellulovorans atcc 35269,GH5_4,3.2.1.4,AAA23233.1,P28623,"3ICG[A,B,C,D], 3NDY[A,B,C,D], 3NDZ[A,B,C,D]"
+9,clostridium cellulovorans atcc 35269,GH5_4,3.2.1.4,AAD39739.1,D9SV64,6UI3[A]
+10,clostridium longisporum,GH5_4,3.2.1.4,AAC37035.1,P54937,"6Q1I[A,B]"
+11,eubacterium cellulosolvens 5,GH5_4,3.2.1.4,BAE46390.1,Q3LHN3,
+12,eubacterium cellulosolvens 5,GH5_4,3.2.1.4,BAE46390.1,Q3LHN3,
+13,fibrobacter succinogenes subsp. succinogenes s85,GH5_4,3.2.1.4,ACX76661.1,C9RQB4,
+14,fibrobacter succinogenes subsp. succinogenes s85,GH5_4,3.2.1.4,AAB38548.1,C9RNQ8,
+15,geobacillus thermodenitrificans t81,GH5_4,3.2.1.4,ATG84593.1,A0A291I5R3,
+16,halalkalibacterium halodurans c-125,GH5_4,3.2.1.4,BAB04322.1,Q9KF82,4V2X[A]
+17,lachnoclostridium phytofermentans isdg,GH5_4,3.2.1.4,ABX42426.1,A9KIH4,
+18,paenibacillus barcinonensis bp-23,GH5_4,3.2.1.4,CAA73113.1,O08342,
+19,paenibacillus lautus pl236,GH5_4,3.2.1.4,AAA22408.1,P23550,
+20,paenibacillus polymyxa gs01,GH5_4,3.2.1.4,ABV08876.1,A9Q742,
+21,paenibacillus xylanilyticus kj-03,GH5_4,3.2.1.4,AFC68970.1,H9A9K4,
+22,ruminiclostridium cellulolyticum h10,GH5_4,3.2.1.4,AAA23221.1,P17901,1EDG[A]
+23,ruminococcus albus f-40,GH5_4,3.2.1.4,AAA26469.1,P16216,
+24,ruminococcus albus f-40,GH5_4,3.2.1.4,BAA92146.1,Q9LCC5,
+25,ruminococcus albus f-40,GH5_4,3.2.1.4,BAA92430.1,Q9LCC4,
+26,ruminococcus albus sy3,GH5_4,3.2.1.4,AAA26467.1,P23660,
+27,ruminococcus albus sy3,GH5_4,3.2.1.4,CAA38693.1,P23661,
+28,ruminococcus champanellensis 18p13 = jcm 17042,GH5_4,3.2.1.4,CBL16523.1,D4LA78,
+29,ruminococcus flavefaciens 17,GH5_4,3.2.1.4,CAB05881.1,O05143,
+30,saccharophagus degradans 2-40,GH5_4,3.2.1.4,ABD81896.1,Q21HD3,
+31,salinivibrio sp. ntu-05,GH5_4,3.2.1.4,ACJ71329.1,B8XGR7,
+32,xylanibacter ruminicola 23,GH5_4,3.2.1.4,AAC36862.1,D5EV54,
+33,xylanibacter ruminicola ar20,GH5_4,3.2.1.4,1814455A,,
+34,epidinium caudatum,GH5_4,3.2.1.4,BAC57893.1,Q86S92,
+35,epidinium caudatum,GH5_4,3.2.1.4,BAA76394.1,Q9XXV3,
+36,epidinium ecaudatum,GH5_4,3.2.1.4,CAH69214.1,Q5F324,
+37,neocallimastix frontalis,GH5_4,3.2.1.4,AAC63094.1,Q01409,
+38,neocallimastix patriciarum,GH5_4,3.2.1.4,AAE59927.1,Q12647,
+39,neocallimastix patriciarum w5,GH5_4,3.2.1.4,AAC06321.1,O59943,
+40,neocallimastix patriciarum w5,GH5_4,3.2.1.4,AAC06321.1,H2BPT1,
+41,neocallimastix patriciarum w5,GH5_4,3.2.1.4,AAC06321.1,H2BPT1,
+42,orpinomyces joyonii sg4,GH5_4,3.2.1.4,AAB69348.1,O13334,
+43,orpinomyces joyonii sg4,GH5_4,3.2.1.4,AAB69347.1,O13333,
+44,orpinomyces sp. pc-2,GH5_4,3.2.1.4,AAD04193.1,P78719,
+45,orpinomyces sp. pc-2,GH5_4,3.2.1.4,AAC05164.1,Q9HFE0,
+46,penicillium decumbens 114-2,GH5_4,3.2.1.4,AFG25592.1,H9TUB0,
+47,piromyces rhizinflatus 2301,GH5_4,3.2.1.4,AAF00074.2,Q9URH5,"3AYR[A], 3AYS[A]"
+48,piromyces rhizinflatus 2301,GH5_4,3.2.1.4,AAD43818.1,Q9Y870,
+49,piromyces sp. equi,GH5_4,3.2.1.4,CAB92326.1,Q9P867,
